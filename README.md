@@ -68,8 +68,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Takeda** | Biolife - Licensed Practical Nurse (LPN) | OK | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Del-City/Biolife---Licensed-Practical-Nurse--LPN-_R0184252-1) |
-| **Takeda** | Biolife Registered Nurse (RN) | OK | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Del-City/Biolife-Registered-Nurse--RN-_R0184283-1) |
+| **Takeda** | Biolife - Licensed Practical Nurse (LPN) | OK | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Del-City/Biolife---Licensed-Practical-Nurse--LPN-_R0184252-1) |
+| **Takeda** | Biolife Registered Nurse (RN) | OK | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Del-City/Biolife-Registered-Nurse--RN-_R0184283-1) |
 | **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Southern-California---San-Diego-and-Anaheim-_REQ-29092) |
 | **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Central-California---Los-Angeles---San-Bernardino-_REQ-29091) |
 | **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Northern-California---San-Francisco--San-Jose--Sacramento-_REQ-29090) |
@@ -137,10 +137,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **Bristol Myers Squibb** | Protein Analytics Scientist | CA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Brisbane---CA---US/Protein-Analytics-Scientist_R1603235) |
-| **Eurofins** | Analytical Chemist | St. Louis, MO | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000136321664) |
-| **Eurofins** | Bioconjugation Scientist | Indianapolis, IN | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000136324499) |
+| **Eurofins** | Analytical Chemist | St. Louis, MO | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000136321664) |
+| **Eurofins** | Bioconjugation Scientist | Indianapolis, IN | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000136324499) |
 | **Eurofins** | Global Sample Management Specialist | Indianapolis, IN | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000136322319) |
-| **AbbVie** | Clinical Research Associate II- Immun... | Chicago, IL | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013963156) |
+| **AbbVie** | Clinical Research Associate II- Immun... | Chicago, IL | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013963156) |
 | **AbbVie** | Clinical Research Associate II | Richmond, VA | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013958056) |
 | **Gilead Sciences** | Clinical Trials Manager | California | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Clinical-Trials-Manager_R0052427) |
 | **Thermo Fisher Scientific** | FSP CRA I - West & Central | Texas + 4 more | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Texas-USA/FSP-CRA-I---West---Central_R-01359606) |
@@ -213,8 +213,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Takeda** | Biolife Medical Screener | IL | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Rockford/Biolife-Medical-Screener_R0184280-1) |
-| **AbbVie** | Manager, Environmental Health and Safety | Tempe, AZ | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013968636) |
+| **Takeda** | Biolife Medical Screener | IL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Rockford/Biolife-Medical-Screener_R0184280-1) |
+| **AbbVie** | Manager, Environmental Health and Safety | Tempe, AZ | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013968636) |
 | **Leidos** | Military Family Life Counselor - (Adult) | Barstow, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Barstow-CA/Military-Family-Life-Counselor----Adult-_R-00186868) |
 | **Elevance Health** | Behavioral Health Case Manager | 5 Locations | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Behavioral-Health-Case-Manager_JR195072) |
 | **Elevance Health** | Grievance and Appeals Analyst I | 4 Locations | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/OH-MASON-4241-IRWIN-SIMPSON-RD/Grievance-and-Appeals-Analyst-I_JR197796-1) |
@@ -256,20 +256,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **TikTok** | Program Manager, Risk and Response-In... | San Jose, California | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7623483127448717621) |
-| **Insulet Corporation** | Clinical Retention Specialist (North-... | Massachusetts + 8... | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts/Clinical-Retention-Specialist--North-ME--PA--CT--NH--NJ--NY--PA--RI--VT---_REQ-2026-17193) |
-| **Insulet Corporation** | Clinical Retention Specialist (North-... | Massachusetts + 8... | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts/Clinical-Retention-Specialist--North-ME--PA--CT--NH--NJ--NY--PA--RI--VT---_REQ-2026-17194) |
-| **Google** | Alphabet Lab Services Engineer, Platf... | United States | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
-| **Takeda** | Biolife Advanced EMT (AEMT) | OK | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Del-City/Biolife-Advanced-EMT--AEMT-_R0184265-1) |
-| **Takeda** | Biolife Intermediate EMT (IEMT) | OK | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Del-City/Biolife-Intermediate-EMT--IEMT-_R0184268-1) |
+| **TikTok** | Program Manager, Risk and Response-In... | San Jose, California | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7623483127448717621) |
+| **Insulet Corporation** | Clinical Retention Specialist (North-... | Massachusetts + 8... | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts/Clinical-Retention-Specialist--North-ME--PA--CT--NH--NJ--NY--PA--RI--VT---_REQ-2026-17193) |
+| **Insulet Corporation** | Clinical Retention Specialist (North-... | Massachusetts + 8... | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts/Clinical-Retention-Specialist--North-ME--PA--CT--NH--NJ--NY--PA--RI--VT---_REQ-2026-17194) |
+| **Google** | Alphabet Lab Services Engineer, Platf... | United States | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
+| **Takeda** | Biolife Advanced EMT (AEMT) | OK | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Del-City/Biolife-Advanced-EMT--AEMT-_R0184265-1) |
+| **Takeda** | Biolife Intermediate EMT (IEMT) | OK | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Del-City/Biolife-Intermediate-EMT--IEMT-_R0184268-1) |
 | **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--New-England---ME--VT--NH--MA--RI--CT-_REQ-29112) |
 | **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Tri-State---NY--PA--NJ-_REQ-29110) |
 | **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--NJ-MD-DE-_REQ-29109) |
 | **Bristol Myers Squibb** | Manager, IT Business Partnering Cell ... | WA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Bothell---WA---US/Manager--IT-Business-Partnering-Cell-Therapy-QC-Systems_R1603226) |
 | **Eurofins** | Associate Project Manager, Environmen... | Troy Hills, NJ | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000136322979) |
-| **AbbVie** | Maintenance Manager | Tempe, AZ | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013966581) |
-| **AbbVie** | Business Development Manager, Facial ... | Houston, TX | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013966419) |
-| **Eurofins** | Courier- Eurofins Environment Testing... | Elmsford, NY | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000136315065) |
+| **AbbVie** | Maintenance Manager | Tempe, AZ | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013966581) |
+| **AbbVie** | Business Development Manager, Facial ... | Houston, TX | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013966419) |
+| **Eurofins** | Courier- Eurofins Environment Testing... | Elmsford, NY | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000136315065) |
 | **AbbVie** | Writer, Complaint | North Chicago, IL | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013965556) |
 | **Eurofins** | Grain Inspector - Part-time | West Harrison, IN | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000136304370) |
 | **VSP Vision** | Bilingual Customer Support 1 - French | Remote US | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Bilingual-Customer-Support-1_R-9635) |
