@@ -49,3 +49,5 @@ coverage/
 *credential*
 *.key
 *.pem
+.github/data/new_jobs.json
+.github/data/run_metrics.json
