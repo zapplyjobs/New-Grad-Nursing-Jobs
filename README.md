@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-2042-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1146-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-89-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-2024-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1135-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-88-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -68,11 +68,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Southern-California---San-Diego-and-Anaheim-_REQ-29092) |
+| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Central-California---Los-Angeles---San-Bernardino-_REQ-29091) |
+| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Northern-California---San-Francisco--San-Jose--Sacramento-_REQ-29090) |
 | **Cigna** | Business Analytics Advisor, C&CE Work... | United States Wor... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Business-Analytics-Advisor--C-CE-Workforce-Management---Evernorth---Remote_26006371) |
 | **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN... | San Diego, CA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/San-Diego-CA/Acute-Inpatient-Registered-Nurse---RN---Dialysis_R0260883) |
-| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Southern-California---San-Diego-and-Anaheim-_REQ-29092) |
-| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Central-California---Los-Angeles---San-Bernardino-_REQ-29091) |
-| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Northern-California---San-Francisco--San-Jose--Sacramento-_REQ-29090) |
 | **AbbVie** | Scientist I / II, tLNP Process Develo... | North Chicago, IL | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014045446) |
 | **Cardinal Health** | Registered Nurse, Triage | Casper, WY | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/WY-Casper-RMOC/Registered-Nurse--Triage_20183791-1) |
 | **Cardinal Health** | PRN Pharmacist | Conroe, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TX-Conroe-PAM-Voyages-of-Conroe/PRN-Pharmacist_20183736) |
@@ -110,7 +110,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wash U** | Nurse Practitioner or Physician Assis... | Washington Univer... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Nurse-Practitioner-or-Physician-Assistant---Radiology_JR95030) |
 | **Included Health** | Nocturnist Physician, Urgent Care | Florida | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/52061bf4-f629-4a2f-8676-5b1f24df346c/apply) |
 | **Included Health** | Nocturnist Physician, Urgent Care | Texas | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/a92c9bc3-42cf-4b90-8779-d93c30d9d12d/apply) |
-| **Eurofins** | Laboratory Analyst, Eurofins Environm... | Folsom, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000136526344) |
+| **Eurofins** | Laboratory Analyst, Eurofins Environm... | Folsom, CA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000136526344) |
 | **LabCorp** | Clinical Laboratory Technologist -Mic... | Tampa FL | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Tampa-FL/Medical-Technologist---Microbiology---Per-Diem_2614143-1) |
 | **LabCorp** | Phlebotomist - PRN | Orlando FL | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Orlando-FL/Phlebotomist---PRN_268797) |
 | **Abbott** | Registered Nurse - Patient Educator (... | Texas | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Abilene/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Comanche--TX_31153982) |
@@ -119,7 +119,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bristol Myers Squibb** | Clinical Nurse Consultant- KY/WV | Louisville KY US ... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Louisville---KY---US/Clinical-Nurse-Consultant--KY-WV_R1604274) |
 | **Bristol Myers Squibb** | Medical Science Liaison, Oncology, Lu... | CA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/San-Francisco---CA---US/Medical-Science-Liaison--Oncology--Lung---GU-Tumors--Northern-California-_R1602875-3) |
 | **RVO Health** | Nurse Practitioner - Weight & Wellness | US | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4712742005) |
-| **Medtronic** | Prin. Clinical Specialist, Superficia... | 3 Locations | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Long-Island-New-York-United-States-of-America/Prin-Clinical-Specialist--Superficial-Venous-Interventions--SVI----Long-Island--NY--Southeast-NY--Northern-NJ_R71500-1) |
 | **Becton Dickinson** | Clinical Specialist (RN - Vascular Ac... | Georgia | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---Georgia---Atlanta/Clinical-Specialist--RN---Vascular-Access----Atlanta_R-548752) |
 | **EVERSANA** | Cutaneous Oncology Clinical Nurse Edu... | St. Louis, MO | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000136279215) |
 | **Exact Sciences** | Sample Processing Associate - Weekend... | Madison, WI | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Sample-Processing-Associate---Weekend-Overnights_R26-12977) |
@@ -145,15 +144,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Vertex Pharmaceuticals** | Health Economics & Outcomes Research ... | Boston, MA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Health-Economics---Outcomes-Research-Associate-Director--Cell---Gene-Therapy_REQ-29016) |
-| **Vertex Pharmaceuticals** | Health Economics & Outcomes Research ... | Boston, MA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Health-Economics---Outcomes-Research-Associate-Director--Pain_REQ-28026) |
+| **Vertex Pharmaceuticals** | Health Economics & Outcomes Research ... | Boston, MA | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Health-Economics---Outcomes-Research-Associate-Director--Cell---Gene-Therapy_REQ-29016) |
+| **Vertex Pharmaceuticals** | Health Economics & Outcomes Research ... | Boston, MA | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Health-Economics---Outcomes-Research-Associate-Director--Pain_REQ-28026) |
 | **AbbVie** | Scientist l, In Vivo Pharmacology | Cambridge, MA | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014045226) |
 | **Eurofins** | Entry Level Chemist | Lancaster, PA | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000137212260) |
 | **Eurofins** | Entry Level Chemist- 2nd Shift | Lancaster, PA | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000137212229) |
 | **Eurofins** | Scientist- Pharmaceutical Raw Materials | Lancaster, PA | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000137211211) |
-| **AbbVie** | Associate Scientist II, QTAS | South San Francis... | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014042526) |
+| **AbbVie** | Associate Scientist II, QTAS | South San Francis... | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014042526) |
 | **AbbVie** | Scientist II, Discovery Neuroscience | Cambridge, MA | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014041101) |
-| **Veolia Environnement SA** | Lab Technician | Grosse Ile Townsh... | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000137191809) |
+| **Veolia Environnement SA** | Lab Technician | Grosse Ile Townsh... | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000137191809) |
 | **Guidehouse** | Bioassay Research Scientist II | MD, Silver Spring | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Silver-Spring/Bioassay-Research-Scientist-II_41842) |
 | **Merck & Co.** | Prin. Scientist, Clinical Research | Pennsylvania West... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Prin-Scientist--Clinical-Research_R405907-2) |
 | **AstraZeneca** | Director, Regulatory Affairs Strategy... | MD | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Director--Regulatory-Affairs-Strategy---Cell-Therapy_R-256214) |
@@ -228,13 +227,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC** | Applied Scientist II, SCOT-Optimal So... | Bellevue, WA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10468056/applied-scientist-ii-scot-optimal-sourcing-systems-buying-science-team) |
 | **Sherwin-Williams** | Quality Lab Technician | Garland, TX, Unit... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2613773) |
 | **LLNL** | Chemical Lab Technician | Livermore, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013949116) |
+| **Biogen** | (Sr) Medical Science Liaison, Multipl... | Dallas, TX + 1 more | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Dallas-TX/XMLNAME--Sr--Medical-Science-Liaison--Multiple-Sclerosis---AZ--NM--TX----AR_REQ23674) |
 | **University System of New Hampshire** | Postdoctoral Research Associate | Main | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Postdoctoral-Research-Associate_JR8467) |
 | **Olsson** | Associate Scientist - Industrial Envi... | North Kansas City... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5292702008) |
 | **Air Liquide** | Quality Control Lab Technician I | Upper Mount Bethe... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Upper-Mount-Bethel-PA---Advanced-materials---UMB/Quality-Control-Lab-Technician-I_R10095644-1) |
 | **Air Liquide** | Quality Control Lab Technician I | Upper Mount Bethe... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Upper-Mount-Bethel-PA---Advanced-materials---UMB/Quality-Control-Lab-Technician-I_R10095728) |
 | **Intuitive** | Clinical Data Manager | Sunnyvale, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000136029919) |
 | **ICF** | Public Health Research Scientist (Atl... | Atlanta, GA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Atlanta-GA/Public-Health-Research-Scientist--Atlanta--Georgia-REMOTE-ROLE-_R2602332) |
-| **Biogen** | (Sr) Medical Science Liaison, Multipl... | Dallas, TX + 1 more | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Dallas-TX/XMLNAME--Sr--Medical-Science-Liaison--Multiple-Sclerosis---AZ--NM--TX----AR_REQ23674) |
 | **Olsson** | Associate Scientist - Energy Environm... | Dallas, TX; Oklah... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5291856008) |
 
 <p align="center">Apply for more jobs at</p>
@@ -247,9 +246,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Takeda** | Biolife Medical Screener | WI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Biolife-Medical-Screener_R0184549-1) |
-| **Vertex Pharmaceuticals** | Field Medical Director | Field Based | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Medical-Director_REQ-29113) |
-| **Vertex Pharmaceuticals** | Field Medical Director | Field Based | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Medical-Director_REQ-29114) |
+| **Vertex Pharmaceuticals** | Field Medical Director | Field Based | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Medical-Director_REQ-29113) |
+| **Vertex Pharmaceuticals** | Field Medical Director | Field Based | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Medical-Director_REQ-29114) |
+| **Takeda** | Biolife Medical Screener | WI | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Biolife-Medical-Screener_R0184549-1) |
 | **University of Texas at Austin** | Behavioral Health Therapist Associate | AUSTIN, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Senior-Administrative-Associate--Clinical-Operations_R_00047246) |
 | **University of Texas at Austin** | Behavioral Health Care Coordinator | AUSTIN, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Behavioral-Health-Care-Coordinator_R_00047110) |
 | **Medtronic** | Associate Clinical Specialist - Cardi... | Chicago, Illinois... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Associate-Clinical-Specialist---Cardiac-Rhythm-Management---Chicagoland-North-Northwest-Suburbs_R71703-1) |
@@ -301,18 +300,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Alphabet Lab Services Engineer, Platf... | United States | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
+| **Vertex Pharmaceuticals** | Managed Care Contracting Associate Di... | Boston, MA | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Managed-Care-Contracting-Associate-Director_REQ-29567) |
+| **Vertex Pharmaceuticals** | Patient Safety Associate Medical Dire... | Boston, MA | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Patient-Safety-Associate-Medical-Director_REQ-29346-1) |
+| **Vertex Pharmaceuticals** | Modeling & Simulations Associate Dire... | Boston, MA | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Modeling---Simulations-Associate-Director_REQ-29425) |
+| **Google** | Alphabet Lab Services Engineer, Platf... | United States | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
 | **CVS Health** | Pharmacy Technician- Part Time- Omnicare | Tinton Falls, NJ | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Tinton-Falls/Pharmacy-Technician--Part-Time--Omnicare_R0885843) |
 | **CVS Health** | Pharmacy Technician | Philadelphia, PA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Philadelphia/Pharmacy-Technician_R0965535) |
 | **LabCorp** | Bilingual Phlebotomist | Dallas TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Dallas-TX/Bilingual-Phlebotomist_2617143) |
 | **LabCorp** | Phlebotomist | Irving TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Irving-TX/Phlebotomist_2616655) |
-| **Takeda** | Biolife Paramedic (EMT-P) | WI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Biolife-Paramedic--EMT-P-_R0184543-1) |
-| **Takeda** | Biolife Phlebotomist | WI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Biolife-Phlebotomist_R0184541-1) |
-| **Takeda** | Biolife Phlebotomist | WI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Biolife-Phlebotomist_R0184548-1) |
-| **Highmark Health** | Medical Assistant - OB/GYN - Brentwoo... | Pittsburgh PA, 15227 | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15227-147-Towne-Square-Way/Medical-Assistant---OB-GYN---Brentwood---Full-Time_J284188) |
-| **Vertex Pharmaceuticals** | Managed Care Contracting Associate Di... | Boston, MA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Managed-Care-Contracting-Associate-Director_REQ-29567) |
-| **Vertex Pharmaceuticals** | Patient Safety Associate Medical Dire... | Boston, MA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Patient-Safety-Associate-Medical-Director_REQ-29346-1) |
-| **Vertex Pharmaceuticals** | Modeling & Simulations Associate Dire... | Boston, MA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Modeling---Simulations-Associate-Director_REQ-29425) |
+| **Takeda** | Biolife Paramedic (EMT-P) | WI | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Biolife-Paramedic--EMT-P-_R0184543-1) |
+| **Takeda** | Biolife Phlebotomist | WI | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Biolife-Phlebotomist_R0184541-1) |
+| **Takeda** | Biolife Phlebotomist | WI | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Biolife-Phlebotomist_R0184548-1) |
+| **Highmark Health** | Medical Assistant - OB/GYN - Brentwoo... | Pittsburgh PA, 15227 | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15227-147-Towne-Square-Way/Medical-Assistant---OB-GYN---Brentwood---Full-Time_J284188) |
 | **AbbVie** | Associate Director, Dermatology Strat... | Mettawa, IL | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014044264) |
 | **Eurofins** | Assistant Facility Manager | Madison, WI | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000137213991) |
 | **Eurofins** | Project Manager | Lenexa, KS | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000137214094) |
@@ -320,11 +319,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Manager, Payer Contract Analytics | Florham Park, NJ | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014043316) |
 | **AbbVie** | Manager, Payer Contract Analytics | Mettawa, IL | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014043246) |
 | **BillionToOne** | Automation Service Engineering Manage... | Menlo Park, CA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4470824005) |
-| **University of Texas at Austin** | Service Desk Tech Analyst III | AUSTIN, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Service-Desk-Tech-Analyst-III_R_00047214) |
-| **JM Family Enterprises** | Health & Group Benefits Manager | Deerfield Beach | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Health---Group-Benefits-Manager_JR104911) |
-| **Medtronic** | Therapy Development Specialist, Pelvi... | 3 Locations | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Therapy-Development-Specialist--Pelvic-Health---San-Francisco--CA_R64042-1) |
-| **Medtronic** | Field Services Engineer III - Wiscons... | 4 Locations | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Wisconsin-United-States-of-America/Field-Services-Engineer-III---Wisconsin--Milwaukee---Green-Bay---Madison-_R70715-1) |
-| **Medtronic** | Therapy Development Specialist, Pelvi... | 3 Locations | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Baltimore-Maryland-United-States-of-America/Therapy-Development-Specialist--Pelvic-Health---Mid-Atlantic_R71933-1) |
+| **Biogen** | Director, Biotherapeutics Discovery | San Francisco, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/San-Francisco-CA/Director--Biotherapeutics-Discovery_REQ23729) |
 | **Cardinal Health** | Pharmacy Technician | Asheville, NC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/NC-Asheville-Gamma-Rx/Pharmacy-Technician_20183708) |
 | **Cardinal Health** | Pharmacy Technician | San Antonio, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TX-San-Antonio-Nucl-Pharm-57/Pharmacy-Technician_20183741-1) |
 | **Cardinal Health** | Market Director of Pharmacy | FIELD | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Market-Director-of-Pharmacy_20183139) |
@@ -380,7 +375,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Oracle** | Clinical Consultant (Oncology) — Fede... | United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/333780) |
 | **Personalis** | Clinical Lab Associate 1 (Temp) | Fremont, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7800321003) |
 | **RVO Health** | Provider Outreach Specialist | US | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4712246005) |
-| **Teledyne** | Facility, Security, and EH&S Manager | Billerica, MA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Billerica-MA/Facility--Security--and-EH-S-Manager_REQ35375) |
+| **Biogen** | Site Feasibility Manager | Cambridge, MA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Site-Feasability-Manager_REQ23685-1) |
 | **University of Texas at Austin** | Postdoctoral Fellow | AUSTIN, TX | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow_R_00047202) |
 | **University of Texas at Austin** | Athletic Trainer Assistant | AUSTIN, TX | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Athletic-Trainer-Assistant_R_00047238) |
 | **Guidehouse** | Patient Access Scheduler   Full Time,... | AL, Trussville | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Trussville/Patient-Access-Scheduler---Full-Time--Days--100--Onsite_40960) |
@@ -401,6 +396,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Thermo Fisher Scientific** | Metrologist | Madison, Wisconsi... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Madison-Wisconsin-USA/Metrologist_R-01358852) |
 | **Thermo Fisher Scientific** | FSP Associate Contract Specialist/Con... | Remote, North Car... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/FSP-Associate-Contract-Specialist-Contract-Specialist_R-01360257-1) |
 | **Wolters Kluwer** | Clinical Content- Physician (Clinical... | Waltham, MA + 33 ... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://wk.wd3.myworkdayjobs.com/External/job/USA---Waltham-MA/Clinical-Content--Clinician--AI-Strategist---UpToDate--_R0055599) |
+| **National Interstate Insurance** | Catastrophic Telephonic Nurse Case Ma... | Lakeland, FL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Lakeland-FL-USA/Catastrophic-Telephonic-Nurse-Case-Manager_R9206-2) |
+| **National Interstate Insurance** | Managed Care Nurse | Lakeland, FL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Lakeland-FL-USA/Managed-Care-Nurse_R9203-1) |
+| **National Interstate Insurance** | Bill Review Nurse | Lakeland, FL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Lakeland-FL-USA/Bill-Review-Nurse_R9210-1) |
+| **Wash U** | Administrative Assistant I - Medical ... | Washington Univer... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Administrative-Assistant-I---Medical-Oncology_JR95609) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -461,7 +460,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2042 current opportunities from 89 companies**
+**🎯 2024 current opportunities from 88 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
