@@ -314,7 +314,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **CVS Health** | Pharmacy Technician- Part Time- Omnicare | Tinton Falls, NJ | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Tinton-Falls/Pharmacy-Technician--Part-Time--Omnicare_R0885843) |
 | **CVS Health** | Pharmacy Technician | Philadelphia, PA | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Philadelphia/Pharmacy-Technician_R0965535) |
-| **Google** | Alphabet Lab Services Engineer, Platf... | United States | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
+| **Google** | Alphabet Lab Services Engineer, Platf... | United States | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
 | **Takeda** | Biolife Paramedic (EMT-P) | WI | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Biolife-Paramedic--EMT-P-_R0184543-1) |
 | **Takeda** | Biolife Phlebotomist | WI | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Biolife-Phlebotomist_R0184541-1) |
 | **Takeda** | Biolife Phlebotomist | WI | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Biolife-Phlebotomist_R0184548-1) |
