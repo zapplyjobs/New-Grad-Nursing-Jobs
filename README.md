@@ -294,7 +294,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Alphabet Lab Services Engineer, Platf... | United States | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
+| **Google** | Alphabet Lab Services Engineer, Platf... | United States | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
 | **Vertex Pharmaceuticals** | Managed Care Contracting Associate Di... | Boston, MA | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Managed-Care-Contracting-Associate-Director_REQ-29567) |
 | **Vertex Pharmaceuticals** | Patient Safety Associate Medical Dire... | Boston, MA | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Patient-Safety-Associate-Medical-Director_REQ-29346-1) |
 | **Vertex Pharmaceuticals** | Modeling & Simulations Associate Dire... | Boston, MA | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Modeling---Simulations-Associate-Director_REQ-29425) |
