@@ -68,7 +68,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Registered Nurse | Memphis, TN | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TN---Memphis/Registered-Nurse_R0880648) |
+| **CVS Health** | Registered Nurse | Memphis, TN | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TN---Memphis/Registered-Nurse_R0880648) |
 | **Fresenius Medical Care** | Patient Care Technician -PCT | Chicago, IL | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Chicago-IL/Patient-Care-Technician--PCT_R0259867) |
 | **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Chicago, IL | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Chicago-IL/Outpatient-Registered-Nurse---RN_R0259865) |
 | **Fresenius Medical Care** | Patient Care Technician -PCT | Chicago, IL | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Chicago-IL/Patient-Care-Technician--PCT_R0259274) |
@@ -252,7 +252,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Takeda** | Biolife Medical Screener | WI | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Biolife-Medical-Screener_R0184549-1) |
+| **Takeda** | Biolife Medical Screener | WI | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Biolife-Medical-Screener_R0184549-1) |
 | **Arkansas Children's** | Patient Access Representative I | Little Rock, R002... | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://archildrens.wd1.myworkdayjobs.com/external_career_site/job/Little-Rock/Patient-Access-Representative-I_R0023793) |
 | **Arkansas Children's** | Behavioral Health Technician | Little Rock, R002... | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://archildrens.wd1.myworkdayjobs.com/external_career_site/job/Little-Rock/Behavioral-Health-Technician_R0023957) |
 | **Arkansas Children's** | Patient Access Representative II (Par... | Little Rock, R002... | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://archildrens.wd1.myworkdayjobs.com/external_career_site/job/Little-Rock/Patient-Access-Representative-II--Part-Time-_R0023947) |
@@ -312,12 +312,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician- Part Time- Omnicare | Tinton Falls, NJ | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Tinton-Falls/Pharmacy-Technician--Part-Time--Omnicare_R0885843) |
-| **CVS Health** | Pharmacy Technician | Philadelphia, PA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Philadelphia/Pharmacy-Technician_R0965535) |
-| **Google** | Alphabet Lab Services Engineer, Platf... | United States | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
-| **Takeda** | Biolife Paramedic (EMT-P) | WI | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Biolife-Paramedic--EMT-P-_R0184543-1) |
-| **Takeda** | Biolife Phlebotomist | WI | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Biolife-Phlebotomist_R0184541-1) |
-| **Takeda** | Biolife Phlebotomist | WI | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Biolife-Phlebotomist_R0184548-1) |
+| **CVS Health** | Pharmacy Technician- Part Time- Omnicare | Tinton Falls, NJ | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Tinton-Falls/Pharmacy-Technician--Part-Time--Omnicare_R0885843) |
+| **CVS Health** | Pharmacy Technician | Philadelphia, PA | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Philadelphia/Pharmacy-Technician_R0965535) |
+| **Google** | Alphabet Lab Services Engineer, Platf... | United States | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
+| **Takeda** | Biolife Paramedic (EMT-P) | WI | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Biolife-Paramedic--EMT-P-_R0184543-1) |
+| **Takeda** | Biolife Phlebotomist | WI | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Greenfield/Biolife-Phlebotomist_R0184541-1) |
+| **Takeda** | Biolife Phlebotomist | WI | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Biolife-Phlebotomist_R0184548-1) |
 | **LabCorp** | Bilingual Phlebotomist | Dallas TX | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Dallas-TX/Bilingual-Phlebotomist_2617143) |
 | **LabCorp** | Phlebotomist | Irving TX | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Irving-TX/Phlebotomist_2616655) |
 | **Highmark Health** | Medical Assistant - OB/GYN - Brentwoo... | Pittsburgh PA, 15227 | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15227-147-Towne-Square-Way/Medical-Assistant---OB-GYN---Brentwood---Full-Time_J284188) |
