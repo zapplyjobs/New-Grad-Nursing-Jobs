@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1603-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-991-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1606-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-994-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-101-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -144,12 +144,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Process Analytical Support - Separati... | Malvern, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138383029) |
 | **Eurofins** | Analytical Chemist- Method Developmen... | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138375721) |
 | **AbbVie** | Director, Medical Science Liaison Pla... | Dallas, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014150686) |
 | **AbbVie** | Director, Medical Science Liaison Pla... | Miami, FL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014149997) |
 | **AbbVie** | Director, Medical Science Liaison Pla... | Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014150556) |
 | **Eurofins** | Associate Analytical Chemist - Any Shift | Madison, WI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138370312) |
-| **Eurofins** | Sample Management Technician- Bottle ... | Troy Hills, NJ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138369554) |
 | **IDEXX** | Medical Laboratory Technician - 3rd S... | Dallas, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Medical-Laboratory-Technician---3rd-Shift_J-054033) |
 | **IDEXX** | Medical Laboratory Technician - 3rd S... | Dallas, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Medical-Laboratory-Technician-3rd-Shift_J-051225) |
 | **d-Matrix** | Data Center & Lab Technician - AI Acc... | Santa Clara | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/d-matrix/e7af1516-8010-45e7-9095-a768f8d49a15/application) |
@@ -298,15 +298,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | VP Integrations | Houston, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138384254) |
+| **Leland** | Physician & Medical Practice Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/0860d3f4-01fe-4599-a7c0-539913cadeb4/application) |
+| **Leland** | Physician Assistant Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/fc06ad05-08bf-4474-a1ce-83ceb1f39a34/application) |
 | **Leland** | Pharmacist Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/f90b7854-9124-412e-853d-404a586ab03f/application) |
 | **AbbVie** | Associate Director, Reimbursement Str... | Philadelphia, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014153166) |
-| **Leland** | Pharmaceutical Careers Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/3ad4455b-dd86-4611-8939-ab4f158ef55d/application) |
 | **AbbVie** | Biomarker Operations Manager | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014151946) |
 | **Google** | Alphabet Lab Services Engineer, Platf... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
 | **Eurofins** | Courier | Tinley Park, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138372559) |
 | **AbbVie** | Scientific Director I, Oncology Clini... | South San Francis... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014150166) |
 | **Eurofins** | Field Technician | Merrillville, IN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138364225) |
-| **Eurofins** | Laboratory Analyst | Tinley Park, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138366139) |
 | **Takeda** | Medical Director, Global Clinical Sci... | Boston, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Medical-Director--Global-Clinical-Science--Immunodeficiency--f-m-d---Hybrid_R0184996-1) |
 | **Takeda** | Biolife Advanced EMT (AEMT) | WI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Biolife-Advanced-EMT--AEMT-_R0184925-1) |
 | **Takeda** | Biolife Paramedic (EMTP) | WI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Biolife-Paramedic--EMTP-_R0184921-1) |
@@ -371,7 +372,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Becton Dickinson** | Director, Value Creation | San Diego Bldg A&B | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/Director--Value-Creation_R-541624-1) |
 | **Becton Dickinson** | Director, Value Engineering | San Diego Bldg A&B | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/Director--Value-Engineering_R-541621-1) |
 | **Mercor** | Healthcare GTM Associate | San Francisco | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mercor/12ef2db7-5a92-417b-b101-8779b6fc71d0/application) |
-| **Leland** | Dentist & Dental Practice Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/1f1345e9-ef11-424b-8591-410602ec4042/application) |
 | **Eight Sleep** | Director of Medical Operations | San Francisco | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eightsleep/c007651e-f62d-4a72-a092-fbe84106b3f3/application) |
 | **Medtronic** | Director, Medical Education US - NV -... | Irvine, Californi... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Irvine-California-United-States-of-America/Director--Medical-Education-US---NV---Irvine--CA--Onsite--or-Remote-within-US_R69078-1) |
 | **Guidehouse** | Patient Care Coordinator | MD, Bethesda | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Patient-Care-Coordinator_41982-1) |
@@ -458,7 +458,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1603 current opportunities from 101 companies**
+**🎯 1606 current opportunities from 101 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
