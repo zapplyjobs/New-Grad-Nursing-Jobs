@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1587-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-987-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1597-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-991-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-101-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -141,12 +141,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Eurofins** | Sample Management Technician (Bottle ... | Troy Hills, NJ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138368500) |
+| **AbbVie** | Director, Medical Science Liaison Pla... | Dallas, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014150686) |
+| **AbbVie** | Director, Medical Science Liaison Pla... | Miami, FL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014149997) |
+| **AbbVie** | Director, Medical Science Liaison Pla... | Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014150556) |
+| **Eurofins** | Associate Analytical Chemist - Any Shift | Madison, WI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138370312) |
+| **Eurofins** | Sample Management Technician- Bottle ... | Troy Hills, NJ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138369554) |
+| **Eurofins** | Sample Management Technician- Bottle ... | Troy Hills, NJ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138367630) |
 | **IDEXX** | Medical Laboratory Technician - 3rd S... | Dallas, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Medical-Laboratory-Technician---3rd-Shift_J-054033) |
 | **IDEXX** | Medical Laboratory Technician - 3rd S... | Dallas, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Medical-Laboratory-Technician-3rd-Shift_J-051225) |
-| **Eurofins** | Laboratory Technician I (Temporary ro... | Tacoma, WA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138207749) |
-| **Eurofins** | Characterization Scientist | Andover, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138197749) |
-| **AbbVie** | Clinical Research Associate II - Sout... | Tampa, FL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014132866) |
 | **d-Matrix** | Data Center & Lab Technician - AI Acc... | Santa Clara | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/d-matrix/e7af1516-8010-45e7-9095-a768f8d49a15/application) |
 | **AstraZeneca** | Clinical Research Associate - Ohio/Mi... | IN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Michigan-City---IN/Clinical-Research-Associate---Ohio-Michigan_R-254145) |
 | **AstraZeneca** | Medical Science Liaison - Immunology ... | CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Los-Angeles---CA/Medical-Science-Liaison---Immunology---Greater-Los-Angeles_R-255722-1) |
@@ -163,9 +165,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bristol Myers Squibb** | Research Associate, Gene Engineering ... | Seattle 400 Dexte... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Seattle-400-Dexter---WA---US/Research-Associate--Gene-Engineering-and-Delivery_R1604492-1) |
 | **Bristol Myers Squibb** | Associate Scientist, Gene Engineering... | Seattle 400 Dexte... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Seattle-400-Dexter---WA---US/Associate-Scientist--Gene-Engineering-and-Delivery_R1604491) |
 | **Amazon.com Services LLC** | Data Scientist II, Rapid & Rural Logi... | Bellevue, WA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10476538/data-scientist-ii-rapid-rural-logistics-r2l-analytics) |
-| **AbbVie** | Scientist, Multispecifics Engineering | Worcester, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014119380) |
 | **Microsoft** | Applied Scientist II | Redmond, Washingt... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556938085) |
-| **AbbVie** | Associate Scientist, Cellular/Molecul... | Cambridge, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014112776) |
 | **GenScript** | Lab Technician | Piscataway, New J... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/genscript/jobs/5187689007) |
 | **AstraZeneca** | Medical Science Liaison - Immunology ... | MN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Minneapolis---MN/Medical-Science-Liaison---Immunology---Minneapolis--MN_R-255635-1) |
 | **Zoetis** | Scientist, Bioscience Process and Val... | Durham | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Durham/Scientist--Bioscience-Process-and-Validation_JR00021186-1) |
@@ -293,11 +293,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **AbbVie** | Business Development Manager (Facial ... | Baton Rouge, LA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014150906) |
+| **AbbVie** | Quality Laboratory Analyst I | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014150876) |
+| **Eurofins** | Courier | Tinley Park, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138372559) |
+| **AbbVie** | Scientific Director I, Oncology Clini... | South San Francis... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014150166) |
 | **Eurofins** | Field Technician | Merrillville, IN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138364225) |
 | **Eurofins** | Laboratory Analyst | Tinley Park, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138366139) |
-| **Eurofins** | Analyst I, Eurofins Environment Testi... | Middleborough, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138364829) |
 | **Google** | Alphabet Lab Services Engineer, Platf... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
-| **AbbVie** | Director, U.S. Therapeutic Area Strat... | Mettawa, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014147324) |
 | **Takeda** | Medical Director, Global Clinical Sci... | Boston, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Medical-Director--Global-Clinical-Science--Immunodeficiency--f-m-d---Hybrid_R0184996-1) |
 | **Takeda** | Biolife Advanced EMT (AEMT) | WI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Biolife-Advanced-EMT--AEMT-_R0184925-1) |
 | **Takeda** | Biolife Paramedic (EMTP) | WI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Biolife-Paramedic--EMTP-_R0184921-1) |
@@ -307,12 +309,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Baxter International** | Eng, Maintenance (Electrical Bias) | Thetford, Norfolk | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://baxter.wd1.myworkdayjobs.com/baxter/job/Thetford-Norfolk/Eng--Maintenance--Electrical-Bias-_JR-205911-1) |
 | **Elevance Health** | Nurse Care Manager I | 4 Locations | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Nurse-Care-Manager-I_JR191662) |
 | **Cardinal Health** | Lab Analyst | Deland, FL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/FL-Deland/Lab-Analyst_20184010-1) |
-| **AbbVie** | Archive Records Analyst | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014141146) |
 | **Fresenius Medical Care** | Biomedical Technician | Wauchula, FL, USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Wauchula-FL-USA/Biomedical-Technician_R0260235) |
 | **Fresenius Medical Care** | Biomedical Technician | Elmhurst, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Elmhurst-IL/Biomedical-Technician_R0260911) |
 | **Fresenius Medical Care** | Biomedical Technician | Grand Blanc, MI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Grand-Blanc-MI/Biomedical-Technician_R0260858-1) |
 | **Chan Zuckerberg Biohub** | Postdoctoral Fellow, Multimodal Modeling | Chicago, IL (Onsite) | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/8056433) |
-| **AbbVie** | Customer Experience Representative II | Austin, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014138206) |
 | **Formlabs** | Product Marketing Manager, Dental (3D... | Somerville, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8070547/apply/?gh_jid=8070547) |
 | **Formlabs** | Marketing Manager, Dental | Somerville, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8070545/apply/?gh_jid=8070545) |
 | **Oscar Health** | IT Engineer I | Los Angeles, Cali... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8070593?gh_jid=8070593) |
@@ -453,7 +453,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1587 current opportunities from 101 companies**
+**🎯 1597 current opportunities from 101 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
