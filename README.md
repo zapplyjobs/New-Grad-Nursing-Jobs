@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **AbbVie** | Associate Director, International Omn... | Mettawa, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014155560) |
 | **Leland** | Registered Nurse Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/f9acc0e5-a019-43db-aaea-c1806e42996e/application) |
 | **Leland** | Nursing School Admissions Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/7ca5fc48-37ac-49b9-9fcf-a5e34250e915/application) |
 | **Leland** | Nurse Practitioner Career Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/b6a5a8e9-23d3-445a-8c0a-6a7c954c3e91/application) |
@@ -99,7 +100,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LabCorp** | Hospital Patient Care Technician | Boston MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Boston-MA/Hospital-Patient-Care-Technician_2615107) |
 | **Elevance Health** | Family Nurse Practitioner - Paragon I... | CONROE, 27152 INT... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/TX-CONROE-27152-INTERSTATE-45-N/Family-Nurse-Practitioner---Paragon-Infusion-Centers_JR200419) |
 | **AbbVie** | Associate Director, International Mar... | Mettawa, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014093836) |
-| **AbbVie** | Director, International Market Access... | Mettawa, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014091006) |
 | **Oscar Health** | Case Management RN | Tempe, Arizona, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8056709?gh_jid=8056709) |
 | **Guidehouse** | Patient Account Representative - Hosp... | CA San Marcos + 1... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-San-Marcos/Patient-Account-Representative---Hospital-A-R---Commercial---Government_41969) |
 | **AstraZeneca** | Associate Director, External Operatio... | MD | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Associate-Director--External-Operations--Cell-Therapy---External-Supply-Management_R-249589-1) |
