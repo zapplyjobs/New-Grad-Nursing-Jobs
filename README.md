@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1584-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1582-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-983-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-101-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -293,7 +293,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **AbbVie** | Materials Management Technician | Branchburg, NJ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014144856) |
+| **Eurofins** | Regional Business Unit Cluster Manager | Omaha, NE | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138335589) |
 | **Google** | Alphabet Lab Services Engineer, Platf... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
 | **Takeda** | Medical Director, Global Clinical Sci... | Boston, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Medical-Director--Global-Clinical-Science--Immunodeficiency--f-m-d---Hybrid_R0184996-1) |
 | **Takeda** | Biolife Advanced EMT (AEMT) | WI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Biolife-Advanced-EMT--AEMT-_R0184925-1) |
@@ -316,8 +316,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Formlabs** | Marketing Manager, Dental | Somerville, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8070545/apply/?gh_jid=8070545) |
 | **Oscar Health** | IT Engineer I | Los Angeles, Cali... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8070593?gh_jid=8070593) |
 | **Oscar Health** | IT Engineer I | Tempe, Arizona, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8070587?gh_jid=8070587) |
-| **Eurofins** | Sample Registration Tech I - Microbio... | Des Moines, IA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138197654) |
 | **Oscar Health** | IT Engineer I | New York, New Yor... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8069062?gh_jid=8069062) |
+| **AbbVie** | Oncology Diagnostic Liaison - Seattle... | Seattle, WA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014137546) |
 | **Included Health** | Urgent Care Physician | Indiana | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/8542ee32-242e-4438-9574-60f65266fe96/apply) |
 | **Included Health** | Urgent Care Physician | Indiana | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/f2508347-3ba4-4c69-bcb0-0a31bfaa19aa/apply) |
 | **Included Health** | Urgent Care Physician | Nevada | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/5407fd6c-ab9f-44b6-a016-0eb059328162/apply) |
@@ -453,7 +453,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1584 current opportunities from 101 companies**
+**🎯 1582 current opportunities from 101 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
