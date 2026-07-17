@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1606-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1609-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-994-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-101-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -66,9 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Leland** | Registered Nurse Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/f9acc0e5-a019-43db-aaea-c1806e42996e/application) |
 | **Leland** | Nursing School Admissions Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/7ca5fc48-37ac-49b9-9fcf-a5e34250e915/application) |
 | **Leland** | Nurse Practitioner Career Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/b6a5a8e9-23d3-445a-8c0a-6a7c954c3e91/application) |
-| **Leland** | NP School Admissions Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/2882cb4c-77ff-4ccf-94eb-5079f1329d7b/application) |
 | **Eurofins** | Shipping/Receiving Technician, Eurofi... | Auburn, ME | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138355841) |
 | **Takeda** | Registered Nurse Bilingual Spanish | NV | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NV---Las-Vegas/Registered-Nurse-Bilingual-Spanish_R0184922-1) |
 | **Takeda** | Biolife - Licensed Practical Nurse (LPN) | WI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Biolife---Licensed-Practical-Nurse--LPN-_R0184917) |
@@ -144,12 +144,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Chemist- Gas Chromatography | Salem, NC | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138388409) |
+| **AbbVie** | Associate Scientist II | Madison, WI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014154776) |
 | **Eurofins** | Process Analytical Support - Separati... | Malvern, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138383029) |
 | **Eurofins** | Analytical Chemist- Method Developmen... | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138375721) |
 | **AbbVie** | Director, Medical Science Liaison Pla... | Dallas, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014150686) |
 | **AbbVie** | Director, Medical Science Liaison Pla... | Miami, FL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014149997) |
-| **AbbVie** | Director, Medical Science Liaison Pla... | Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014150556) |
-| **Eurofins** | Associate Analytical Chemist - Any Shift | Madison, WI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138370312) |
 | **IDEXX** | Medical Laboratory Technician - 3rd S... | Dallas, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Medical-Laboratory-Technician---3rd-Shift_J-054033) |
 | **IDEXX** | Medical Laboratory Technician - 3rd S... | Dallas, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Medical-Laboratory-Technician-3rd-Shift_J-051225) |
 | **d-Matrix** | Data Center & Lab Technician - AI Acc... | Santa Clara | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/d-matrix/e7af1516-8010-45e7-9095-a768f8d49a15/application) |
@@ -458,7 +458,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1606 current opportunities from 101 companies**
+**🎯 1609 current opportunities from 101 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
