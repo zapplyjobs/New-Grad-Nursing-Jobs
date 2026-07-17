@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1586-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-983-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-102-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1583-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-982-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-101-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -125,6 +125,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **RVO Health** | Nurse Practitioner - Weight & Wellness | US | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4712742005) |
 | **EVERSANA** | Cutaneous Oncology Clinical Nurse Edu... | St. Louis, MO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000136279215) |
 | **Insulet Corporation** | Project Manager, Internal Evaluations... | Acton, Massachusetts | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Project-Manager--Internal-Evaluations--Hybrid---Acton--MA-_REQ-2026-17088) |
+| **Delta Dental** | Internship - Application Development | Okemos, MI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101349) |
+| **Delta Dental** | Internship - Application Development | Okemos, MI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101348) |
 | **Delta Dental** | Internship - Compliance Training and ... | Okemos, MI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Compliance-Training-and-Technology_JR101304) |
 | **Generac** | Lab Technician Intern | Santa Monica, CA ... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Santa-Monica-CA----USA/Lab-Technician-Intern_JR14695) |
 | **Flagship Pioneering** | Serif Biomedicines, Market Intelligen... | Cambridge, MA USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8580062002?gh_jid=8580062002) |
@@ -322,7 +324,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wellmark, Inc.** | Provider Compliance & Policy Manager | Des Moines, IA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000138166319) |
 | **LLNL** | Design Physics - Postdoctoral Researcher | Livermore, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014130586) |
 | **University System of New Hampshire** | Athletic Trainer (Adjunct) | Main | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Athletic-Trainer--Adjunct-_JR8687) |
-| **Philips** | Compliance Program Manager (Operation... | Cambridge (US), M... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Compliance-Program-Manager--Operations-and-Investigations-_586244) |
 | **Medtronic** | Field Reimbursement Manager - Remote | State of Texas, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Texas-United-States-of-America/Health-Economics-Manager---Remote_R70858-1) |
 | **Medtronic** | Physician Relations DIrector - Periph... | Minneapolis, Minn... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Physician-Relations-DIrector---Peripheral-Vascular-Health_R72395-1) |
 | **Guidehouse** | Patient Account Representative - Medi... | TX Lewisville + 1... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-Lewisville/Patient-Account-Representative---Medicaid-Redetermination_40372) |
@@ -391,6 +392,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **VSP Vision** | Licensed Optician/Optical Administrator | San Diego, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/San-Diego-CA/Licensed-Optician-Optical-Administrator_R-9751) |
 | **NREL** | Postdoctoral Researcher: Inverter-bas... | Golden, CO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher--Inverter-based-Resources--IBR--Driven-Power-System-Protection-Study---Stability-Analysis_R14389) |
 | **IDEXX** | Customer Support Consultant - Bilingu... | Virtual United St... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Customer-Support-Consultant---Bilingual--French---English-_J-053742) |
+| **Globus Medical** | Neurophysiologist (Baltimore, MD) | Maryland | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Neurophysiologist--Baltimore--MD-_JR107195-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -451,7 +453,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1586 current opportunities from 102 companies**
+**🎯 1583 current opportunities from 101 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
