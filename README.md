@@ -298,11 +298,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Field Technician - Eurofins Environme... | Horsham, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138414819) |
+| **Eurofins** | Consumer Testing Associate | Bound Brook, NJ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138413449) |
+| **Eurofins** | Consumer Testing Associate (On-Call/P... | Bound Brook, NJ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138412440) |
 | **AbbVie** | Pharmacy Technician II | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014160316) |
-| **Eurofins** | Sample Receiving, Environment Testing... | Earth City, MO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138408069) |
 | **Google** | Alphabet Lab Services Engineer, Platf... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
-| **Eurofins** | Sample Admin Specialist | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138404651) |
-| **Eurofins** | Laboratory Analyst I (2nd shift), Env... | Earth City, MO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138404469) |
 | **AbbVie** | Associate Director, Operations and Co... | Irvine, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014157046) |
 | **AbbVie** | Portfolio Manager, Real Estate | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014156526) |
 | **Intuitive** | Comparative Medicine Technician 3 | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000138392009) |
