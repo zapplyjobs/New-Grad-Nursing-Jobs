@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-2213-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1091-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-2024-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1035-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-99-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -229,7 +229,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GDIT** | Human Performance Data Scientist I | USA FL Hurlburt F... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Hurlburt-Field---229-Cody-Ave-FLC017/Human-Performance-Data-Scientist-I_RQ210954) |
 | **Atlantic Health System** | Medical Laboratory Technician - Per D... | Clark, NJ, United... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30739) |
 | **ICF** | Public Health Research Scientist (Atl... | Atlanta, GA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Atlanta-GA/Public-Health-Research-Scientist--Atlanta--Georgia-REMOTE-ROLE-_R2602332) |
-| **Fresenius Medical Care** | Clinical Educator | Oakland, CA, USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Oakland-CA-USA/Clinical-Educator_R0259323-1) |
 | **University System of New Hampshire** | Postdoctoral Research Associate | Main | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Postdoctoral-Research-Associate_JR8467) |
 | **Biogen** | (Sr) Medical Science Liaison, Multipl... | Dallas, TX + 1 more | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Dallas-TX/XMLNAME--Sr--Medical-Science-Liaison--Multiple-Sclerosis---AZ--NM--TX----AR_REQ23674) |
 | **Sherwin-Williams** | Quality Lab Technician | Garland, TX, Unit... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2613773) |
@@ -242,10 +241,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Honeywell** | Data Scientist II | Pittsford, NY, Un... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/151648) |
 | **Intuitive** | Clinical Research Engineer - Future F... | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000134887129) |
 | **Atlantic Health System** | Medical Laboratory Scientist, Full Ti... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30132) |
-| **LabCorp** | Histotechnologist | Boston MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Boston-MA/Histotechnologist_2622463) |
 | **University System of New Hampshire** | Postdoctoral Research Associate | Main | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Postdoctoral-Research-Associate_JR7277) |
-| **LabCorp** | Clinical Laboratory Technologist - Co... | Birmingham AL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Birmingham-AL/Clinical-Laboratory-Technologist---Core-Chemistry_2616241) |
 | **Fortive** | Scientist II | Irvine, CA, Unite... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9925) |
+| **Atlantic Health System** | Medical Laboratory Scientist, Full Ti... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27380) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -304,7 +302,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Merck & Co.** | US Oncology Field Medical Affairs Ali... | REMOTE | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---REMOTE---REMOTE/US-Oncology-Field-Medical-Affairs-Alignment-Director--FMAD----GI-Cancers_R405934-1) |
 | **Bristol Myers Squibb** | Associate Director, Global Medical Af... | NJ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Director--Global-Medical-Affairs--SLE_R1599633) |
 | **Cardinal Health** | Manager, Environmental Health & Safety | Fort Worth, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TX---Fort-Worth---CAH-Home-Solutions-DC---Mark-IV/Manager--Environmental-Health---Safety_20183422) |
-| **Fresenius Medical Care** | VP Social Work and Behavioral Health ... | Waltham, MA, USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Waltham-MA-USA/VP-Social-Work-and-Behavioral-Health-Services_R0258049) |
 | **Intuitive** | Cardiovascular Program Specialist | Portland, OR | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000134468530) |
 | **Intuitive** | Cardiovascular Program Specialist | Seattle, WA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000134460255) |
 | **Highmark Health** | Patient Access Coordinator I / Regist... | Pittsburgh PA, 15212 | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/Patient-Access-Coordinator-I---Registration---AHN-Allegheny-General-Hospital--Full-Time---Daylight-Shift-_J281118-1) |
@@ -323,9 +320,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fresenius Medical Care** | Biomedical Technician | Elmhurst, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Elmhurst-IL/Biomedical-Technician_R0260911) |
 | **Fresenius Medical Care** | Biomedical Technician | Grand Blanc, MI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Grand-Blanc-MI/Biomedical-Technician_R0260858-1) |
 | **University System of New Hampshire** | Athletic Trainer (Adjunct) | Main | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Athletic-Trainer--Adjunct-_JR8687) |
-| **LabCorp** | Phlebotomist Float | Seattle WA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Seattle-WA/Phlebotomist-Float_2620992) |
-| **LabCorp** | Phlebotomist Part Time | San Francisco CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Phlebotomist-Part-Time_2621705) |
+| **Thermo Fisher Scientific** | On-Site Field Service Engineer I (Ele... | Remote, Idaho, USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Idaho-USA/On-Site-Field-Service-Engineer-I--Electron-Microscopy--Boise--Idaho_R-01360774-1) |
 | **LabCorp** | Phlebotomist | NC | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/USA---NC---Goldsboro---2202-Wayne-Memorial-Drive/Phlebotomist_2623975) |
+| **LabCorp** | Phlebotomist | Bakersfield CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Bakersfield-CA/Phlebotomist_2625054-1) |
+| **LabCorp** | Phlebotomist Float | Seattle WA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Seattle-WA/Phlebotomist-Float_2620992) |
 | **Google** | Alphabet Lab Services Engineer, Platf... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
 | **Takeda** | Medical Support Specialist - EMT | FL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Gainesville/Medical-Support-Specialist---EMT_R0184968-1) |
 | **Takeda** | Associate Director, Global Regulatory... | Virtual | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Massachusetts---Virtual/Associate-Director--Global-Regulatory-Project-Management-and-Strategic-Planning---Oncology_R0184833) |
@@ -340,7 +338,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wash U** | Medical Assistant II - Otolaryngology | St. Louis, MO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/South-County---St-Louis-MO/Medical-Assistant-II---Otolaryngology_JR95887-1) |
 | **Wash U** | Medical Assistant III - Medicine Mult... | St. Louis, MO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/St-Louis-MO/Medical-Assistant-III---Medicine-Multispecialty-Center---Sunset-Hills_JR95847) |
 | **Zoetis** | Territory Business Manager | Remote, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-TX-Remote/Territory-Business-Manager_JR00021199) |
-| **Thermo Fisher Scientific** | On-Site Field Service Engineer I (Ele... | Remote, Idaho, USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Idaho-USA/On-Site-Field-Service-Engineer-I--Electron-Microscopy--Boise--Idaho_R-01360774-1) |
 | **Revvity** | Associate Clinical Lab Technologist | Pittsburgh | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://revvity.wd103.myworkdayjobs.com/External/job/Pittsburgh/Associate-Clinical-Lab-Technologist_JR-044659) |
 | **Pfizer** | Cardiovascular Specialist, Health and... | United States Tex... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Texas---Remote/Cardiovascular-Specialist--Health-and-Science-Professional---Friendswood--TX_4957523-1) |
 | **Pfizer** | Cardiovascular Specialist, Health and... | West Virginia | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---West-Virginia---Remote/Cardiovascular-Specialist--Health-and-Science-Professional---Beckley--WV_4958100) |
@@ -479,7 +476,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2213 current opportunities from 99 companies**
+**🎯 2024 current opportunities from 99 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
