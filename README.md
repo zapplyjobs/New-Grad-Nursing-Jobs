@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1632-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1633-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1033-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-99-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Atlantic Health System** | Registered Nurse Full Time Nights 7p-... | Pompton Plains, N... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31071) |
 | **AbbVie** | Associate Director, International Omn... | Mettawa, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014155560) |
 | **Leland** | Registered Nurse Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/f9acc0e5-a019-43db-aaea-c1806e42996e/application) |
 | **Leland** | Nursing School Admissions Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/7ca5fc48-37ac-49b9-9fcf-a5e34250e915/application) |
@@ -81,7 +82,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Mansfield, OH, USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Mansfield-OH-USA/Patient-Care-Technician---PCT_R0258302) |
 | **Atlantic Health System** | Registered Nurse - Part-time 24 hours... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29053) |
 | **Atlantic Health System** | Practice Clinical Supv (RN), Full Tim... | Summit, NJ, Unite... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30695) |
-| **Atlantic Health System** | Registered Nurse Full Time Nights 7p-... | Pompton Plains, N... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31049) |
 | **Included Health** | Nocturnist Physician, Urgent Care | Texas | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/ebeb13e6-fe0d-42ae-99d4-60410c16a489/apply) |
 | **Cigna** | LCSW LPC LMFT Behavioral Health Couns... | Endicott, NY | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Endicott-NY/LCSW-LPC-LMFT-Behavioral-Health-Counselor-Bilingual-Spanish---Evernorth---Conklin-NY_26008973) |
 | **Cigna** | Intake Care Representative  - Evernor... | Florida Work at H... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Florida-Work-at-Home/Intake-Care-Representative----Evernorth---Remote_26007635-1) |
@@ -458,7 +458,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1632 current opportunities from 99 companies**
+**🎯 1633 current opportunities from 99 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
