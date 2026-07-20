@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1675-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1031-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1660-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1030-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-97-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -105,7 +105,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boys Town** | Registered Nurse - Pediatric ICU (Day... | Omaha, NE | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Registered-Nurse---Pediatric-ICU--Days-075-FTE--Hiring-Bonus---10-00000_REQ-2026-8969-1) |
 | **LabCorp** | Hospital Patient Care Technician | Boston MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Boston-MA/Hospital-Patient-Care-Technician_2615107) |
 | **Elevance Health** | Family Nurse Practitioner - Paragon I... | CONROE, 27152 INT... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/TX-CONROE-27152-INTERSTATE-45-N/Family-Nurse-Practitioner---Paragon-Infusion-Centers_JR200419) |
-| **AbbVie** | Associate Director, International Mar... | Mettawa, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014093836) |
+| **AbbVie** | Director, International Market Access... | Mettawa, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014091006) |
 | **Oscar Health** | Case Management RN | Tempe, Arizona, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8056709?gh_jid=8056709) |
 | **Guidehouse** | Patient Account Representative - Hosp... | CA San Marcos + 1... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-San-Marcos/Patient-Account-Representative---Hospital-A-R---Commercial---Government_41969) |
 | **AstraZeneca** | Associate Director, External Operatio... | MD | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Associate-Director--External-Operations--Cell-Therapy---External-Supply-Management_R-249589-1) |
@@ -460,7 +460,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1675 current opportunities from 97 companies**
+**🎯 1660 current opportunities from 97 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
