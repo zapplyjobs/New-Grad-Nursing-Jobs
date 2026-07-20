@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1607-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1018-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-98-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1605-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1017-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-97-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -227,7 +227,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Johnson & Johnson** | Clinical Research Manager | Irvine, Californi... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Clinical-Research-Manager_R-070776-1) |
 | **Johnson & Johnson** | Clinical Research Manager | Irvine, Californi... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Clinical-Research-Manager_R-072698-1) |
 | **LLNL** | Chemical Lab Technician | Livermore, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013949116) |
-| **Olsson** | Associate Scientist - Industrial Envi... | North Kansas City... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5292702008) |
 | **Intuitive** | Clinical Data Manager | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000136029919) |
 | **University System of New Hampshire** | Postdoctoral Research Associate | Main | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Postdoctoral-Research-Associate_JR8467) |
 | **Thermo Fisher Scientific** | Formulation Scientist I - 2nd Shift M... | Milwaukee, Wiscon... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Milwaukee-Wisconsin-USA/Formulation-Scientist-I_R-01356646) |
@@ -297,8 +296,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **AbbVie** | Associate Director, Marketing, Standa... | Mettawa, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014173206) |
 | **Google** | Alphabet Lab Services Engineer, Platf... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
+| **AbbVie** | Associate Director, Marketing, Standa... | Mettawa, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014173206) |
 | **Atlantic Health System** | Field Supervisor, ALS - Full Time - D... | Freehold, NJ, Uni... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31095) |
 | **Eurofins** | Courier, Environment Testing, Marlton... | Evesham, NJ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138417879) |
 | **Eurofins** | Courier- Eurofins Environment Testing... | Elmsford, NY | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138417399) |
@@ -457,7 +456,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1607 current opportunities from 98 companies**
+**🎯 1605 current opportunities from 97 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
