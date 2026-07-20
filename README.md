@@ -299,13 +299,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Molecular Medical Technologist | Louisville, KY | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138717169) |
 | **AbbVie** | Manager, Statistics - Oncology (Hybrid) | South San Francis... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014182796) |
 | **AbbVie** | Manager, Statistics - Oncology (Hybrid) | Florham Park, NJ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014182521) |
 | **Eurofins** | Sample Receiving (Tues-Sat), Environm... | Earth City, MO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138714644) |
 | **AbbVie** | Manager, Statistics - Oncology (Hybrid) | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014182666) |
 | **Eurofins** | Bioassay Data Review Specialist | Indianapolis, IN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138714639) |
 | **Google** | Alphabet Lab Services Engineer, Platf... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
-| **Eurofins** | Consumer Testing Associate (On-Call/P... | Bound Brook, NJ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138711664) |
 | **Atlantic Health System** | Bed Management Coordinator, Per Diem,... | Florham Park, NJ,... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27546) |
 | **Atlantic Health System** | Patient Safety Technician, part-time ... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28955) |
 | **Atlantic Health System** | Environmental Aide I - Per Diem (7:30... | Summit, NJ, Unite... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30209) |
