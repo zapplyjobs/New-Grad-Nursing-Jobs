@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1619-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1025-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1626-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1027-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-98-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Included Health** | Urgent Care Nurse Practitioner | Kentucky | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/1cadbff1-60e4-4865-bf19-91ccf62957b1/apply) |
+| **EVERSANA** | Cutaneous Oncology Clinical Nurse Edu... | Boston, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000138707489) |
 | **Atlantic Health System** | Nursing Assistant - Per Diem, Variabl... | NJ, United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21919) |
 | **Atlantic Health System** | Registered Nurse - Per Diem, Nights 7... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26056) |
 | **Atlantic Health System** | Registered Nurse Full Time Days 7a-7p... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26797) |
@@ -123,7 +125,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boys Town** | Registered Nurse - PRN | Omaha, NE | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Registered-Nurse---PRN_REQ-2026-8704-1) |
 | **Iterative Health** | Clinical Research Coordinator I - RN | Tyler, Texas | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4695759006) |
 | **Iterative Health** | Clinical Research Coordinator I -RN | New Albany, IN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4695429006) |
-| **Included Health** | Nocturnist Physician, Urgent Care | Florida | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/52061bf4-f629-4a2f-8676-5b1f24df346c/apply) |
 | **Eurofins** | Laboratory Analyst, Eurofins Environm... | Folsom, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000136526344) |
 | **RVO Health** | Nurse Practitioner - Weight & Wellness | US | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4712742005) |
 | **EVERSANA** | Cutaneous Oncology Clinical Nurse Edu... | St. Louis, MO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000136279215) |
@@ -144,9 +145,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Associate Analytical Chemist - Any Shift | Madison, WI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138706627) |
 | **Eurofins** | Powder Characterization Scientist | Groton, CT | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138689309) |
 | **Eurofins** | Associate Scientist – Physical Charac... | Groton, CT | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138689219) |
-| **Eurofins** | Particle and Powder Characterization ... | Groton, CT | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138687864) |
 | **Lila Sciences** | Distinguished Scientist, Small Molecu... | Cambridge, MA USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4291685009) |
 | **AbbVie** | Director, Medical Science Liaison Pla... | Dallas, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014170414) |
 | **AbbVie** | Director, Medical Science Liaison Pla... | Miami, FL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014170656) |
@@ -458,7 +459,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1619 current opportunities from 98 companies**
+**🎯 1626 current opportunities from 98 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
