@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1668-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1669-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1035-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-101-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -146,10 +146,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Phage Display Scientist | San Diego, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138961631) |
 | **Eurofins** | Assistant Scientist | Easton, MD | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138960819) |
 | **AbbVie** | Scientist I, In Vitro Biology | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014210616) |
 | **Eurofins** | Biologics Formulation Scientist | Gaithersburg, MD | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138956464) |
-| **Eurofins** | Scientist, Data Review | Columbia, MO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138956529) |
 | **Apple** | Engineering Lab Technician | Cupertino | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200669157/engineering-lab-technician) |
 | **AbbVie** | Clinical Research Associate II - Sout... | Tampa, FL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014193546) |
 | **Ginkgo Bioworks** | Laboratory Technician III, Antibody P... | Boston, Massachus... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5191277007) |
@@ -305,11 +305,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **AbbVie** | Engineer, Validation Commissioning | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014211666) |
 | **Google** | Alphabet Lab Services Engineer, Platf... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
 | **Eurofins** | Entry Level Cell Culture Associate | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138954869) |
 | **AbbVie** | District Manager, Gastroenterology  -... | Nashville, TN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014208216) |
 | **AbbVie** | Field Reimbursement Manager, Immunolo... | Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014208126) |
-| **AbbVie** | Master Data Specialist I | Waco, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014207946) |
 | **Eurofins** | Technician I | Centennial, CO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138941569) |
 | **Intuitive** | Clinical Development Engineering - Vi... | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000138922909) |
 | **LLNL** | Experimental Plasma Physics - Postdoc... | Devens, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014198636) |
@@ -465,7 +465,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1668 current opportunities from 101 companies**
+**🎯 1669 current opportunities from 101 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
