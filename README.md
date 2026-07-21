@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1651-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1026-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1653-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1028-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-98-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -67,6 +67,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **Amazon.com Services LLC** | Data Scientist II, AMZL, Central Lear... | Bellevue, WA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479689/data-scientist-ii-amzl-central-learning-solutions-science) |
+| **Atlantic Health System** | Patient Care Technician I - Full Time... | Summit, NJ, Unite... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30587) |
 | **Atlantic Health System** | Practice Clinical Supv (RN), Full Tim... | Summit, NJ, Unite... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31041) |
 | **Flagler Health** | Onsite - Licensed Practical Nurse (LP... | TEXAS  FLAGLER M... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/flaglerhealth/c544effc-fcbf-40c5-80fd-6300171bb7b8/application) |
 | **Flagler Health** | Onsite - Licensed Practical Nurse (LP... | ILLINOIS  FLAGLE... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/flaglerhealth/a3c23b37-2658-46e2-9fd0-f18434783969/application) |
@@ -76,7 +77,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Included Health** | Urgent Care Nurse Practitioner | Wisconsin | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/5ed7434f-0844-462f-b78f-45ad99f30417/apply) |
 | **EVERSANA** | Cutaneous Oncology Clinical Nurse Edu... | Boston, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000138707489) |
 | **Atlantic Health System** | Nursing Assistant - Per Diem, Variabl... | NJ, United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21919) |
-| **Atlantic Health System** | Registered Nurse - Per Diem, Nights 7... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26056) |
 | **AbbVie** | Associate Director, International Omn... | Mettawa, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014155560) |
 | **Leland** | Registered Nurse Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/f9acc0e5-a019-43db-aaea-c1806e42996e/application) |
 | **Leland** | Nursing School Admissions Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/7ca5fc48-37ac-49b9-9fcf-a5e34250e915/application) |
@@ -149,6 +149,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **AbbVie** | Scientist I | Worcester, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014192206) |
 | **Eurofins** | Associate Scientist: Cell & Molecular... | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138865599) |
 | **Amazon.com LLC** | Data Scientist II, Selection Growth S... | Seattle, WA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479600/data-scientist-ii-selection-growth-science) |
 | **Lila Sciences** | Associate Scientist/Scientist I, Prot... | Cambridge, MA USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4299967009) |
@@ -157,7 +158,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Scientist I, In Vitro Biology | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014186116) |
 | **Lila Sciences** | Distinguished Scientist, Small Molecu... | Cambridge, MA USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4291685009) |
 | **AbbVie** | Director, Medical Science Liaison Pla... | Dallas, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014170414) |
-| **AbbVie** | Director, Medical Science Liaison Pla... | Miami, FL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014170656) |
 | **Sherwin-Williams** | Quality Lab Technician I | Pittsburgh, PA, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2617132) |
 | **IDEXX** | Medical Laboratory Technician - 3rd S... | Dallas, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Medical-Laboratory-Technician---3rd-Shift_J-054033) |
 | **IDEXX** | Medical Laboratory Technician - 3rd S... | Dallas, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Medical-Laboratory-Technician-3rd-Shift_J-051225) |
@@ -258,7 +258,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **EVERSANA** | Medical Information Specialist | Overland Park, KS | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000138736989) |
-| **Atlantic Health System** | Patient Access Representative, Full T... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30366) |
 | **Atlantic Health System** | Behavioral Health Clinician - LCSW, L... | Florham Park, NJ,... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31091) |
 | **Leland** | Physical Therapist Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/9515e6ad-dc8c-4406-8056-fc83469e7fc6/application) |
 | **Leland** | Occupational Therapist Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/bd314639-eea8-45ee-8ef1-fe92be1d4746/application) |
@@ -281,6 +280,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Exact Sciences** | Sr Regional Oncology Specialist - Ric... | VA Richmond + 3 more | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---VA---Richmond/Sr-Regional-Oncology-Specialist---Richmond--VA_R26-13556) |
 | **Guidehouse** | Patient Access Representative - Part ... | CA, Ventura | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ventura/Patient-Access-Representative---Part-Time-8-30am_41983) |
 | **Merck & Co.** | US Director Medical Affairs (USDMA): ... | Pennsylvania | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/US-Director-Medical-Affairs--USDMA---Rheumatology-Dermatology--Remote-_R397320-1) |
+| **Atlantic Health System** | Social Worker (MSW), Full Time, Days,... | NJ, United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30433) |
 | **AstraZeneca** | US BBU Compliance Business Partner, M... | DE | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Wilmington---DE/US-BBU-Compliance-Business-Partner--Market-Access---Medical-Affairs_R-256302) |
 | **Gilead Sciences** | Manager, Medical Affairs | California | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Manager--Medical-Affairs_R0053445) |
 | **Globus Medical** | Associate Spine Specialist (Rapid Cit... | South Dakota | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/South-Dakota/Associate-Spine-Specialist--Rapid-City--SD-_JR107263) |
@@ -305,17 +305,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **AbbVie** | 2027 Packaging Co-Op (July - Dec) | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014191506) |
-| **AbbVie** | 2027 Packaging Co-Op (Jan - June) | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014191096) |
-| **AbbVie** | Project Manager, Operations (onsite d... | Worcester, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014190796) |
+| **AbbVie** | Engineer, Technology II | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014192276) |
+| **AbbVie** | Associate Director, Product Quality | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014192146) |
+| **Eurofins** | Laboratory Assistant | Centennial, CO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138874039) |
+| **AbbVie** | Program Manager, Ambassador Resource ... | Mettawa, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014191936) |
 | **Google** | Alphabet Lab Services Engineer, Platf... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
+| **Atlantic Health System** | Secretary/Technician, per diem varied... | Summit, NJ, Unite... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31005) |
 | **Atlantic Health System** | Certified Medical Assistant I, Per Di... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31112) |
 | **Eurofins** | Sensory Panel Manager | Clark, NJ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138737519) |
 | **BillionToOne** | Client Services Associate I, Oncology | Union City, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4716882005) |
 | **Eurofins** | Technician I - Microbiology | Crown Point, IN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138730929) |
-| **Eurofins** | Marketing Communications Manager | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138730619) |
 | **Atlantic Health System** | Bed Management Coordinator, Per Diem,... | Florham Park, NJ,... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27546) |
-| **Atlantic Health System** | Certified Medical Assistant I, Full T... | Freehold, NJ, Uni... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28927) |
 | **Intuitive** | Comparative Medicine Technician 3 | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000138392009) |
 | **Leland** | Veterinarian School Admissions Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/5455742b-2bc8-4da6-83c4-2444271bfcd3/application) |
 | **Leland** | Veterinarian Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/0be158ff-f853-4729-8fdf-378bafd3dd15/application) |
@@ -465,7 +465,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1651 current opportunities from 98 companies**
+**🎯 1653 current opportunities from 98 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
