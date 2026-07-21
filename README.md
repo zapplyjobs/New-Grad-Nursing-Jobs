@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1650-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1649-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1023-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-99-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-98-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -182,7 +182,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bristol Myers Squibb** | Associate Scientist, Gene Engineering... | Seattle 400 Dexte... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Seattle-400-Dexter---WA---US/Associate-Scientist--Gene-Engineering-and-Delivery_R1604491) |
 | **Amazon.com Services LLC** | Data Scientist II, Rapid & Rural Logi... | Bellevue, WA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10476538/data-scientist-ii-rapid-rural-logistics-r2l-analytics) |
 | **Sherwin-Williams** | Quality Lab Technician - 1st Shift | Elkhart, IN, Unit... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2617761) |
-| **Microsoft** | Applied Scientist II | Redmond, Washingt... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556938085) |
 | **GenScript** | Lab Technician | Piscataway, New J... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/genscript/jobs/5187689007) |
 | **AstraZeneca** | Medical Science Liaison - Immunology ... | MN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Minneapolis---MN/Medical-Science-Liaison---Immunology---Minneapolis--MN_R-255635-1) |
 | **Zoetis** | Scientist, Bioscience Process and Val... | Durham | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Durham/Scientist--Bioscience-Process-and-Validation_JR00021186-1) |
@@ -466,7 +465,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1650 current opportunities from 99 companies**
+**🎯 1649 current opportunities from 98 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
