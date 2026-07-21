@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1662-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1034-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1659-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1032-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-100-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -81,7 +81,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Leland** | Registered Nurse Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/f9acc0e5-a019-43db-aaea-c1806e42996e/application) |
 | **Leland** | Nursing School Admissions Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/7ca5fc48-37ac-49b9-9fcf-a5e34250e915/application) |
 | **Leland** | Nurse Practitioner Career Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/b6a5a8e9-23d3-445a-8c0a-6a7c954c3e91/application) |
-| **Eurofins** | Shipping/Receiving Technician, Eurofi... | Auburn, ME | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138355841) |
 | **Takeda** | Registered Nurse Bilingual Spanish | NV | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NV---Las-Vegas/Registered-Nurse-Bilingual-Spanish_R0184922-1) |
 | **Takeda** | Biolife - Licensed Practical Nurse (LPN) | WI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Biolife---Licensed-Practical-Nurse--LPN-_R0184917) |
 | **Highmark Health** | Graduate Nurse - Multiple Opportuniti... | Pittsburgh PA, 15212 | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/Graduate-Nurse---Multiple-Opportunities--Allegheny-General_J282611-1) |
@@ -466,7 +465,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1662 current opportunities from 100 companies**
+**🎯 1659 current opportunities from 100 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
