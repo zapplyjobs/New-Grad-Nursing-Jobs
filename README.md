@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1681-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1048-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1683-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1049-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-99-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,9 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Atlantic Health System** | Patient Care Technician I, Per Diem D... | Summit, NJ, Unite... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26111) |
 | **Atlantic Health System** | Certified Medical Assistant I- Full T... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26230) |
 | **Atlantic Health System** | Registered Nurse, Full Time, Days, AM... | Hillsborough, NJ,... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27987) |
-| **Atlantic Health System** | Registered Nurse Per Diem Nights 7p-7... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30815) |
 | **AbbVie** | Director, International Market Access... | Mettawa, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014209107) |
 | **Included Health** | Urgent Care Nurse Practitioner | Iowa | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/0f54d162-6496-4e84-acc7-7c3c32c38189/apply) |
 | **Amazon.com Services LLC** | Data Scientist II, AMZL, Central Lear... | Bellevue, WA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479689/data-scientist-ii-amzl-central-learning-solutions-science) |
@@ -146,11 +146,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Entry Level Chemist- 2nd Shift | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139156399) |
 | **Eurofins** | Entry Level Chemist | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139153989) |
 | **Eurofins** | HPLC Scientist | St. Louis, MO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139153639) |
 | **AbbVie** | Associate Scientist, Data II | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014234546) |
 | **AbbVie** | Scientist I, Multi-Specifics Expression | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014233746) |
-| **Eurofins** | Entry Level Chemist | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139148241) |
 | **AbbVie** | Future opportunities- Join our talent... | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014233096) |
 | **Iterative Health** | Project Manager, Clinical Research - ... | NYC, BOS or Dallas | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4697832006) |
 | **Microsoft** | Applied Scientist II (Bing Places) | Redmond, Washingt... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556858338) |
@@ -303,6 +303,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **RVO Health** | Engagement Specialist | US | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4716033005) |
 | **Google** | Alphabet Lab Services Engineer, Platf... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
 | **AbbVie** | Lab Analyst II | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014234686) |
 | **AbbVie** | Manager, Global Medical Information | Florham Park, NJ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014232959) |
@@ -402,7 +403,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Merck & Co.** | Director Global Oncology Market Acces... | New Jersey Rahway... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Director-Global-Oncology-Market-Access---Lung_R390477-1) |
 | **Merck & Co.** | Cardiovascular Disease Specialist – W... | Texas | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Texas---Texas/Cardiovascular-Disease-Specialist---Waco--TX_R403016-1) |
 | **Biogen** | Executive Medical Director, Clinical ... | Cambridge, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Executive-Medical-Director--Clinical-Development--MS-and-Neuropsychiatry_REQ23744) |
-| **Biogen** | Site Feasibility Manager | Cambridge, MA + 1... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Site-Feasability-Manager_REQ23685-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -463,7 +463,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1681 current opportunities from 99 companies**
+**🎯 1683 current opportunities from 99 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
