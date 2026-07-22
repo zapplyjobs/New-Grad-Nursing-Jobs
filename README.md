@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1636-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1015-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1640-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1016-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-101-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -67,12 +67,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **Atlantic Health System** | Nurse Practitioner, Women’s Health - ... | Clark, NJ, United... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30919) |
-| **Atlantic Health System** | Registered Nurse Full Time Days 7a-7p... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30987) |
+| **Atlantic Health System** | Nursing Assistant, per diem varied 12... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30956) |
+| **Atlantic Health System** | Nursing Assistant, per diem varied, K... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30977) |
 | **AbbVie** | Director, International Market Access... | Mettawa, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014209107) |
 | **Included Health** | Urgent Care Nurse Practitioner | Iowa | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/0f54d162-6496-4e84-acc7-7c3c32c38189/apply) |
 | **Amazon.com Services LLC** | Data Scientist II, AMZL, Central Lear... | Bellevue, WA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479689/data-scientist-ii-amzl-central-learning-solutions-science) |
 | **Amazon.com Services LLC** | Applied Scientist II, Data Intelligen... | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480925/applied-scientist-ii-data-intelligence-and-governance) |
-| **Atlantic Health System** | Registered Nurse - Full-time Nights 7... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29042) |
 | **Flagler Health** | Onsite - Licensed Practical Nurse (LP... | TEXAS  FLAGLER M... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/flaglerhealth/c544effc-fcbf-40c5-80fd-6300171bb7b8/application) |
 | **Flagler Health** | Onsite - Licensed Practical Nurse (LP... | ILLINOIS  FLAGLE... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/flaglerhealth/a3c23b37-2658-46e2-9fd0-f18434783969/application) |
 | **Flagler Health** | Onsite - Licensed Practical Nurse (LP... | Tampa  Flagler M... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/flaglerhealth/e7e9c346-5549-4fb9-bafc-9b8d74342a8a/application) |
@@ -314,12 +314,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Alphabet Lab Services Engineer, Platf... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
 | **Eurofins** | Stability / Reference Standard Specia... | Indianapolis, IN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138966889) |
 | **Atlantic Health System** | Secretary/Technician, full-time night... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30886) |
+| **Atlantic Health System** | Radiographer-Atlantic Health Chilton ... | Pompton Plains, N... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30992) |
 | **Eurofins** | Entry Level Cell Culture Associate | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138954869) |
 | **Eurofins** | Technician I | Centennial, CO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138941569) |
 | **Intuitive** | Clinical Development Engineering - Vi... | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000138922909) |
 | **LLNL** | Experimental Plasma Physics - Postdoc... | Devens, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014198636) |
 | **Atlantic Health System** | Division Chief, Pediatric Nephrology | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/19925) |
-| **Atlantic Health System** | Radiographer-Atlantic Health Morristo... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22401) |
 | **Oracle** | Research Consultant- Oncology | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/331114) |
 | **BillionToOne** | Client Services Associate I, Oncology | Union City, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4716882005) |
 | **Intuitive** | Comparative Medicine Technician 3 | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000138392009) |
@@ -466,7 +466,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1636 current opportunities from 101 companies**
+**🎯 1640 current opportunities from 101 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
