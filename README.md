@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1679-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1047-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1681-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1048-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-99-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -146,12 +146,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Entry Level Chemist | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139153989) |
+| **Eurofins** | HPLC Scientist | St. Louis, MO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139153639) |
 | **AbbVie** | Associate Scientist, Data II | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014234546) |
 | **AbbVie** | Scientist I, Multi-Specifics Expression | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014233746) |
 | **Eurofins** | Entry Level Chemist | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139148241) |
 | **AbbVie** | Future opportunities- Join our talent... | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014233096) |
-| **Eurofins** | Lab Assistant - Tuesday-Saturday, 8am... | Lenexa, KS | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139140554) |
-| **Eurofins** | Development Scientist | St. Louis, MO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139140009) |
 | **Iterative Health** | Project Manager, Clinical Research - ... | NYC, BOS or Dallas | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4697832006) |
 | **Microsoft** | Applied Scientist II (Bing Places) | Redmond, Washingt... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556858338) |
 | **Ginkgo Bioworks** | Laboratory Technician III, Antibody P... | Boston, Massachus... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5191277007) |
@@ -303,18 +303,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Google** | Alphabet Lab Services Engineer, Platf... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
 | **AbbVie** | Lab Analyst II | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014234686) |
 | **AbbVie** | Manager, Global Medical Information | Florham Park, NJ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014232959) |
 | **AbbVie** | Manager, Global Medical Information | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014233386) |
 | **Eurofins** | Entry Level Cell Culture Associate | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139143957) |
-| **Google** | Alphabet Lab Services Engineer, Platf... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
 | **Eurofins** | Laboratory Supervisor | Centennial, CO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139131320) |
 | **Eurofins** | Hybrid Rail Inspector | Decatur, IN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139128129) |
 | **LLNL** | Design Physics - Postdoctoral Researcher | Livermore, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014221006) |
 | **EVERSANA** | Consultant (Life Sciences) | Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000139085785) |
 | **Atlantic Health System** | Psychiatrist, PD - Atlantic Health Ne... | Newton, NJ, Unite... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/17504) |
+| **Atlantic Health System** | Certified Medical Assistant I, Full t... | Freehold, NJ, Uni... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/25946) |
 | **Atlantic Health System** | Certified Medical Assistant I, Full T... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27772) |
-| **Atlantic Health System** | Certified Medical Assistant I- Full T... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27774) |
 | **Intuitive** | Clinical Development Engineering - Vi... | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000138922909) |
 | **LLNL** | Experimental Plasma Physics - Postdoc... | Devens, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014198636) |
 | **Oracle** | Research Consultant- Oncology | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/331114) |
@@ -463,7 +463,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1679 current opportunities from 99 companies**
+**🎯 1681 current opportunities from 99 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
