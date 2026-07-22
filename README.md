@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1643-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1642-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1014-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-102-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-101-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -152,7 +152,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eurofins** | Assistant Scientist | Easton, MD | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138960819) |
 | **AbbVie** | Scientist I, In Vitro Biology | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014210616) |
 | **Eurofins** | Biologics Formulation Scientist | Gaithersburg, MD | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138956464) |
-| **Apple** | Engineering Lab Technician | Cupertino | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200669157/engineering-lab-technician) |
 | **AbbVie** | Clinical Research Associate II - Sout... | Tampa, FL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014193546) |
 | **Ginkgo Bioworks** | Laboratory Technician III, Antibody P... | Boston, Massachus... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5191277007) |
 | **AbbVie** | Scientist I | Worcester, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014192206) |
@@ -247,6 +246,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intuitive** | Clinical Research Engineer - Future F... | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000134887129) |
 | **University System of New Hampshire** | Postdoctoral Research Associate | Main | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Postdoctoral-Research-Associate_JR7277) |
 | **Fortive** | Scientist I | Irvine, CA, Unite... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9893) |
+| **Fortive** | Scientist I | Irvine, CA, Unite... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9954) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -467,7 +467,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1643 current opportunities from 102 companies**
+**🎯 1642 current opportunities from 101 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
