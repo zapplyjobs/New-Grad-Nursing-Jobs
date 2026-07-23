@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1369-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-899-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-81-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1371-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-898-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-82-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -67,9 +67,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **Included Health** | Urgent Care Nurse Practitioner | Colorado | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/2853afaf-669f-427c-aee5-adc793298411/apply) |
+| **Atlantic Health System** | Registered Nurse, Full Time Days 7a-5... | Newton, NJ, Unite... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29779) |
 | **Atlantic Health System** | Physical Therapist I: Per Diem Late A... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30117) |
 | **Atlantic Health System** | Home Care & Hospice Referral Speciali... | Newton, NJ, Unite... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30860) |
-| **Atlantic Health System** | Registered Nurse, full-time nights 7P... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31169) |
 | **AbbVie** | Oncology Nurse Educator - Pacific Nor... | Seattle, WA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014236016) |
 | **AbbVie** | Oncology Nurse Educator - Pacific Nor... | San Francisco, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014235986) |
 | **AbbVie** | Oncology Nurse Educator - Pacific Nor... | Portland, OR | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014235946) |
@@ -144,12 +144,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **AbbVie** | Sr Scientist I Analytical Chemistry- ... | Irvine, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014251807) |
+| **Pinterest** | Data Scientist II, ML Infrastructure | Palo Alto, CA, US... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=8071670) |
 | **Eurofins** | Analytical Chemist | Groton, CT | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139327903) |
 | **Eurofins** | Biochemist (Bioassay) | Indianapolis, IN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139327339) |
 | **Eurofins** | Analytical Chemistry Scientist | Oceanside, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139324379) |
 | **AbbVie** | Associate Scientist, Data II | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014234546) |
 | **AbbVie** | Scientist I, Multi-Specifics Expression | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014233746) |
-| **AbbVie** | Future opportunities- Join our talent... | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014233096) |
 | **Iterative Health** | Project Manager, Clinical Research - ... | NYC, BOS or Dallas | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4697832006) |
 | **Microsoft** | Applied Scientist II (Bing Places) | Redmond, Washingt... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556858338) |
 | **Ginkgo Bioworks** | Laboratory Technician III, Antibody P... | Boston, Massachus... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5191277007) |
@@ -273,9 +274,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **AbbVie** | Engineer, Technology II | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014251947) |
 | **AbbVie** | Director, Patient Centered Outcomes R... | Ware, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014250927) |
 | **AbbVie** | Scientific Director, Oncology Early D... | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014250206) |
-| **AbbVie** | Scientific Director, Oncology Early D... | South San Francis... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014250186) |
 | **Google** | Alphabet Lab Services Engineer, Platf... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
 | **Eurofins** | Courier-Part-Time | Marion, OH | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139328329) |
 | **Eurofins** | Laboratory Analyst, Metals | Marion, OH | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139321319) |
@@ -433,7 +434,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1369 current opportunities from 81 companies**
+**🎯 1371 current opportunities from 82 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
