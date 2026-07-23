@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1388-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-906-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1392-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-909-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-81-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -72,7 +72,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Included Health** | Urgent Care Nurse Practitioner | Florida | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/8e758272-671e-445f-85ce-84db583cb577/apply) |
 | **Atlantic Health System** | Registered Nurse, Full Time Days 7a-5... | Newton, NJ, Unite... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29779) |
 | **Atlantic Health System** | Physical Therapist I: Per Diem Late A... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30117) |
-| **Atlantic Health System** | Patient Care Technician I - Per Diem,... | NJ, United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30414) |
+| **Atlantic Health System** | Registered Nurse- Full Time, Nights, ... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30365) |
 | **AbbVie** | Oncology Nurse Educator - Pacific Nor... | Seattle, WA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014236016) |
 | **AbbVie** | Oncology Nurse Educator - Pacific Nor... | San Francisco, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014235986) |
 | **AbbVie** | Oncology Nurse Educator - Pacific Nor... | Portland, OR | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014235946) |
@@ -274,10 +274,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **AbbVie** | Supervisor, Insurance Analyst | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014257793) |
+| **Eurofins** | Technical Writer | Lenexa, KS | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139363410) |
 | **AbbVie** | Meeting Planner | Austin, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014257426) |
 | **Eurofins** | Laboratory Support Technician | Rensselaer, NY | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139361149) |
 | **Eurofins** | Courier, Eurofins Environment Testing... | Ashland, VA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139358736) |
-| **Eurofins** | HPLC Empower Trainer & Support | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139359109) |
 | **Included Health** | Urgent Care Physician | Texas | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/d88ce565-00c2-48a0-8dd1-413fadf88b91/apply) |
 | **Included Health** | Urgent Care Physician | Minnesota | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/a9f901c1-b6b4-4aa0-a7cc-1e548a51190f/apply) |
 | **Included Health** | Urgent Care Physician | North Carolina | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/3a38ae80-e7c9-4323-8bcb-f24e90109a30/apply) |
@@ -433,7 +433,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1388 current opportunities from 81 companies**
+**🎯 1392 current opportunities from 81 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
