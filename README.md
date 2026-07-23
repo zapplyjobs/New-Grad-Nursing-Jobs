@@ -128,7 +128,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Northern-California---San-Francisco--San-Jose--Sacramento-_REQ-29090) |
 | **Boys Town** | Registered Nurse - PRN | Omaha, NE | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Registered-Nurse---PRN_REQ-2026-8704-1) |
 | **Iterative Health** | Clinical Research Coordinator I - RN | Tyler, Texas | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4695759006) |
-| **Iterative Health** | Clinical Research Coordinator I -RN | New Albany, IN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4695429006) |
 | **Delta Dental** | Internship - Application Development | Okemos, MI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101349) |
 | **Delta Dental** | Internship - Application Development | Okemos, MI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101348) |
 | **Delta Dental** | Internship - Compliance Training and ... | Okemos, MI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Compliance-Training-and-Technology_JR101304) |
@@ -145,9 +144,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Analytical Chemistry Scientist | Oceanside, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139324379) |
 | **Eurofins** | Scientist I Analytical Chemist | Saint Charles, MO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139323589) |
 | **Eurofins** | Associate Scientist I | River Falls, WI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139320990) |
-| **Eurofins** | Analytical Chemist | Groton, CT | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139284459) |
 | **AbbVie** | Associate Scientist, Data II | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014234546) |
 | **AbbVie** | Scientist I, Multi-Specifics Expression | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014233746) |
 | **AbbVie** | Future opportunities- Join our talent... | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014233096) |
@@ -274,6 +273,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **AbbVie** | Director, ADC CMC Sciences | Waltham, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014248156) |
 | **Eurofins** | Field Technician | Marion, OH | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139321660) |
 | **Eurofins** | Laboratory Analyst, Metals | Marion, OH | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139321319) |
 | **Eurofins** | Laboratory Analyst | Marion, OH | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139320589) |
@@ -285,7 +285,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Atlantic Health System** | Certified Medical Assistant I, Per Di... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28201) |
 | **Atlantic Health System** | Unit Associate I, per diem varied, La... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29712) |
 | **Intuitive** | Director of IT,  Engineering and PLM ... | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139163535) |
-| **AbbVie** | Manager, Planning Reporting support, ... | Mettawa, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014236051) |
 | **RVO Health** | Engagement Specialist | US | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4716033005) |
 | **LLNL** | Design Physics - Postdoctoral Researcher | Livermore, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014221006) |
 | **EVERSANA** | Consultant (Life Sciences) | Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000139085785) |
