@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1383-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-903-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1381-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-902-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-81-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Oscar Health** | NP/PA - Virtual Urgent Care | New York, New Yor... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7766426?gh_jid=7766426) |
 | **Included Health** | Urgent Care Nurse Practitioner | Vermont | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/a0725afa-c228-4a0d-9e25-2d5942d31865/apply) |
 | **Included Health** | Urgent Care Nurse Practitioner | Kansas | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/3beff2fe-a284-4caa-8ce4-0d8baeb74c9d/apply) |
 | **Included Health** | Urgent Care Nurse Practitioner | Florida | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/8e758272-671e-445f-85ce-84db583cb577/apply) |
@@ -146,10 +147,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Scientist II - Molecular Biology | Worcester, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014255846) |
 | **AbbVie** | Scientist II, Histotechnologist -  R&... | Worcester, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014255616) |
 | **Eurofins** | Entry-Level Sample Management Lab Tec... | Rensselaer, NY | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139352180) |
-| **Eurofins** | QC Sample Management Technician - 3rd... | Rensselaer, NY | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139350361) |
 | **Eurofins** | Laboratory Technician | Lenexa, KS | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139346590) |
 | **AbbVie** | Sr Scientist I Analytical Chemistry- ... | Irvine, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014251807) |
 | **Pinterest** | Data Scientist II, ML Infrastructure | Palo Alto, CA, US... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=8071670) |
+| **Eurofins** | Analytical Chemist | Groton, CT | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139327903) |
 | **Amazon.com Services LLC** | Applied Scientist I, Conversational A... | Seattle, WA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482784/applied-scientist-i-conversational-ad-experiences) |
 | **Atlantic Health System** | Medical Laboratory Scientist, Full Ti... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30522) |
 | **Atlantic Health System** | Medical Laboratory Scientist, Full Ti... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30817) |
@@ -272,6 +273,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Courier, Eurofins Environment Testing... | Ashland, VA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139358736) |
 | **Eurofins** | HPLC Empower Trainer & Support | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139359109) |
 | **Included Health** | Urgent Care Physician | Texas | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/d88ce565-00c2-48a0-8dd1-413fadf88b91/apply) |
 | **Included Health** | Urgent Care Physician | Minnesota | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/a9f901c1-b6b4-4aa0-a7cc-1e548a51190f/apply) |
@@ -279,11 +281,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **RVO Health** | Legal & Privacy Compliance Operations... | US | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4718069005) |
 | **RVO Health** | Legal & Privacy Compliance Operations... | Charlotte, North ... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4718065005) |
 | **RVO Health** | Legal & Privacy Compliance Operations... | Minneapolis, MN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4718068005) |
-| **AbbVie** | Associate Service Consultant, Salesfo... | Mettawa, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014255066) |
 | **AbbVie** | District Manager, Dermatology - Richm... | Fayetteville, NC | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014253416) |
 | **AbbVie** | District Manager, Dermatology - Richm... | Charlottesville, VA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014253376) |
+| **AbbVie** | District Manager, Dermatology - Richm... | Charleston, WV | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014253346) |
 | **Eurofins** | Entry Level PCR Data Review | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139344109) |
-| **Eurofins** | Courier-Part-Time | Marion, OH | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139328329) |
 | **Intuitive** | Systems Program Manager - Endoluminal BU | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139315645) |
 | **Atlantic Health System** | Certified Medical Assistant I, Per Di... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27586) |
 | **Atlantic Health System** | Certified Medical Assistant I, Per Di... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28201) |
@@ -432,7 +433,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1383 current opportunities from 81 companies**
+**🎯 1381 current opportunities from 81 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
