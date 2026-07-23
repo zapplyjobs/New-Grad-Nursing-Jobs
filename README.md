@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1347-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-880-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1348-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-881-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-81-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -274,6 +274,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Intuitive** | Systems Program Manager - Endoluminal BU | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139315645) |
+| **Eurofins** | Grain Inspector | Blair, NE | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139316176) |
+| **AbbVie** | Lab Analyst II | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014246726) |
 | **Google** | Alphabet Lab Services Engineer, Platf... | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96971662141858502) |
 | **AbbVie** | Associate Director, Competitive Intel... | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014245546) |
 | **Atlantic Health System** | Certified Medical Assistant I, Per Di... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28201) |
@@ -282,10 +285,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intuitive** | Director of IT,  Engineering and PLM ... | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139163535) |
 | **AbbVie** | Manager, Planning Reporting support, ... | Mettawa, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014236051) |
 | **RVO Health** | Engagement Specialist | US | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4716033005) |
-| **AbbVie** | Lab Analyst II | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014234686) |
 | **Eurofins** | Entry Level Cell Culture Associate | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139143957) |
 | **Eurofins** | Laboratory Supervisor | Centennial, CO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139131320) |
-| **Eurofins** | Hybrid Rail Inspector | Decatur, IN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139128129) |
 | **LLNL** | Design Physics - Postdoctoral Researcher | Livermore, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014221006) |
 | **EVERSANA** | Consultant (Life Sciences) | Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000139085785) |
 | **Oracle** | Research Consultant- Oncology | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340696) |
@@ -293,7 +294,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LLNL** | Experimental Plasma Physics - Postdoc... | Devens, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014198636) |
 | **Oracle** | Research Consultant- Oncology | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/331114) |
 | **BillionToOne** | Client Services Associate I, Oncology | Union City, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4716882005) |
-| **Intuitive** | Comparative Medicine Technician 3 | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000138392009) |
 | **Leland** | Veterinarian School Admissions Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/5455742b-2bc8-4da6-83c4-2444271bfcd3/application) |
 | **Leland** | Veterinarian Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/0be158ff-f853-4729-8fdf-378bafd3dd15/application) |
 | **Leland** | Physician & Medical Practice Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/0860d3f4-01fe-4599-a7c0-539913cadeb4/application) |
@@ -434,7 +434,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1347 current opportunities from 81 companies**
+**🎯 1348 current opportunities from 81 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
