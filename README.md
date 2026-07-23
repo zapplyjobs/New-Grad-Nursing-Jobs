@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1368-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1369-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-899-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-81-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Included Health** | Urgent Care Nurse Practitioner | Colorado | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/2853afaf-669f-427c-aee5-adc793298411/apply) |
 | **Atlantic Health System** | Physical Therapist I: Per Diem Late A... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30117) |
 | **Atlantic Health System** | Home Care & Hospice Referral Speciali... | Newton, NJ, Unite... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30860) |
 | **Atlantic Health System** | Registered Nurse, full-time nights 7P... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31169) |
@@ -79,7 +80,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Flagler Health** | Onsite - Licensed Practical Nurse (LP... | ILLINOIS  FLAGLE... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/flaglerhealth/a3c23b37-2658-46e2-9fd0-f18434783969/application) |
 | **Flagler Health** | Onsite - Licensed Practical Nurse (LP... | Tampa  Flagler M... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/flaglerhealth/e7e9c346-5549-4fb9-bafc-9b8d74342a8a/application) |
 | **Included Health** | Urgent Care Nurse Practitioner | Wyoming | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/af0fca96-85dc-46a2-b42f-51454ac81ad2/apply) |
-| **Included Health** | Urgent Care Nurse Practitioner | Arizona | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/86f3ce5d-88a5-468d-ac19-9b96ff255349/apply) |
 | **EVERSANA** | Cutaneous Oncology Clinical Nurse Edu... | Boston, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000138707489) |
 | **Leland** | Registered Nurse Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/f9acc0e5-a019-43db-aaea-c1806e42996e/application) |
 | **Leland** | Nursing School Admissions Coach | USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/7ca5fc48-37ac-49b9-9fcf-a5e34250e915/application) |
@@ -433,7 +433,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1368 current opportunities from 81 companies**
+**🎯 1369 current opportunities from 81 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
