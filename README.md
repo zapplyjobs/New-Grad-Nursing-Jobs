@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1402-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-915-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1379-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-896-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-79-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -144,9 +144,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Laboratory Technician l (Full-Time) | Columbia, MO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139378174) |
 | **Eurofins** | Associate Chemist - Environment Testi... | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139375479) |
 | **Eurofins** | Associate Chemist - Environment Testi... | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139375439) |
-| **Eurofins** | Associate Chemist - Environment Testi... | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139374689) |
 | **AbbVie** | Scientist II - Molecular Biology | Worcester, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014255846) |
 | **AbbVie** | Scientist II, Histotechnologist -  R&... | Worcester, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014255616) |
 | **AbbVie** | Sr Scientist I Analytical Chemistry- ... | Irvine, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014251807) |
@@ -276,7 +276,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eurofins** | Consumer Testing Associate (On-Call/P... | Bound Brook, NJ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139376129) |
 | **Eurofins** | Consumer Testing Associate | Bound Brook, NJ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139376009) |
 | **LLNL** | Radiology Technician (X-Ray)/Medical ... | Livermore, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014259696) |
-| **Eurofins** | National Market Access Manager | Lenexa, KS | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139373730) |
+| **Eurofins** | Courier: On-Call and Part-Time | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139372607) |
 | **AbbVie** | Supervisor, Insurance Analyst | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014257793) |
 | **AbbVie** | Meeting Planner | Austin, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014257426) |
 | **Included Health** | Urgent Care Physician | Texas | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/d88ce565-00c2-48a0-8dd1-413fadf88b91/apply) |
@@ -431,7 +431,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1402 current opportunities from 79 companies**
+**🎯 1379 current opportunities from 79 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -439,6 +439,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 23, 2026
+**Last Updated**: July 24, 2026
 
 </div>
