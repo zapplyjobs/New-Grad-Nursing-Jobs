@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1296-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1297-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-835-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-80-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -143,6 +143,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Scientist II | Devens, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139668009) |
 | **Intuitive** | Clinical Data Manager | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139664709) |
 | **AbbVie** | Scientist I, Bioanalytics | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014271676) |
 | **Eurofins** | Scientist- Pharmaceutical Raw Materials | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139645289) |
@@ -150,7 +151,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Scientist I, Cell and Molecular Biolo... | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014268976) |
 | **Lila Sciences** | Computational Scientist I/II, Soft Ma... | Cambridge, MA USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4327124009) |
 | **Lila Sciences** | Computational Scientist I/II, Soft Ma... | Cambridge, MA USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4327126009) |
-| **Eurofins** | Laboratory Technician l (Full-Time) | Columbia, MO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139378174) |
 | **AbbVie** | Scientist II - Molecular Biology | Worcester, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014255846) |
 | **Pinterest** | Data Scientist II, ML Infrastructure | Palo Alto, CA, US... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=8071670) |
 | **Atlantic Health System** | Medical Laboratory Scientist, Full Ti... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30522) |
@@ -287,8 +287,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Included Health** | Urgent Care Physician | Minnesota | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/a9f901c1-b6b4-4aa0-a7cc-1e548a51190f/apply) |
 | **Included Health** | Urgent Care Physician | North Carolina | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/3a38ae80-e7c9-4323-8bcb-f24e90109a30/apply) |
 | **RVO Health** | Legal & Privacy Compliance Operations... | US | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4718069005) |
-| **RVO Health** | Legal & Privacy Compliance Operations... | Charlotte, North ... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4718065005) |
 | **RVO Health** | Legal & Privacy Compliance Operations... | Minneapolis, MN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4718068005) |
+| **RVO Health** | Legal & Privacy Compliance Operations... | Charlotte, North ... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4718065005) |
 | **Intuitive** | Systems Program Manager - Endoluminal BU | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139315645) |
 | **LLNL** | Design Physics - Postdoctoral Researcher | Livermore, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014221006) |
 | **EVERSANA** | Consultant (Life Sciences) | Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000139085785) |
@@ -426,7 +426,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1296 current opportunities from 80 companies**
+**🎯 1297 current opportunities from 80 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
