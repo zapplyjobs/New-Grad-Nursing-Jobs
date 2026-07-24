@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1290-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1291-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-831-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-80-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -143,6 +143,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **AbbVie** | Scientist I, Bioanalytics | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014271676) |
 | **Eurofins** | Scientist- Pharmaceutical Raw Materials | Lancaster, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139645289) |
 | **Eurofins** | In-Vivo Scientist | West Point, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139642199) |
 | **AbbVie** | Scientist I, Cell and Molecular Biolo... | North Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014268976) |
@@ -150,7 +151,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lila Sciences** | Computational Scientist I/II, Soft Ma... | Cambridge, MA USA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4327126009) |
 | **Eurofins** | Laboratory Technician l (Full-Time) | Columbia, MO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139378174) |
 | **AbbVie** | Scientist II - Molecular Biology | Worcester, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014255846) |
-| **AbbVie** | Scientist II, Histotechnologist -  R&... | Worcester, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014255616) |
 | **Pinterest** | Data Scientist II, ML Infrastructure | Palo Alto, CA, US... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=8071670) |
 | **Amazon.com Services LLC** | Applied Scientist I, Conversational A... | Seattle, WA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482784/applied-scientist-i-conversational-ad-experiences) |
 | **Atlantic Health System** | Medical Laboratory Scientist, Full Ti... | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30522) |
@@ -425,7 +425,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1290 current opportunities from 80 companies**
+**🎯 1291 current opportunities from 80 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
