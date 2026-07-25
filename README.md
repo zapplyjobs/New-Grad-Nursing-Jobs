@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1280-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-826-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-80-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1241-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-794-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-79-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -124,9 +124,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Expedia Group** | Machine Learning Scientist II | California San Jo... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Machine-Learning-Scientist-II_R-107895) |
 | **Merck & Co.** | Cardiovascular Disease Specialist – N... | Arizona Phoenix +... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Arizona---Phoenix/Cardiovascular-Disease-Specialist---Northern-AZ_R404108-1) |
 | **Biogen** | (Sr) Medical Science Liaison, Multipl... | Columbus, OH + 2 ... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Columbus-OH/XMLNAME--Sr--Medical-Science-Liaison--Multiple-Sclerosis---Western-PA--WV--OH--KY--IN--and-MI_REQ23609) |
-| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Southern-California---San-Diego-and-Anaheim-_REQ-29092) |
-| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Central-California---Los-Angeles---San-Bernardino-_REQ-29091) |
-| **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Northern-California---San-Francisco--San-Jose--Sacramento-_REQ-29090) |
 | **Delta Dental** | Internship - Application Development | Okemos, MI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101349) |
 | **Delta Dental** | Internship - Application Development | Okemos, MI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101348) |
 | **Delta Dental** | Internship - Compliance Training and ... | Okemos, MI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Compliance-Training-and-Technology_JR101304) |
@@ -208,8 +205,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Entegris** | Quality Lab Technician III | Hillsboro, OR | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Hillsboro-OR/Quality-Lab-Technician-III_REQ-12927) |
 | **Stantec** | Environmental Scientist – Ecologist/B... | Chattanooga, TN, ... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006710) |
 | **Stantec** | Environmental Scientist - Ecologist/B... | Louisville, KY, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006719) |
-| **Vertex Pharmaceuticals** | Health Economics & Outcomes Research ... | Boston, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Health-Economics---Outcomes-Research-Associate-Director--Cell---Gene-Therapy_REQ-29016) |
-| **Vertex Pharmaceuticals** | Health Economics & Outcomes Research ... | Boston, MA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Health-Economics---Outcomes-Research-Associate-Director--Pain_REQ-28026) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -254,8 +249,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Globus Medical** | Associate Spine Specialist (Rapid Cit... | South Dakota | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/South-Dakota/Associate-Spine-Specialist--Rapid-City--SD-_JR107263) |
 | **Exact Sciences** | Medical Affairs Director | CA Redwood City +... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Redwood-City/Sr-Principal-Medical-Affairs-Director_R26-13331-1) |
 | **Exact Sciences** | Sr Regional Oncology Specialist - Wes... | NY Westchester + ... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---NY---Westchester/Regional-Oncology-Specialist---Westchester_R26-13598) |
-| **Vertex Pharmaceuticals** | Field Medical Director | Field Based | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Medical-Director_REQ-29113) |
-| **Vertex Pharmaceuticals** | Field Medical Director | Field Based | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Medical-Director_REQ-29114) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -427,7 +420,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1280 current opportunities from 80 companies**
+**🎯 1241 current opportunities from 79 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
