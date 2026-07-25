@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1279-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-824-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-79-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1282-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-827-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-80-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -276,6 +276,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eurofins** | Associate Director/Business Unit Mana... | Houston, TX | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139656729) |
 | **Intuitive** | Lab Associate 1 | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139651669) |
 | **Eurofins** | Field Technician - Environment Testing | Kittanning, PA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139644539) |
+| **Veeva Systems** | Services Engagement Manager - Develop... | Boston | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/b111f0bb-5494-4553-b3b1-199255ed03b3/apply) |
+| **Veeva Systems** | Services Engagement Manager - Develop... | Madison | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/70ead5eb-013f-4127-aafc-c1487322525a/apply) |
+| **Veeva Systems** | Services Engagement Manager - Develop... | Boston | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/42b4e20e-9ec4-4304-94ed-695475ace394/apply) |
 | **EVERSANA** | Pharmacy Technician | Chesterfield, MO | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000139623710) |
 | **LLNL** | Lawrence Fellowship Postdoctoral Rese... | Livermore, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014261126) |
 | **Atlantic Health System** | HIM Analyst | Morristown, NJ, U... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29526) |
@@ -364,9 +367,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Guidehouse** | Cash Posting Rep   Physician, Full Ti... | AL, Birmingham | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Cash-Posting-Rep---Physician--Full-Time--Days_42005) |
 | **National Interstate Insurance** | Managed Care Nurse | Lakeland, FL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Lakeland-FL-USA/Managed-Care-Nurse_R9203-1) |
 | **National Interstate Insurance** | Catastrophic Telephonic Nurse Case Ma... | Lakeland, FL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Lakeland-FL-USA/Catastrophic-Telephonic-Nurse-Case-Manager_R9206-2) |
-| **National Interstate Insurance** | Bill Review Nurse | Lakeland, FL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Lakeland-FL-USA/Bill-Review-Nurse_R9210-1) |
-| **Gilead Sciences** | Associate Director, Vendor Relationsh... | California | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Associate-Director--Vendor-Relationship-and-Performance-Management_R0053748) |
-| **Gilead Sciences** | Executive Director, Clinical Developm... | California | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Executive-Director--Clinical-Development--MD---Inflammation-and-Immunology_R0053371-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -427,7 +427,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1279 current opportunities from 79 companies**
+**🎯 1282 current opportunities from 80 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
