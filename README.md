@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-2234-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1356-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-2324-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1331-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-96-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,16 +66,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Becton Dickinson** | Alternate Site Regional Business Mana... | NJ Franklin Lakes... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Alternate-Site-Regional-Business-Manager--West---East_R-546960-1) |
+| **CVS Health** | Pharmacy Intern | Canton, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Canton/Pharmacy-Intern_R0989731-1) |
+| **CVS Health** | Pharmacy Intern | Alexandria, VA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VA---Alexandria/Pharmacy-Intern_R0989733) |
+| **CVS Health** | Pharmacy Intern | Huntsville, AL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AL---Huntsville/Pharmacy-Intern_R0989729) |
+| **Johnson & Johnson** | Associate Site Manager - Oncology - W... | 15 Locations | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Associate-Site-Manager---Oncology---Western-US_R-090258-1) |
+| **Johnson & Johnson** | Director, External Manufacturing | 3 Locations | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Director--External-Manufacturing_R-089741-1) |
 | **Highmark Health** | Physician Assistant or Nurse Practiti... | Pittsburgh PA, 15224 | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15224-4815-Liberty-Ave/Physician-Assistant-or-Nurse-Practitioner---Outpatient-Domain---Oncology_J284264-1) |
 | **Highmark Health** | RN Care Coordinator, AVH, Full Time | Natrona Heights P... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Natrona-Heights-PA-15065-1301-Carlisle-Street/RN-Care-Coordinator--AVH--Full-Time_J283139-1) |
 | **Highmark Health** | Pharmacist– Inpatient – Allegheny Gen... | Pittsburgh PA, 15212 | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/Pharmacist_J281984) |
 | **LabCorp** | Lab Assistant - Microbiology (PRN) | Austin TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Austin-TX/Lab-Assistant---Microbiology--PRN-_2542075) |
-| **Johnson & Johnson** | Director, External Manufacturing | 3 Locations | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Director--External-Manufacturing_R-089741-1) |
 | **RELX** | Enterprise Customer Success Manager, ... | Missouri + 5 more | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Missouri/Enterprise-Customer-Success-Manager--Nursing-Health-Education_R114349-1) |
-| **CVS Health** | Pharmacy Intern | Rumford, RI | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Rumford/Pharmacy-Intern_R0989990) |
-| **CVS Health** | Telehealth Registered Nurse | Work from home, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Telehealth-Registered-Nurse_R0955403-1) |
-| **CVS Health** | Pharmacy Intern | Seattle, WA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WA---Seattle/Pharmacy-Intern_R0990074) |
 | **Takeda** | Part Time Plasma Center RN, LPN, and EMT | MN | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Waite-Park/Part-Time-Plasma-Center-RN--LPN--and-EMT_R0185624-1) |
 | **Takeda** | Plasma Center RN, LPN, and EMT | MN | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Waite-Park/Plasma-Center-RN--LPN--and-EMT_R0185623-1) |
 | **Takeda** | Plasma Center RN, LPN, and EMT | UT | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---UT---Saint-George---2860-E/Plasma-Center-RN--LPN--and-EMT_R0185622-1) |
@@ -125,7 +125,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LabCorp** | Phlebotomist-Boynton Beach-PRN | Boynton Beach FL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Boynton-Beach-FL/Phlebotomist-Boynton-Beach-PRN_2616080) |
 | **Boys Town** | Advanced Practice RN- Pediatric Neuro... | Omaha, NE | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Advanced-Practice-RN--Pediatric-Neurology_REQ-2026-8553-2) |
 | **Merck & Co.** | Regional Medical Scientific Director ... | REMOTE | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---REMOTE---REMOTE/Regional-Medical-Scientific-Director--aka-Medical-Science-Liaison--Immunology---GI--Southern-Midwest-_R404739-1) |
-| **Wolters Kluwer** | CX/UX Design Manager (Nursing) – Hybr... | Princeton, NJ + 1... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wk.wd3.myworkdayjobs.com/External/job/USA---Princeton-NJ/CX-UX-Design-Manager---Health-Language---Nursing-Recruiting----Hybrid--ET-CT--R0055920_R0055920) |
 | **Leland** | Registered Nurse Coach | USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/f9acc0e5-a019-43db-aaea-c1806e42996e/application) |
 | **Leland** | Nursing School Admissions Coach | USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/7ca5fc48-37ac-49b9-9fcf-a5e34250e915/application) |
 | **Leland** | Nurse Practitioner Career Coach | USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/b6a5a8e9-23d3-445a-8c0a-6a7c954c3e91/application) |
@@ -227,6 +226,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **University of Texas at Austin** | Research Associate - Molecular Biologist | AUSTIN, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Research-Associate---Molecular-Biologist_R_00047385) |
 | **University of Texas at Austin** | Research Associate - Structural Biolo... | AUSTIN, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Research-Associate---Structural-Biologist_R_00047389) |
 | **Sherwin-Williams** | Quality Lab Technician I | Pittsburgh, PA, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2617132) |
+| **GDIT** | Clinical Research Assistant (human su... | USA NC Fort Bragg | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Clinical-Research-Assistant--human-subject-research---TBI-_RQ218909-1) |
 | **Entegris** | Lab Technician I, Analytics & Metrology | Franklin, MA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Franklin-MA/Lab-Technician-I--Analytics---Metrology_REQ-13007) |
 | **University of Texas at Austin** | Clinical Research Associate I | AUSTIN, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Clinical-Research-Associate-I_R_00047405) |
 | **Wash U** | Postdoctoral Research Associate - Ped... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Postdoctoral-Research-Associate---Pediatrics-Rheumatology---Immunology_JR93439) |
@@ -258,7 +258,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Toast** | Data Scientist II | Remote, USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.toasttab.com/jobs?gh_jid=7984730) |
 | **Redwood Materials** | Analytical Laboratory Technician | McCarran, NV | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6016953004?gh_jid=6016953004) |
 | **SpaceX** | Chemical Lab Technician (Starlink PCB) | Bastrop, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8532544002?gh_jid=8532544002) |
-| **BillionToOne** | Clinical Laboratory Scientist, Prenatal | Union City, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4702009005) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -270,6 +269,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Johnson & Johnson** | Associate Director, Global Medical Af... | Horsham, Pennsylv... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Horsham-Pennsylvania-United-States-of-America/Associate-Director--Global-Medical-Affairs-Immunology-Scientific-Engagement_R-089439-1) |
 | **Becton Dickinson** | Specialist, Medical Affairs | Sparks | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Specialist--Medical-Affairs_R-548718-1) |
 | **Medtronic** | Vascular Clinical Specialist - Gulfpo... | State of Mississi... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Mississippi-United-States-of-America/Vascular-Clinical-Specialist---Gulfport--MS_R71814-1) |
 | **Medtronic** | Vascular Clinical Specialist - Chicago | Chicago, Illinois... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Vascular-Clinical-Specialist---Chicago_R65233-2) |
@@ -282,6 +282,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertex Pharmaceuticals** | Field Medical Director | Field Based | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Medical-Director_REQ-29114) |
 | **Atlantic Health System** | Patient Access Representative I, Per ... | Newton, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31107) |
 | **Atlantic Health System** | Patient Access Representative I, Full... | Morristown, NJ, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31262) |
+| **GDIT** | Clinical Psychologist | 4 Locations | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Hurlburt-Field---229-Cody-Ave-FLC017/Clinical-Psychologist_RQ223319) |
+| **Johnson & Johnson** | Associate Director, Global Medical Af... | Raritan, New Jers... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Associate-Director--Global-Medical-Affairs-Execution_R-088292) |
 | **Merck & Co.** | Executive Director, Global Medical Af... | New Jersey Rahway... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Executive-Director--Global-Medical-Affairs--GI-Oncology_R398348) |
 | **University of Texas at Austin** | Licensed Clinical Social Worker, Neur... | AUSTIN, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Licensed-Clinical-Social-Worker--Neurosciences---Neurosurgery_R_00047576) |
 | **Guidehouse** | Patient Account Representative - Comm... | TX Lewisville + 2... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-Lewisville/Patient-Account-Representative---Commercial-Claims_42471-1) |
@@ -328,24 +330,24 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **CVS Health** | Grad Pharmacist | Cincinnati, OH | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Cincinnati/Grad-Pharmacist_R0989711) |
+| **CVS Health** | Grad Pharmacist | Cincinnati, OH | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Cincinnati/Grad-Pharmacist_R0989699) |
+| **CVS Health** | Grad Pharmacist | Prescott, AZ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Prescott/Grad-Pharmacist_R0989686) |
+| **Johnson & Johnson** | Associate Clinical Account Specialist... | Las Vegas, Nevada... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Las-Vegas-Nevada-United-States/Associate-Clinical-Account-Specialist--Las-Vegas--NV----Johnson-and-Johnson-MedTech--Electrophysiology_R-089909) |
+| **Johnson & Johnson** | Regional Clinical Manager | 2 Locations | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Regional-Clinical-Manager_R-086565-2) |
+| **Johnson & Johnson** | Director, Global Oncology Commercial ... | Raritan, New Jers... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Director--Global-Oncology-Commercial-Insights---Analytics--Multiple-Myeloma_R-088672-1) |
 | **Becton Dickinson** | Operador de manufactura | Humacao | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-PR---Humacao/Operador-de-manufactura_R-551296) |
 | **Becton Dickinson** | Engineer - Molding | Sumter | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-SC---Sumter/Engineer---Molding_R-550927-1) |
-| **Highmark Health** | Client Project Manager | 51 Locations | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-5th-Avenue-Place/Client-Project-Manager_J284902) |
 | **Highmark Health** | Manager Strategic Program Delivery an... | Pittsburgh PA, 15... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Manager-Strategic-Program-Delivery-and-Operations_J284894) |
 | **Highmark Health** | Social Worker - Full Time - On site a... | Natrona Heights P... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Natrona-Heights-PA-15065-1301-Carlisle-Street/Social-Worker---Full-Time---On-site-at-AVH_J285145) |
+| **Highmark Health** | Social Work Case Manager - Full Time ... | Natrona Heights P... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Natrona-Heights-PA-15065-1301-Carlisle-Street/Social-Work-Case-Manager---Full-Time---On-Site-at-AVH_J285144) |
 | **LabCorp** | Phlebotomist | Marriottsville MD | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Marriottsville-MD/Phlebotomist_2623918) |
 | **LabCorp** | Phlebotomist | Silver Spring MD | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Silver-Spring-MD/Phlebotomist_2619206) |
 | **LabCorp** | Hospital Phlebotomist - Per Diem | Mobile AL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Mobile-AL/Hospital-Phlebotomist---Per-Diem_2614563-1) |
-| **Moderna** | Associate Director, Global Regulatory... | Cambridge, Massac... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Associate-Director--Global-Regulatory-Advertising-and-Promotion_R19508) |
-| **Moderna** | Director, Data Management Operational... | Cambridge, Massac... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Director--Data-Management-Operational-Excellence_R19510-1) |
-| **Moderna** | Manager, RBQM | Cambridge, Massac... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Manager--RBQM_R19511) |
 | **Cardinal Health** | Clinical and Operational Pharmacist | Corinth, MS | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/MS-Corinth-Magnolia-Health-Ctr/Clinical-and-Operational-Pharmacist_20184665) |
 | **Cardinal Health** | Pharmacy Technician | Bronx, NY | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/NY-Bronx-Nucl-Pharm-95/Pharmacy-Technician_20184556) |
 | **Cardinal Health** | Inventory Management, Analyst | LaVergne, TN | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TN-LaVergne-SPDMM-LV4/Inventory-Management--Analyst_20184419) |
 | **KBR** | Special Operations Performance Dietit... | Fort Liberty, Nor... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Performance-Dietitian-JFKSWCS-Ft-Bragg--NC_R2120241) |
-| **CVS Health** | Pharmacy Technician | Asheboro, NC | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Asheboro/Pharmacy-Technician_R0988346) |
-| **CVS Health** | Pharmacy Technician | Harker Heights, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Harker-Heights/Pharmacy-Technician_R0979794) |
-| **CVS Health** | Pharmacy Technician | Norfolk, VA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VA---Norfolk/Pharmacy-Technician_R0988283-1) |
 | **IDEXX** | Laboratory Administrative Coordinator | North Grafton, MA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/North-Grafton-MA/Laboratory-Administrative-Coordinator_J-054012) |
 | **IDEXX** | Field Support Representative Diagnost... | Memphis, TN + 1 more | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Memphis-TN/Field-Support-Representative-Diagnostics-Memphis--TN---Bootheel--MO_J-054154) |
 | **IDEXX** | Professional Services Veterinarian Da... | Dallas, TX + 1 more | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Dallas-TX/Professional-Services-Veterinarian-Dallas--TX_J-054093) |
@@ -370,8 +372,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Elevance Health** | Special Programs Case Manager I | Atlanta, GA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Special-Programs-Case-Manager-I_JR193269) |
 | **Baxter International** | Operator I | Tijuana, Baja Cal... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://baxter.wd1.myworkdayjobs.com/baxter/job/Tijuana-Baja-California/Operator-I_JR-203279) |
 | **Baxter International** | Sr Eng, MIP-Engineering | Tijuana, Baja Cal... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://baxter.wd1.myworkdayjobs.com/baxter/job/Tijuana-Baja-California/Sr-Eng--MIP-Engineering_JR-205692-1) |
-| **AbbVie** | Account Consultant, Surgical Eye Care... | San Antonio, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014305926) |
-| **AbbVie** | Account Consultant, Surgical Eye Care... | Austin, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014305896) |
 | **JLL** | Lab Services (GXP) Media Prep Technician | North Brunswick, NJ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jll.wd1.myworkdayjobs.com/jllcareers/job/North-Brunswick-NJ/Lab-Services--GXP--Media-Prep-Technician_REQ524320) |
 | **JLL** | Lab Services (GXP) Glass Wash Technician | North Brunswick, NJ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jll.wd1.myworkdayjobs.com/jllcareers/job/North-Brunswick-NJ/Building-Operations--Lab-Services_REQ524323) |
 | **Fresenius Medical Care** | Automated Line Technician | Knoxville, TN, USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Knoxville-TN-USA/Automated-Line-Technician_R0257162) |
@@ -397,7 +397,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertex Pharmaceuticals** | Managed Care Contracting Associate Di... | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Managed-Care-Contracting-Associate-Director_REQ-29567) |
 | **Vertex Pharmaceuticals** | Patient Safety Associate Medical Dire... | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Patient-Safety-Associate-Medical-Director_REQ-29346-1) |
 | **Guidepoint** | Client Service Healthcare Associate | Boston, Massachus... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8645890002) |
+| **AbbVie** | Manager, Account Enablement | Austin, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014302496) |
 | **Ro** | Ro Pharmacy Interview Day! Saturday, ... | Romeoville, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/aabbdfed-3e4a-4242-93e4-628d63328926/apply) |
+| **AbbVie** | Writer, Complaint | North Chicago, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014295447) |
 | **Eurofins** | Laboratory Analyst (Asbestos/Mold) - ... | Altamonte Springs... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140002304) |
 | **Eurofins** | Manufacturing Tech | St. Louis, MO | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139913189) |
 | **Atlantic Health System** | Certified Medical Assistant I, Full T... | Cedar Knolls, NJ,... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27896) |
@@ -488,7 +490,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2234 current opportunities from 96 companies**
+**🎯 2324 current opportunities from 96 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
