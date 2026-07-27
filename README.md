@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1214-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-742-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1216-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-743-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-84-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Intern- Fall 2026 | Lancaster, PA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140080799) |
 | **AbbVie** | Practice Development Manager (BC Cons... | Alexandria, VA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014291936) |
 | **Atlantic Health System** | Registered Nurse- Full Time- Days- AM... | Summit, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/25031) |
 | **Atlantic Health System** | Registered Nurse - Full Time, Nights ... | Summit, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26858) |
@@ -276,6 +277,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **AbbVie** | Manager, Account Enablement | Austin, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014302496) |
 | **Ro** | Ro Pharmacy Interview Day! Saturday, ... | Romeoville, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/aabbdfed-3e4a-4242-93e4-628d63328926/apply) |
 | **AbbVie** | Writer, Complaint | North Chicago, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014295447) |
 | **AbbVie** | District Manager - Urology, Oncology,... | Atlanta, GA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014294966) |
@@ -284,7 +286,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Atlantic Health System** | Certified Medical Assistant I, Full T... | Cedar Knolls, NJ,... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27896) |
 | **Atlantic Health System** | Certified Medical Assistant I, Full T... | Freehold, NJ, Uni... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27984) |
 | **Atlantic Health System** | Sterile Processing Technician - Full-... | Morristown, NJ, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28125) |
-| **AbbVie** | Allergan Practice Consultant, LA N, CA | Los Angeles, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014287126) |
 | **LLNL** | Design Physics Division - Postdoctora... | Livermore, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014281246) |
 | **Eurofins** | Associate Director/Business Unit Mana... | Houston, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139656729) |
 | **Intuitive** | Lab Associate 1 | Sunnyvale, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139651669) |
@@ -299,8 +300,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Included Health** | Urgent Care Physician | Minnesota | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/a9f901c1-b6b4-4aa0-a7cc-1e548a51190f/apply) |
 | **Included Health** | Urgent Care Physician | North Carolina | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/3a38ae80-e7c9-4323-8bcb-f24e90109a30/apply) |
 | **RVO Health** | Legal & Privacy Compliance Operations... | US | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4718069005) |
-| **RVO Health** | Legal & Privacy Compliance Operations... | Charlotte, North ... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4718065005) |
 | **RVO Health** | Legal & Privacy Compliance Operations... | Minneapolis, MN | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4718068005) |
+| **RVO Health** | Legal & Privacy Compliance Operations... | Charlotte, North ... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4718065005) |
 | **Intuitive** | Systems Program Manager - Endoluminal BU | Sunnyvale, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139315645) |
 | **EVERSANA** | Consultant (Life Sciences) | Chicago, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000139085785) |
 | **Oracle** | Research Consultant- Oncology | United States | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/331114) |
@@ -436,7 +437,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1214 current opportunities from 84 companies**
+**🎯 1216 current opportunities from 84 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
