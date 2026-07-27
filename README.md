@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1152-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-726-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-72-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1129-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-709-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-71-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -119,8 +119,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **General Motors** | Occupational Health Registered Nurse | Rochester, New Yo... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Rochester-New-York-United-States-of-America/Occupational-Health-Registered-Nurse_JR-202614018-1) |
 | **Danaher** | Scientist I, RNA | Fargo, North Dako... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Fargo-North-Dakota-United-States/Scientist-I--RNA_R1314768) |
 | **Iterative Health** | Sub Investigator - Nurse Practitioner... | Tucson, AZ | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4696225006) |
-| **RELX** | Director,  Product Management, Nursin... | Philadelphia, PA ... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Philadelphia-PA/Director---Product-Management--Nursing-Health-Education_R115655-2) |
-| **AstraZeneca** | Director, DTC & NPP Marketing - Hemat... | MD | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Director--DTC---NPP-Marketing---Hematology_R-252937-1) |
 | **Delta Dental** | Internship - Application Development | Okemos, MI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101349) |
 | **Delta Dental** | Internship - Application Development | Okemos, MI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101348) |
 | **Delta Dental** | Internship - Compliance Training and ... | Okemos, MI | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Compliance-Training-and-Technology_JR101304) |
@@ -271,8 +269,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Included Health** | Urgent Care Physician | Minnesota | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/a9f901c1-b6b4-4aa0-a7cc-1e548a51190f/apply) |
 | **Included Health** | Urgent Care Physician | North Carolina | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/3a38ae80-e7c9-4323-8bcb-f24e90109a30/apply) |
 | **RVO Health** | Legal & Privacy Compliance Operations... | US | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4718069005) |
-| **RVO Health** | Legal & Privacy Compliance Operations... | Minneapolis, MN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4718068005) |
 | **RVO Health** | Legal & Privacy Compliance Operations... | Charlotte, North ... | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4718065005) |
+| **RVO Health** | Legal & Privacy Compliance Operations... | Minneapolis, MN | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4718068005) |
 | **Intuitive** | Systems Program Manager - Endoluminal BU | Sunnyvale, CA | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139315645) |
 | **EVERSANA** | Consultant (Life Sciences) | Chicago, IL | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000139085785) |
 | **Oracle** | Research Consultant- Oncology | United States | Recently | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/331114) |
@@ -409,7 +407,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1152 current opportunities from 72 companies**
+**🎯 1129 current opportunities from 71 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
