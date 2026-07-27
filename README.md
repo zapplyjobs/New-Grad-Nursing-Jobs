@@ -18,7 +18,7 @@
 <div align="center">
 
 ![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1201-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-742-informational?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-741-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-84-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -69,8 +69,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Practice Development Manager (BC Cons... | Alexandria, VA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014291936) |
 | **Atlantic Health System** | Registered Nurse - Full Time, Nights ... | Summit, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26858) |
 | **Atlantic Health System** | Practice Clinical Supervisor , RN - A... | Bridgewater, NJ, ... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29527) |
+| **Atlantic Health System** | Registered Nurse Full Time Nights 7p-... | Summit, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29847) |
 | **AbbVie** | Project Manager, New Product Introduc... | North Chicago, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014275106) |
-| **Atlantic Health System** | Patient Care Technician I, Full Time,... | Morristown, NJ, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28385) |
 | **Oscar Health** | NP/PA - Virtual Urgent Care | New York, New Yor... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7766426?gh_jid=7766426) |
 | **Included Health** | Urgent Care Nurse Practitioner | Vermont | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/a0725afa-c228-4a0d-9e25-2d5942d31865/apply) |
 | **Included Health** | Urgent Care Nurse Practitioner | Kansas | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/3beff2fe-a284-4caa-8ce4-0d8baeb74c9d/apply) |
