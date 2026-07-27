@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1202-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1203-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-746-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-84-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -228,11 +228,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Atlantic Health System** | Patient Access Representative I, Full... | Morristown, NJ, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31262) |
 | **AbbVie** | Oncology Specialist - Georgia | Atlanta, GA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014273476) |
 | **Atlantic Health System** | Mental Health Assistant - Part Time -... | Morristown, NJ, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29190) |
 | **AbbVie** | Scientific Director / Medical Directo... | Mettawa, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014236456) |
 | **Atlantic Health System** | Occupational Therapist I: Full Time, ... | Summit, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30864) |
-| **Atlantic Health System** | Licensed Physical Therapist Assistant... | Morristown, NJ, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31153) |
 | **EVERSANA** | Medical Information Specialist | Overland Park, KS | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000138736989) |
 | **Leland** | Physical Therapist Coach | USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/9515e6ad-dc8c-4406-8056-fc83469e7fc6/application) |
 | **Leland** | Occupational Therapist Coach | USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/bd314639-eea8-45ee-8ef1-fe92be1d4746/application) |
@@ -432,7 +432,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1202 current opportunities from 84 companies**
+**🎯 1203 current opportunities from 84 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
