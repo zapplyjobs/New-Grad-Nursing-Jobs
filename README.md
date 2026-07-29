@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1502-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1503-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-911-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-95-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-96-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -233,6 +233,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Redwood Materials** | Analytical Laboratory Technician | Carson City, NV | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6103948004?gh_jid=6103948004) |
 | **Flagship Pioneering** | Scientist, Computational Biology | Cambridge, MA USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8610617002?gh_jid=8610617002) |
 | **Olsson** | Associate Scientist - Industrial Envi... | North Kansas City... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5292702008) |
+| **Anduril** | Electrical Engineer Lab Technician | Costa Mesa, Calif... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5174050007?gh_jid=5174050007) |
 | **Esri** | Data Scientist I | St. Louis, MO - W... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5173232007?gh_jid=5173232007) |
 | **Chan Zuckerberg Biohub** | Research Associate, AI Research Wet Lab | Redwood City, CA ... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/8004158) |
 | **Flagship Pioneering** | Associate Scientist, Immunology | Cambridge, MA USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8598651002?gh_jid=8598651002) |
@@ -466,7 +467,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1502 current opportunities from 95 companies**
+**🎯 1503 current opportunities from 96 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
