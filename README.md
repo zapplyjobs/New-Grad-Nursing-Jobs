@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1483-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-881-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1486-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-884-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-94-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -304,14 +304,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **AbbVie** | Director, Clinical Pharmacology (Immu... | South San Francis... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014353586) |
+| **AbbVie** | Director, Clinical Pharmacology (Immu... | Waltham, MA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014353374) |
+| **AbbVie** | Director, Clinical Pharmacology | North Chicago, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014353246) |
 | **Eurofins** | Sample Receiving Technician, Environm... | Concord, NH | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140551279) |
 | **Eurofins** | Specialist - Flavor Panelist | Salem, NC | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140543349) |
 | **Eurofins** | Environmental Monitoring Technician | Cary, NC | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140540630) |
 | **Iterative Health** | Territory Sales Representative - GI P... | NYC, Cambridge or... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4700931006) |
 | **Iterative Health** | Territory Sales Representative - Card... | NYC, Cambridge or... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4700927006) |
 | **Neuralink** | Veterinary Pathologist | Austin, Texas, Un... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7820573003?gh_jid=7820573003) |
-| **AbbVie** | Associate Director, Analytics Products | Mettawa, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014345946) |
-| **AbbVie** | Set-Up Technician II, UD Fill, B2 Shi... | Waco, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014341896) |
 | **Oscar Health** | VP, Member & Provider Services and Op... | New York, New Yor... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8084226?gh_jid=8084226) |
 | **Wash U** | Cardiopulmonary/Pulmonary Function Te... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Cardiopulmonary-Pulmonary-Function-Technician---Pulmonary---Critical-Care-Medicine_JR95623) |
 | **Wash U** | Cardiopulmonary/Pulmonary Function Te... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Cardiopulmonary-Pulmonary-Function-Technician---Pulmonary---Critical-Care-Medicine_JR92432) |
@@ -378,7 +379,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | Clinical Lab Associate I, Pre-Analyti... | Wisconsin | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Clinical-Lab-Associate-I--Pre-Analytical---3rd-Shift_35000227-1) |
 | **Abbott** | Manager, Clinical Laboratory - Off Shift | Wisconsin | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Manager--Clinical-Laboratory---Off-Shift_35000053-1) |
 | **Carnegie Mellon University** | Postdoctoral Fellow in Computational ... | Pittsburgh, PA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Postdoctoral-Fellow-in-Computational-Humanities-and-Publishing---CMU-Libraries-and-CMU-Press---UEIS_2024641) |
-| **AbbVie** | Strategic Project Manager, Allergan A... | Irvine, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014332506) |
 | **Vertex Pharmaceuticals** | Executive Medical Director, Global Me... | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Executive-Medical-Director--Global-Medical--Nephrology-_REQ-28924) |
 | **Vertex Pharmaceuticals** | Managed Care Contracting Associate Di... | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Managed-Care-Contracting-Associate-Director_REQ-29567) |
 | **Vertex Pharmaceuticals** | Patient Safety Associate Medical Dire... | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Patient-Safety-Associate-Medical-Director_REQ-29346-1) |
@@ -464,7 +464,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1483 current opportunities from 94 companies**
+**🎯 1486 current opportunities from 94 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
