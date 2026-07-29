@@ -153,6 +153,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Laboratory Technician l (Part-Time) | Idaho Falls, ID | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140561795) |
 | **AbbVie** | Data Scientist II | North Chicago, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014354296) |
 | **Iterative Health** | Clinical Research Coordinator II | Plano, Texas | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4700947006) |
 | **AbbVie** | Scientist I, Biologics Drug Product D... | Irvine, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014352786) |
@@ -160,7 +161,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eurofins** | Specialist - Sample Management | Salem, NC | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140542599) |
 | **Eurofins** | Laboratory Technician (entry level) -... | North Kingstown, RI | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140540059) |
 | **Iterative Health** | Clinical Research Coordinator II | Tacoma, WA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4700875006) |
-| **Eurofins** | QC Lab Technician I - Monday-Friday 3... | Louisville, KY | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140536908) |
 | **AbbVie** | Clinical Research Associate I - Littl... | Shreveport, LA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014346386) |
 | **Wash U** | Clinical Research Financial Coordinat... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Clinical-Research-Financial-Coordinator-II---Cardiology_JR96169) |
 | **Wash U** | Postdoctoral Research Associate - Mol... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Postdoctoral-Research-Associate---Molecular-Microbiology_JR95210) |
