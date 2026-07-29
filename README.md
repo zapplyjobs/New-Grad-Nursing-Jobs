@@ -18,7 +18,7 @@
 <div align="center">
 
 ![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1488-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-887-informational?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-886-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-95-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -306,9 +306,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Marketing Communications Manager | Lancaster, PA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140539249) |
 | **Eurofins** | Courier (M-F 11am-7:00pm), Eurofins E... | Troy Hills, NJ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140536900) |
 | **Eurofins** | Login Technician (M-F 9am-5pm), Eurof... | Troy Hills, NJ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140536799) |
-| **Eurofins** | Login Technician (M-F 11:00am-7:00pm)... | Troy Hills, NJ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140536679) |
 | **Iterative Health** | Territory Sales Representative - GI P... | NYC, Cambridge or... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4700931006) |
 | **Iterative Health** | Territory Sales Representative - Card... | NYC, Cambridge or... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4700927006) |
 | **Neuralink** | Veterinary Pathologist | Austin, Texas, Un... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7820573003?gh_jid=7820573003) |
