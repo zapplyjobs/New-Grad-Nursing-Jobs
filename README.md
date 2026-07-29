@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1490-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-886-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-95-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1481-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-880-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-94-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -230,18 +230,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Iterative Health** | Clinical Research Coordinator II | Waterloo, Iowa | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4696815006) |
 | **Chan Zuckerberg Biohub** | Postdoctoral Fellow/ Scientist I , Sy... | New York, NY (Ons... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/8056434) |
 | **Redwood Materials** | Analytical Laboratory Technician | Carson City, NV | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6103948004?gh_jid=6103948004) |
-| **Flagship Pioneering** | Scientist, Computational Biology | Cambridge, MA USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8610617002?gh_jid=8610617002) |
 | **Olsson** | Associate Scientist - Industrial Envi... | North Kansas City... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5292702008) |
 | **Anduril** | Electrical Engineer Lab Technician | Costa Mesa, Calif... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5174050007?gh_jid=5174050007) |
 | **Esri** | Data Scientist I | St. Louis, MO - W... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5173232007?gh_jid=5173232007) |
 | **Chan Zuckerberg Biohub** | Research Associate, AI Research Wet Lab | Redwood City, CA ... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/8004158) |
-| **Flagship Pioneering** | Associate Scientist, Immunology | Cambridge, MA USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8598651002?gh_jid=8598651002) |
 | **Toast** | Data Scientist II | Remote, USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.toasttab.com/jobs?gh_jid=7984730) |
 | **Redwood Materials** | Analytical Laboratory Technician | McCarran, NV | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6016953004?gh_jid=6016953004) |
 | **SpaceX** | Chemical Lab Technician (Starlink PCB) | Bastrop, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8532544002?gh_jid=8532544002) |
 | **BillionToOne** | Clinical Laboratory Scientist, Prenatal | Union City, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4702009005) |
 | **BillionToOne** | Clinical Laboratory Scientist, Prenat... | Union City, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4702002005) |
-| **Flagship Pioneering** | Scientist I, In Vitro Pharmacology | Boston, MA USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8567001002?gh_jid=8567001002) |
 | **Axon** | AI Scientist I | Seattle, Washingt... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7746492003) |
 | **Pinterest** | Data Scientist II, Infrastructure | San Francisco, CA... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=7816424) |
 | **SpaceX** | PCB Materials Lab Technician (Starlink) | Bastrop, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8505212002?gh_jid=8505212002) |
@@ -467,7 +464,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1490 current opportunities from 95 companies**
+**🎯 1481 current opportunities from 94 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
