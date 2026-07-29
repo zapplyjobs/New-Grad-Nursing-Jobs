@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1503-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1506-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-901-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-95-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **AbbVie** | Associate Director, International Mar... | Mettawa, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014349466) |
 | **Affirm** | Quantitative Analytics Manager, Affir... | Remote US | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7819441003) |
 | **Affirm** | Learning Specialist II | Remote US | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7808247003) |
 | **Wash U** | RN Clinical Nurse Coordinator - Pedia... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/RN-Clinical-Nurse-Coordinator---Pediatric-Cardiology---Pulmonary-Hypertension_JR96074) |
@@ -103,7 +104,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | Registered Nurse - Patient Educator (... | South Carolina | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---South-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Greenwood--SC_31156239) |
 | **Abbott** | Registered Nurse - Patient Educator (... | Nevada | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Nevada---Reno/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Carson-City--NV_31156052) |
 | **Abbott** | Registered Nurse - Patient Educator (... | Virginia | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Charlottesville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Charlottesville--VA_31155681) |
-| **AbbVie** | Practice Development Manager (BC Cons... | Alexandria, VA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014291936) |
 | **Boys Town** | Registered Nurse (RN), Specialty Clin... | Omaha, NE | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Registered-Nurse--RN---Specialty-Clinic-ENT_REQ-2026-9043-1) |
 | **Boys Town** | ParentChild Plus Learning Spec | West Palm Beach, FL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/West-Palm-Beach-FL/ParentChild-Plus-Learning-Spec_REQ-2026-8979-1) |
 | **Cardinal Health** | Ld Coord, Learning Development & Deli... | Reno, NV | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/NV-Reno-Echo-Dr/Ld-Coord--Learning-Development---Delivery_20183989-1) |
@@ -467,7 +467,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1503 current opportunities from 95 companies**
+**🎯 1506 current opportunities from 95 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
