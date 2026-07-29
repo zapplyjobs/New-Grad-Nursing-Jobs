@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1504-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1505-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-912-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-96-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-95-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -76,6 +76,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fresenius Medical Care** | Outpatient Licensed Practical Nurse -... | Tucker, GA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Tucker-GA/Outpatient-Licensed-Practical-Nurse---LPN-LVN_R0262480) |
 | **Fresenius Medical Care** | Patient Care Technician- PCT CCHT - D... | Savannah, GA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Savannah-GA/Patient-Care-Technician--PCT-CCHT---Dialysis_R0262878) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Post Falls, ID | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Post-Falls-ID/Patient-Care-Technician---PCT_R0240209) |
+| **Atlantic Health System** | Patient Care Technician I - Per-Diem,... | Summit, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31164) |
 | **LabCorp** | Phlebotomist-PRN-Port Orange | Port Orange FL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Port-Orange-FL/Phlebotomist-PRN-Port-Orange_2622239) |
 | **LabCorp** | Phlebotomist-PRN-Palm Coast | Palm Coast FL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Palm-Coast-FL/Phlebotomist-PRN-Palm-Coast_2622230) |
 | **VSP Vision** | Vice President, Internal Audit | Remote US | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Vice-President--Internal-Audit_R-9805) |
@@ -95,7 +96,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wash U** | RN Research Nurse Coordinator I - Ped... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/RN-Research-Nurse-Coordinator-I---Pediatric-Clinical-Research-Unit--PCRU-_JR95419-1) |
 | **Atlantic Health System** | Nursing Assistant, Per Diem, Evenings... | Morristown, NJ, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29224) |
 | **Atlantic Health System** | Registered Nurse, Full Time Nights, 7... | Morristown, NJ, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30744) |
-| **Atlantic Health System** | Registered Nurse - Full Time, Nights ... | Morristown, NJ, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30754) |
 | **Cigna** | Intake Care Representative- Evernorth... | Pennsylvania Work... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Pennsylvania-Work-at-Home/Intake-Care-Representative--Evernorth--Remote_26008788) |
 | **RELX** | Enterprise Customer Success Manager, ... | Missouri + 5 more | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Missouri/Enterprise-Customer-Success-Manager--Nursing-Health-Education_R114349-1) |
 | **Abbott** | Registered Nurse - Patient Educator (... | South Carolina | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---South-Carolina---Greenville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Greenwood--SC_31156239) |
@@ -233,7 +233,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Redwood Materials** | Analytical Laboratory Technician | Carson City, NV | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6103948004?gh_jid=6103948004) |
 | **Flagship Pioneering** | Scientist, Computational Biology | Cambridge, MA USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8610617002?gh_jid=8610617002) |
 | **Olsson** | Associate Scientist - Industrial Envi... | North Kansas City... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5292702008) |
-| **Anduril** | Electrical Engineer Lab Technician | Costa Mesa, Calif... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5174050007?gh_jid=5174050007) |
 | **Esri** | Data Scientist I | St. Louis, MO - W... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5173232007?gh_jid=5173232007) |
 | **Chan Zuckerberg Biohub** | Research Associate, AI Research Wet Lab | Redwood City, CA ... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/8004158) |
 | **Flagship Pioneering** | Associate Scientist, Immunology | Cambridge, MA USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8598651002?gh_jid=8598651002) |
@@ -260,6 +259,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Atlantic Health System** | Vice President, Chief Revenue Cycle O... | Morristown, NJ, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31363) |
 | **Globus Medical** | Associate Spine Specialist (Charlotte... | Virginia | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Virginia/Associate-Spine-Specialist--Charlottesville--VA-_JR107396) |
 | **Globus Medical** | Associate Spine Specialist (Washingto... | District of Columbia | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/District-of-Columbia/Associate-Spine-Specialist--Washington-DC-_JR107388) |
 | **Abbott** | Clinical Specialist, Coronary - Atlan... | Georgia | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/Clinical-Specialist--Coronary---Atlanta--Georgia_31157422-2) |
@@ -269,7 +269,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Becton Dickinson** | Specialist, Medical Affairs | Sparks | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Specialist--Medical-Affairs_R-548718-1) |
 | **Atlantic Health System** | Occupational Therapist I: Full Time, ... | Summit, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30864) |
 | **Atlantic Health System** | Behavioral Health Clinician - Full Ti... | Summit, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31267) |
-| **Atlantic Health System** | Behavioral Health Clinician - Full Ti... | Summit, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31270) |
 | **Abbott** | Clinical Specialist, Cardiac Rhythm M... | South Dakota | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---South-Dakota---Rapid-City/Clinical-Specialist--Cardiac-Rhythm-Management---Rapid-City--SD_31157434-1) |
 | **Guidehouse** | Patient Account Representative - Comm... | TX Lewisville + 2... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-Lewisville/Patient-Account-Representative---Commercial-Claims_42471-1) |
 | **Guidehouse** | Patient Account Representative - Comm... | TX Lewisville + 2... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-Lewisville/Patient-Account-Representative---Commercial-Claims_42472) |
@@ -467,7 +466,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1504 current opportunities from 96 companies**
+**🎯 1505 current opportunities from 95 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
