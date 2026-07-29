@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1497-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-897-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1503-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-899-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-95-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -153,11 +153,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Eurofins** | Scientist I | San Diego, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140509711) |
-| **AbbVie** | Scientist I, Analytical Chemistry | North Chicago, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014344606) |
+| **Eurofins** | Associate Scientist | San Diego, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140519099) |
+| **AbbVie** | Clinical Research Associate I - Littl... | Shreveport, LA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014346386) |
+| **AbbVie** | Clinical Research Associate I - Littl... | Memphis, TN | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014346306) |
+| **AbbVie** | Clinical Research Associate I - Littl... | Little Rock, AR | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014346229) |
+| **Eurofins** | Associate Analytical Chemist - Any Shift | Madison, WI | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140518089) |
 | **Eurofins** | QC Sample Management Technician - 2nd... | Rensselaer, NY | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140491122) |
-| **Eurofins** | Associate Analytical Chemist | Madison, WI | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140489969) |
-| **AbbVie** | Medical Science Liaison – Aesthetics ... | Sacramento, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014340256) |
 | **Wash U** | Clinical Research Financial Coordinat... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Clinical-Research-Financial-Coordinator-II---Cardiology_JR96169) |
 | **Wash U** | Postdoctoral Research Associate - Mol... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Postdoctoral-Research-Associate---Molecular-Microbiology_JR95210) |
 | **Wash U** | Postdoctoral Research Associate - Eng... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Engineering_JR96129) |
@@ -176,7 +177,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | Pre-Analytical Laboratory Technician II | California | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Redwood-City/Pre-Analytical-Laboratory-Technician-II_35000237-1) |
 | **Abbott** | Histology Lab Technician I | California | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Redwood-City/Histology-Lab-Technician-I_35000218-1) |
 | **Abbott** | Histotechnologist I | California | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Redwood-City/Histotechnologist-I_35000101-1) |
-| **AbbVie** | Future Opportunities - Join our Talen... | North Chicago, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014326690) |
 | **BillionToOne** | Clinical Laboratory Scientist, Oncolo... | Menlo Park, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4718937005) |
 | **Vertex Pharmaceuticals** | Health Economics & Outcomes Research ... | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Health-Economics---Outcomes-Research-Associate-Director--Cell---Gene-Therapy_REQ-29016) |
 | **Vertex Pharmaceuticals** | Health Economics & Outcomes Research ... | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Health-Economics---Outcomes-Research-Associate-Director--Pain_REQ-28026) |
@@ -305,6 +305,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Neuralink** | Veterinary Pathologist | Austin, Texas, Un... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7820573003?gh_jid=7820573003) |
+| **AbbVie** | Associate Director, Analytics Products | Mettawa, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014345946) |
 | **AbbVie** | Set-Up Technician II, UD Fill, B2 Shi... | Waco, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014341896) |
 | **Eurofins** | Junior HR Officer | Amersfoort, UT | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140437970) |
 | **Eurofins** | Analist (Organisch) | Amersfoort, UT | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140438369) |
@@ -376,7 +378,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | Manager, Clinical Laboratory - Off Shift | Wisconsin | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Manager--Clinical-Laboratory---Off-Shift_35000053-1) |
 | **Carnegie Mellon University** | Postdoctoral Fellow in Computational ... | Pittsburgh, PA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Postdoctoral-Fellow-in-Computational-Humanities-and-Publishing---CMU-Libraries-and-CMU-Press---UEIS_2024641) |
 | **AbbVie** | Associate Director – PCS Price Foreca... | Mettawa, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014332996) |
-| **AbbVie** | Strategic Project Manager, Allergan A... | Irvine, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014332506) |
 | **Vertex Pharmaceuticals** | Executive Medical Director, Global Me... | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Executive-Medical-Director--Global-Medical--Nephrology-_REQ-28924) |
 | **Vertex Pharmaceuticals** | Managed Care Contracting Associate Di... | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Managed-Care-Contracting-Associate-Director_REQ-29567) |
 | **Vertex Pharmaceuticals** | Patient Safety Associate Medical Dire... | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Patient-Safety-Associate-Medical-Director_REQ-29346-1) |
@@ -404,7 +405,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Revvity** | Clinical Lab Technologist | Pittsburgh | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://revvity.wd103.myworkdayjobs.com/External/job/Pittsburgh/Clinical-Lab-Technologist_JR-044882) |
 | **LLNL** | Lawrence Fellowship Postdoctoral Rese... | Livermore, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014261126) |
 | **General Motors** | Future Program Ergonomist | Warren, Michigan,... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Future-Program-Ergonomist_JR-202614642-1) |
-| **Thermo Fisher Scientific** | (Sr) Project Manager - Respiratory Di... | Remote, North Car... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/XMLNAME--Sr--Project-Manager---Respiratory-Diseases-Team---Remote-based-in-the-US_R-01360939) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -465,7 +465,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1497 current opportunities from 95 companies**
+**🎯 1503 current opportunities from 95 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
