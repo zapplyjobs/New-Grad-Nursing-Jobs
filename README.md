@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1502-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-911-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-95-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1504-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-912-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-96-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -233,6 +233,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Redwood Materials** | Analytical Laboratory Technician | Carson City, NV | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6103948004?gh_jid=6103948004) |
 | **Flagship Pioneering** | Scientist, Computational Biology | Cambridge, MA USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8610617002?gh_jid=8610617002) |
 | **Olsson** | Associate Scientist - Industrial Envi... | North Kansas City... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5292702008) |
+| **Anduril** | Electrical Engineer Lab Technician | Costa Mesa, Calif... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5174050007?gh_jid=5174050007) |
 | **Esri** | Data Scientist I | St. Louis, MO - W... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5173232007?gh_jid=5173232007) |
 | **Chan Zuckerberg Biohub** | Research Associate, AI Research Wet Lab | Redwood City, CA ... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/8004158) |
 | **Flagship Pioneering** | Associate Scientist, Immunology | Cambridge, MA USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8598651002?gh_jid=8598651002) |
@@ -333,6 +334,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **IDEXX** | Software Support Specialist - Veterin... | Frisco, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Frisco-TX/Software-Support-Specialist---Veterinary-Software_J-054198) |
 | **IDEXX** | Professional Services Veterinarian Mi... | Minneapolis, MN +... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Minneapolis-MN/Professional-Services-Veterinarian-Minneapolis-MN_J-054192) |
 | **IDEXX** | Medical Laboratory  Technician | Norcross, GA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Norcross-GA/Medical-Laboratory--Technician_J-053718-1) |
+| **Atlantic Health System** | Asst Manager, Medical Imaging | Summit, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31352) |
 | **LabCorp** | Reference Test Clerk | San Diego CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/San-Diego-CA/Reference-Test-Clerk_2622119) |
 | **LabCorp** | Phlebotomist | Dallas TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Dallas-TX/Phlebotomist_2622718) |
 | **LabCorp** | Clinical Laboratory Technologist | Raritan NJ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Raritan-NJ/Clinical-Laboratory-Technologist_2624322) |
@@ -381,7 +383,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Insulet Corporation** | Director of Customer Long-term Succes... | Acton Massachuset... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Director-of-Customer-Long-term-Success-and-Loyalty---Acton--MA---San-Diego--CA--Hybrid-_REQ-2026-17326) |
 | **Atlantic Health System** | Certified Medical Assistant I, Full T... | Cedar Knolls, NJ,... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27898) |
 | **Atlantic Health System** | Pediatric Pulmonologist, PD | Morristown, NJ, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29290) |
-| **Atlantic Health System** | Certified Medical Assistant I, Full T... | Martinsville, NJ,... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30213) |
 | **Pfizer** | Cardiovascular Specialist, Health and... | Louisiana | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Louisiana---Remote/Cardiovascular-Specialist--Health-and-Science-Professional---New-Orleans-S--LA_4960982-1) |
 | **Boys Town** | Radiology Technologist-MRI Trainee | Omaha, NE | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Radiology-Technologist-MRI-Trainee_REQ-2026-8966-1) |
 | **Guidepoint** | Client Service Healthcare Associate | Boston, Massachus... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8645890002) |
@@ -466,7 +467,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1502 current opportunities from 95 companies**
+**🎯 1504 current opportunities from 96 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
