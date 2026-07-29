@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1500-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-903-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1501-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-901-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-96-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -154,8 +154,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Associate Analytical Chemist | Madison, WI | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140489969) |
+| **Eurofins** | Associate Analytical Chemist  - 2nd S... | Madison, WI | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140488599) |
+| **Eurofins** | Associate Analytical Chemist - 2nd Sh... | Madison, WI | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140488469) |
 | **AbbVie** | Medical Science Liaison – Aesthetics ... | Sacramento, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014340256) |
-| **Eurofins** | Genetic Characterization Scientist- C... | Spring House, PA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140455159) |
 | **Wash U** | Clinical Research Financial Coordinat... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Clinical-Research-Financial-Coordinator-II---Cardiology_JR96169) |
 | **Wash U** | Postdoctoral Research Associate - Mol... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Postdoctoral-Research-Associate---Molecular-Microbiology_JR95210) |
 | **Wash U** | Postdoctoral Research Associate - Eng... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Engineering_JR96129) |
@@ -174,8 +176,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | Pre-Analytical Laboratory Technician II | California | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Redwood-City/Pre-Analytical-Laboratory-Technician-II_35000237-1) |
 | **Abbott** | Histology Lab Technician I | California | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Redwood-City/Histology-Lab-Technician-I_35000218-1) |
 | **Abbott** | Histotechnologist I | California | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Redwood-City/Histotechnologist-I_35000101-1) |
-| **Eurofins** | Lab Technician (Sample Management and... | North Brunswick T... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140332329) |
-| **Eurofins** | Microbiologist (2nd Shift) | Rahway, NJ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140327049) |
 | **AbbVie** | Future Opportunities - Join our Talen... | North Chicago, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014326690) |
 | **BillionToOne** | Clinical Laboratory Scientist, Oncolo... | Menlo Park, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4718937005) |
 | **Vertex Pharmaceuticals** | Health Economics & Outcomes Research ... | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Health-Economics---Outcomes-Research-Associate-Director--Cell---Gene-Therapy_REQ-29016) |
@@ -336,7 +336,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **IDEXX** | Software Support Specialist - Veterin... | Frisco, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Frisco-TX/Software-Support-Specialist---Veterinary-Software_J-054198) |
 | **IDEXX** | Professional Services Veterinarian Mi... | Minneapolis, MN +... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Minneapolis-MN/Professional-Services-Veterinarian-Minneapolis-MN_J-054192) |
 | **IDEXX** | Medical Laboratory  Technician | Norcross, GA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Norcross-GA/Medical-Laboratory--Technician_J-053718-1) |
-| **Atlantic Health System** | Emergency Medical Technician Training... | Florham Park, NJ,... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29509) |
+| **Atlantic Health System** | Certified Medical Assistant I, Full T... | Summit, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31266) |
 | **Atlantic Health System** | Asst Manager, Medical Imaging | Summit, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31352) |
 | **LabCorp** | Reference Test Clerk | San Diego CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/San-Diego-CA/Reference-Test-Clerk_2622119) |
 | **LabCorp** | Phlebotomist | Dallas TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Dallas-TX/Phlebotomist_2622718) |
@@ -468,7 +468,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1500 current opportunities from 96 companies**
+**🎯 1501 current opportunities from 96 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
