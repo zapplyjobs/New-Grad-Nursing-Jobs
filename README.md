@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1460-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1457-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-866-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-93-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -297,11 +297,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **AbbVie** | Cleaning Validation & Commissioning S... | North Chicago, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014355376) |
 | **Eurofins** | Consumer Testing Associate (On-Call/P... | Bound Brook, NJ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140563779) |
 | **Eurofins** | Consumer Testing Associate | Bound Brook, NJ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140562234) |
 | **AbbVie** | Associate I, Clinical Pharmacology Sc... | North Chicago, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014353916) |
 | **AbbVie** | Director, Clinical Pharmacology (Immu... | South San Francis... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014353586) |
-| **AbbVie** | Director, Clinical Pharmacology (Immu... | Waltham, MA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014353374) |
 | **Eurofins** | Sample Receiving Technician, Environm... | Concord, NH | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140551279) |
 | **Iterative Health** | Territory Sales Representative - GI P... | NYC, Cambridge or... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4700931006) |
 | **Iterative Health** | Territory Sales Representative - Card... | NYC, Cambridge or... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4700927006) |
@@ -457,7 +457,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1460 current opportunities from 93 companies**
+**🎯 1457 current opportunities from 93 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
