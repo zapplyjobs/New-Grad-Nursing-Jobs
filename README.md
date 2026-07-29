@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1501-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-909-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1502-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-910-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-96-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -307,6 +307,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Eurofins** | Analist Analytische Chemie | Amsterdam, NH | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140436301) |
+| **Eurofins** | Junior HR Officer | Amsterdam, NH | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140436529) |
 | **Eurofins** | Groepsleider Nachtploeg | Amersfoort, UT | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140425749) |
 | **Oscar Health** | VP, Member & Provider Services and Op... | New York, New Yor... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8084226?gh_jid=8084226) |
 | **Wash U** | Cardiopulmonary/Pulmonary Function Te... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Cardiopulmonary-Pulmonary-Function-Technician---Pulmonary---Critical-Care-Medicine_JR95623) |
@@ -358,8 +360,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bristol Myers Squibb** | Director, Global Clinical Physician (... | Cambridge Crossin... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Cambridge-Crossing---MA---US/Director--Global-Clinical-Physician--Cardiovascular-_R1604862) |
 | **Bristol Myers Squibb** | Associate I, Manufacturing, Cell Therapy | NJ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Summit-West---NJ---US/Associate-I--Manufacturing--Cell-Therapy_R1604396) |
 | **Bristol Myers Squibb** | Manager, Statistical Programming | United States | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Field---United-States---US/Manager--Statistical-Programming_R1603193) |
-| **Eurofins** | Consumer Testing Associate (On-Call/P... | Bound Brook, NJ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140345359) |
-| **Eurofins** | Consumer Testing Associate | Bound Brook, NJ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140345232) |
 | **Boys Town** | Paraprofessional | Omaha, NE | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Paraprofessional_REQ-2026-9042-2) |
 | **Boys Town** | Imaging Assistant | Omaha, NE | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Imaging-Assistant_REQ-2026-8735-1) |
 | **Delta Dental** | Administrative Coordinator | Dublin, OH | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Dublin-OH/Administrative-Coordinator_JR101389) |
@@ -467,7 +467,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1501 current opportunities from 96 companies**
+**🎯 1502 current opportunities from 96 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
