@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1496-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-895-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1497-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-897-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-95-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -333,9 +333,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **IDEXX** | Software Support Specialist - Veterin... | Frisco, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Frisco-TX/Software-Support-Specialist---Veterinary-Software_J-054198) |
 | **IDEXX** | Professional Services Veterinarian Mi... | Minneapolis, MN +... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Minneapolis-MN/Professional-Services-Veterinarian-Minneapolis-MN_J-054192) |
 | **IDEXX** | Medical Laboratory  Technician | Norcross, GA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Norcross-GA/Medical-Laboratory--Technician_J-053718-1) |
+| **Atlantic Health System** | Pediatric Neurologist, Atlantic Healt... | Morristown, NJ, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26108) |
+| **Atlantic Health System** | Vascular Neurologist, Atlantic Health... | Morristown, NJ, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29748) |
 | **Atlantic Health System** | Secretary/Technician - Full Time, Day... | Summit, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29766) |
-| **Atlantic Health System** | Certified Medical Assistant I, Full T... | Summit, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31266) |
-| **Atlantic Health System** | Asst Manager, Medical Imaging | Summit, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31352) |
 | **LabCorp** | Reference Test Clerk | San Diego CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/San-Diego-CA/Reference-Test-Clerk_2622119) |
 | **LabCorp** | Phlebotomist | Dallas TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Dallas-TX/Phlebotomist_2622718) |
 | **LabCorp** | Clinical Laboratory Technologist | Raritan NJ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Raritan-NJ/Clinical-Laboratory-Technologist_2624322) |
@@ -465,7 +465,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1496 current opportunities from 95 companies**
+**🎯 1497 current opportunities from 95 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
