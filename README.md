@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1479-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-877-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-94-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1460-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-866-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-93-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -128,11 +128,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Leland** | Registered Nurse Coach | USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/f9acc0e5-a019-43db-aaea-c1806e42996e/application) |
 | **Leland** | Nursing School Admissions Coach | USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/7ca5fc48-37ac-49b9-9fcf-a5e34250e915/application) |
 | **Leland** | Nurse Practitioner Career Coach | USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/b6a5a8e9-23d3-445a-8c0a-6a7c954c3e91/application) |
-| **Takeda** | Plasma Center Nurse – LPN | MI | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Holland/Plasma-Center-Nurse---LPN_R0184801-1) |
-| **Takeda** | Biolife - Licensed Practical Nurse (LPN) | TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Humble/Biolife---Licensed-Practical-Nurse--LPN-_R0184743-1) |
-| **Takeda** | Biolife Registered Nurse (RN) | TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Humble/Biolife-Registered-Nurse--RN-_R0184744-1) |
-| **Pfizer** | Internal Medicine Field Medical, Dire... | United States Ind... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Indiana---Remote/Internal-Medicine-Field-Medical--Director--MD_4960603-1) |
-| **Pfizer** | Internal Medicine Field Medical, Dire... | United States Ind... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Indiana---Remote/Internal-Medicine-Field-Medical--Director--non-MD_4960604-2) |
 | **Oscar Health** | Case Management RN | Tempe, Arizona, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8056709?gh_jid=8056709) |
 | **Iterative Health** | Sub Investigator - Nurse Practitioner... | Tucson, AZ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4696225006) |
 | **Iterative Health** | Clinical Research Coordinator I - RN | Tyler, Texas | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4695759006) |
@@ -227,7 +222,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Merck & Co.** | Associate Scientist, Post Doctoral Fe... | Pennsylvania | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Associate-Scientist--Post-Doctoral-Fellow--Health-Economics-Mathematical-Infectious-Disease-Modeler--Hybrid-_R407454) |
 | **Merck & Co.** | Associate Scientist/Engineer, Downstr... | Pennsylvania | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Associate-Scientist-Engineer--Downstream-Vaccines-and-Advanced-Biotechnologies-Process-R-D_R407632-1) |
 | **Amazon.com Services LLC** | Data Scientist II, Rapid & Rural Logi... | Bellevue, WA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10476538/data-scientist-ii-rapid-rural-logistics-r2l-analytics) |
-| **Zoetis** | Scientist, Bioscience Process and Val... | Durham | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Durham/Scientist--Bioscience-Process-and-Validation_JR00021186-1) |
 | **Chan Zuckerberg Biohub** | Postdoctoral Fellow/ Scientist I , Sy... | New York, NY (Ons... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/8056434) |
 | **Redwood Materials** | Analytical Laboratory Technician | Carson City, NV | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6103948004?gh_jid=6103948004) |
 | **Olsson** | Associate Scientist - Industrial Envi... | North Kansas City... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5292702008) |
@@ -292,8 +286,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Leland** | Mental Health & Wellness Coach | USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/6a4b58d8-81e2-402b-81a5-62579167a17b/application) |
 | **Exact Sciences** | Sr Regional Oncology Specialist - Ric... | VA Richmond + 3 more | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---VA---Richmond/Sr-Regional-Oncology-Specialist---Richmond--VA_R26-13556) |
 | **Philips** | Sales Support, Clinical Specialist Ve... | Denver, Colorado,... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Denver-Colorado-United-States/Sales-Support--Clinical-Specialist-VeriSight-ICE--Intracardiac-Echo----Denver-CO_587753) |
-| **Takeda** | Medical Screener | ND | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---Fargo/Medical-Screener_R0184714-1) |
-| **KBR** | Special Operations Clinical Psycholog... | Virginia Beach, V... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Virginia-Beach-Virginia/Special-Operations-Clinical-Psychologist--Dam-Neck--VA-_R2118397) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -465,7 +457,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1479 current opportunities from 94 companies**
+**🎯 1460 current opportunities from 93 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
