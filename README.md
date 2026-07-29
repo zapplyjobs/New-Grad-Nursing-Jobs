@@ -19,7 +19,7 @@
 
 ![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1502-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-905-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-95-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-96-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Affirm** | Learning Specialist II | Remote US | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7808247003) |
 | **Wash U** | RN Clinical Nurse Coordinator - Pedia... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/RN-Clinical-Nurse-Coordinator---Pediatric-Cardiology---Pulmonary-Hypertension_JR96074) |
 | **CVS Health** | Family Nurse Practitioner - NP/PA | Elkridge, MD | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MD---Elkridge/Family-Nurse-Practitioner---NP-PA_R0991338-1) |
 | **CVS Health** | Nurse Practitioner | Tucson, AZ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Tucson/Nurse-Practitioner_R0922878-1) |
@@ -467,7 +468,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1502 current opportunities from 95 companies**
+**🎯 1502 current opportunities from 96 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
