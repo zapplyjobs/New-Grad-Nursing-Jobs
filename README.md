@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1487-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1488-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-887-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-95-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -153,6 +153,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Iterative Health** | Clinical Research Coordinator II | Tacoma, WA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4700875006) |
 | **Eurofins** | QC Lab Technician I - Monday-Friday 3... | Louisville, KY | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140536908) |
 | **Eurofins** | Associate Scientist | San Diego, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140519099) |
 | **AbbVie** | Clinical Research Associate I - Littl... | Shreveport, LA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014346386) |
@@ -227,7 +228,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Zoetis** | Scientist, Bioscience Process and Val... | Durham | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Durham/Scientist--Bioscience-Process-and-Validation_JR00021186-1) |
 | **Iterative Health** | Clinical Research Coordinator II | Waterloo, Iowa | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4696815006) |
 | **Chan Zuckerberg Biohub** | Postdoctoral Fellow/ Scientist I , Sy... | New York, NY (Ons... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/8056434) |
-| **Iterative Health** | Clinical Research Coordinator II | San Marcos, Texas | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4696714006) |
 | **Redwood Materials** | Analytical Laboratory Technician | Carson City, NV | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6103948004?gh_jid=6103948004) |
 | **Flagship Pioneering** | Scientist, Computational Biology | Cambridge, MA USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8610617002?gh_jid=8610617002) |
 | **Olsson** | Associate Scientist - Industrial Envi... | North Kansas City... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5292702008) |
@@ -466,7 +466,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1487 current opportunities from 95 companies**
+**🎯 1488 current opportunities from 95 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
