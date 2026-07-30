@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1413-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1412-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-839-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-92-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -156,7 +156,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Scientist I, Biologics Drug Product D... | Irvine, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014352786) |
 | **Veeva Systems** | AI Consultant - Pharmacovigilance/Saf... | Boston | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/bd25fa26-0de8-496c-98a4-38101dfeadb1/apply) |
 | **Eurofins** | Specialist - Sample Management | Salem, NC | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140542599) |
-| **Iterative Health** | Clinical Research Coordinator II | Tacoma, WA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4700875006) |
 | **AbbVie** | Clinical Research Associate I - Littl... | Shreveport, LA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014346386) |
 | **Wash U** | Clinical Research Financial Coordinat... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Clinical-Research-Financial-Coordinator-II---Cardiology_JR96169) |
 | **Wash U** | Postdoctoral Research Associate - Mol... | Washington Univer... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Postdoctoral-Research-Associate---Molecular-Microbiology_JR95210) |
@@ -206,6 +205,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Moderna** | Scientist, Oncology Bioinformatics | Cambridge, Massac... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Scientist--Oncology-Bioinformatics_R19507) |
 | **Cardinal Health** | Laboratory Technician | Albuquerque PET, NM | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/NM-Albuquerque-PET/Laboratory-Technician_20184235) |
 | **Carnegie Mellon University** | Postdoctoral Research Associate - Sch... | Pittsburgh, PA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Postdoctoral-Research-Associate---School-of-Computer-Science---MLD_2024873) |
+| **Iterative Health** | Project Manager, Clinical Research - ... | NYC, BOS or Dallas | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4697832006) |
 | **Gilead Sciences** | Associate Scientist, Biology -  in vi... | California | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Associate-Scientist--Biology----in-vivo-Antibody-Discovery_R0053720-2) |
 | **iRhythm** | Sr Clinical Scientist | US | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/Remote---US/Sr-Clinical-Scientist_JR1619) |
 | **Guidehouse** | Clinical Research Coordinator | MD, Bethesda | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Clinical-Research-Coordinator_42239) |
@@ -453,7 +453,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1413 current opportunities from 92 companies**
+**🎯 1412 current opportunities from 92 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
