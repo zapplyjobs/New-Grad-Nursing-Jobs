@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1457-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-866-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1438-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-859-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-93-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -221,7 +221,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Exact Sciences** | Pre-Analytical Laboratory Technician ... | Redwood City, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Redwood-City/Pre-Analytical-Laboratory-Technician-II-Monday-Friday--11AM-7-30PM_R26-13626) |
 | **Merck & Co.** | Associate Scientist, Post Doctoral Fe... | Pennsylvania | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Associate-Scientist--Post-Doctoral-Fellow--Health-Economics-Mathematical-Infectious-Disease-Modeler--Hybrid-_R407454) |
 | **Merck & Co.** | Associate Scientist/Engineer, Downstr... | Pennsylvania | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Associate-Scientist-Engineer--Downstream-Vaccines-and-Advanced-Biotechnologies-Process-R-D_R407632-1) |
-| **Amazon.com Services LLC** | Data Scientist II, Rapid & Rural Logi... | Bellevue, WA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10476538/data-scientist-ii-rapid-rural-logistics-r2l-analytics) |
 | **Chan Zuckerberg Biohub** | Postdoctoral Fellow/ Scientist I , Sy... | New York, NY (Ons... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/8056434) |
 | **Redwood Materials** | Analytical Laboratory Technician | Carson City, NV | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6103948004?gh_jid=6103948004) |
 | **Olsson** | Associate Scientist - Industrial Envi... | North Kansas City... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5292702008) |
@@ -285,7 +284,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Pfizer** | Specialty Care Field Medical, Directo... | United States Geo... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Georgia---Remote/Specialty-Care-Field-Medical--Director--non-MD_4956408-1) |
 | **Leland** | Mental Health & Wellness Coach | USA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/6a4b58d8-81e2-402b-81a5-62579167a17b/application) |
 | **Exact Sciences** | Sr Regional Oncology Specialist - Ric... | VA Richmond + 3 more | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---VA---Richmond/Sr-Regional-Oncology-Specialist---Richmond--VA_R26-13556) |
-| **Philips** | Sales Support, Clinical Specialist Ve... | Denver, Colorado,... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Denver-Colorado-United-States/Sales-Support--Clinical-Specialist-VeriSight-ICE--Intracardiac-Echo----Denver-CO_587753) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -457,7 +455,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1457 current opportunities from 93 companies**
+**🎯 1438 current opportunities from 93 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -465,6 +463,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 29, 2026
+**Last Updated**: July 30, 2026
 
 </div>
