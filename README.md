@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1407-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1406-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-834-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-92-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -267,7 +267,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Philips** | Sales Support, Clinical Specialist Ve... | St. Louis, Missou... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/St-Louis-Missouri-United-States/Sales-Support--Clinical-Specialist-VeriSight-ICE--Intracardiac-Echo----St-Louis--MO_587601-1) |
 | **Globus Medical** | Associate Spine Specialist (Birmingha... | Alabama | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Alabama/Associate-Spine-Specialist--Birmingham--AL-_JR107369) |
 | **Boys Town** | Behavioral Health Unit Administrative... | Omaha, NE | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Behavioral-Health-Unit-Administrative-Assistant_REQ-2026-8679-1) |
-| **AbbVie** | Scientific Director / Medical Directo... | Mettawa, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014236456) |
 | **Cigna** | Product Manager, Mental Health Parity... | Bloomfield, CT + ... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Product-Manager--Mental-Health-Parity---Cigna-Healthcare---Hybrid_26008576) |
 | **Cardinal Health** | Advisor, Environmental Health & Safety | Memphis, TN | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TN-Memphis/Advisor--Environmental-Health---Safety_20184300) |
 | **EVERSANA** | Medical Information Specialist  - (Fr... | Madrid, MD | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000138822644) |
@@ -453,7 +452,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1407 current opportunities from 92 companies**
+**🎯 1406 current opportunities from 92 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
