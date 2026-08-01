@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1507-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-878-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-98-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1745-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1093-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-97-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -95,6 +95,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boys Town** | Inpatient Psychiatric Unit Social Wor... | Omaha, NE | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/XMLNAME-2267---Inpatient-Psychiatric-Unit-Social-Worker-Therapist_REQ-2025-7134-2) |
 | **Arc Institute** | Research Associate II, Horns Lab | Palo Alto, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/6132324004) |
 | **Guidehouse** | Clinical Appeals/Denials RN | Remote | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Appeals-Denials-RN_39654-1) |
+| **Centene** | RN Supervisor, Appeals, Managed Care, UM | 24 Locations | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/Supervisor--Appeals_1643371-1) |
 | **Atlantic Health System** | Registered Nurse, Ambulatory AMG- Ful... | Cedar Knolls, NJ,... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/25521) |
 | **Atlantic Health System** | Registered Nurse - Full Time, 8:30-4:... | Summit, NJ, Unite... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27811) |
 | **Atlantic Health System** | Registered Nurse, Per Diem Days, 8a-4... | Hackettstown, NJ,... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28030) |
@@ -120,7 +121,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **VSP Vision** | Vice President, Internal Audit | Remote US | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Vice-President--Internal-Audit_R-9805) |
 | **Oscar Health** | CCM Case Management RN | Florida, United S... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8084238?gh_jid=8084238) |
 | **Iterative Health** | Infusion Registered Nurse | Mansfield, Texas | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4698892006) |
+| **LabCorp** | Specimen Management Specialist- PRN- ... | Englewood CO | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Englewood-CO/Specimen-Management-Specialist--PRN--2nd-Shift_2615279-1) |
+| **LabCorp** | Phlebotomist PRN | Panama City FL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Panama-City-FL/Phlebotomist-PRN_2615672) |
 | **RELX** | Enterprise Customer Success Manager, ... | Missouri | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Missouri/Enterprise-Customer-Success-Manager--Nursing-Health-Education_R114349-1) |
+| **LabCorp** | Clinical Laboratory Technologist - DN... | Burlington NC | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Burlington-NC/Clinical-Laboratory-Technologist---DNA-Paternity_2626018) |
 | **Cardinal Health** | Ld Coord, Learning Development & Deli... | Reno, NV | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/NV-Reno-Echo-Dr/Ld-Coord--Learning-Development---Delivery_20183989-1) |
 | **Cardinal Health** | PRN Hospital Pharmacist | PAM Health Rehab ... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/PA-Enola--PAM-Health-Rehab-Hosp-of-Hampden/PRN-Hospital-Pharmacist_20184294) |
 | **Cardinal Health** | PRN Pharmacy Technician | Georgetown, DE | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/DE--Georgetown--PAM-Health-Rehabilitation-Hospital-of-Georgetown/PRN-Pharmacy-Technician_20184479) |
@@ -156,6 +160,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **LabCorp** | Lab Assistant | Calabasas Hills CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Calabasas-Hills-CA/Lab-Assistant_2623663-1) |
 | **IDEXX** | Laboratory Technician – 3rd Shift | West Sacramento, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/West-Sacramento-CA/Laboratory-Technician---3rd-Shift_J-054225) |
 | **IDEXX** | Laboratory Technician – 3rd Shift | West Sacramento, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/West-Sacramento-CA/Laboratory-Technician---3rd-Shift_J-054182-1) |
 | **IDEXX** | Laboratory Technician – 3rd Shift | Irvine, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Irvine-CA/Laboratory-Technician---3rd-Shift_J-053771) |
@@ -168,11 +173,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Thermo Fisher Scientific** | QC Scientist I | Greenville, North... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/QC-Scientist-I_R-01349500) |
 | **Thermo Fisher Scientific** | QC Scientist I | Greenville, North... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/QC-Scientist-I_R-01349503) |
 | **Eurofins** | Laboratory Technician l (Full-Time) | Columbia, MO | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000141012039) |
-| **LabCorp** | Histology Lab Assistant | Phoenix AZ | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Phoenix-AZ/Histology-Lab-Assistant_2613566) |
-| **LabCorp** | Ops Scientist I | Madison WI | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Madison-WI/Ops-Scientist-I_2624278) |
 | **Zoetis** | Laboratory Technician – Fermentation ... | Lincoln | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Lincoln/Laboratory-Technician---Fermentation-2nd-shift-Monday---Friday-2-00pm---10-30pm_JR00021121-1) |
 | **Zoetis** | Lab Assistant | Louisville | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Louisville/Lab-Assistant_JR00021314-1) |
-| **Pfizer** | Associate Scientist, Reagent Logistics | New York | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---Pearl-River/Associate-Scientist--Reagent-Logistics_4960880-3) |
 | **Gilead Sciences** | Sr Associate Scientist, Biology | California | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Associate-Scientist--Biology_R0051595-1) |
 | **Eurofins** | QC Analytical Chemist | Andover, MA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140994919) |
 | **Eurofins** | Scientist, Data Review | Columbia, MO | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140992327) |
@@ -204,9 +206,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sherwin-Williams** | Quality Lab Technician - 2nd Shift | Elkhart, IN, Unit... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2617791) |
 | **Sherwin-Williams** | Quality Lab Technician I | Wheeling, IL, Uni... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619209) |
 | **Gilead Sciences** | Sr Manager, Technical Operations - Cl... | California | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Manager--Technical-Operations---Clinical-Trial-Capabilities_R0053782-3) |
-| **Teledyne** | Laboratory Technician 2 | Knoxville, TN | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Knoxville-TN/Laboratory-Technician-2_REQ35967) |
 | **Curtiss-Wright** | Metrology Lab Technician | Round Rock, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-TX-Round-Rock-Nuclear/Metrology-Lab-Techinician_JR12370) |
-| **FLIR Systems** | Laboratory Technician 2 | Knoxville, TN | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Knoxville-TN/Laboratory-Technician-2_REQ35967) |
 | **Carnegie Mellon University** | Research Associate – Lifespan Stress ... | Pittsburgh, PA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---Lifespan-Stress-and-Health-Lab---Dietrich-College_2024898) |
 | **Veeva Systems** | AI Consultant - Pharmacovigilance/Saf... | Boston | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/bd25fa26-0de8-496c-98a4-38101dfeadb1/apply) |
 | **Entegris** | Quality Lab Scientist II, Thu-Sun 12:... | Bedford, MA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Quality-Lab-Scientist-II--Thu-Sun-12-00-PM---10-30-PM_REQ-13218-1) |
@@ -216,6 +216,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Momentive** | Quality Lab Technician | Friendly, WV | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Quality-Lab-Technician_R9709) |
 | **Merck & Co.** | Clinical Research Associate (CRA) Man... | New Jersey | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Clinical-Research-Associate--CRA--Manager---Remote_R409322-1) |
 | **BillionToOne** | Clinical Laboratory Scientist, Oncolo... | Menlo Park, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4718937005) |
+| **LabCorp** | Clinical Laboratory Technician | Manhattan KS | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Manhattan-KS/Clinical-Laboratory-Technician_2623465) |
+| **LabCorp** | Lab Assistant | Warren MI | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Warren-MI/Lab-Assistant_2625887) |
 | **Moderna** | Research Associate, Immuno-Oncology R... | Cambridge, Massac... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Research-Associate--Immuno-Oncology-Research_R19493-1) |
 | **Elanco** | Quality Control Clinical Scientist | Winslow, ME | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Winslow-ME/Quality-Control-Clinical-Scientist_R0025467-1) |
 | **Elanco** | Clinical Laboratory Research Scientist | Fort Dodge, IA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Clinical-Laboratory-Research-Scientist_R0026470) |
@@ -256,6 +258,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SpaceX** | Chemical Lab Technician (Starlink PCB) | Bastrop, TX | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8532544002?gh_jid=8532544002) |
 | **BillionToOne** | Clinical Laboratory Scientist, Prenatal | Union City, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4702009005) |
 | **BillionToOne** | Clinical Laboratory Scientist, Prenat... | Union City, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4702002005) |
+| **Axon** | AI Scientist I | Seattle, Washingt... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7746492003) |
+| **Pinterest** | Data Scientist II, Infrastructure | San Francisco, CA... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=7816424) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -267,6 +271,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Pfizer** | Field Medical Outcomes Director | United States Pen... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Pennsylvania---Remote/Field-Medical-Outcomes-Director_4961422) |
 | **KBR** | Special Operations Physical Therapist... | Fort Campbell, Ke... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Campbell-Kentucky/Special-Operations-Physical-Therapist--5th-SFG-A---Ft-Campbell--KY-_R2127602) |
 | **Medtronic** | Clinical Specialist Pelvic Health-  G... | Grand Rapids, Mic... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Grand-Rapids-Michigan-United-States-of-America/Clinical-Specialist-Pelvic-Health---Grand-Rapids--MI_R71509-1) |
 | **Medtronic** | Clinical Specialist, Cardiac Rhythm M... | State of Iowa, Un... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Iowa-United-States-of-America/Clinical-Specialist--Cardiac-Rhythm-Management--CRM----Mason-City--IA_R63300-1) |
@@ -314,6 +319,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Baxter International** | Quality Associate III | Round Lake, Illinois | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://baxter.wd1.myworkdayjobs.com/baxter/job/Round-Lake-Illinois/Quality-Associate-III_JR-206041-1) |
+| **Baxter International** | Engineering Specialist, Facilities an... | Deerfield, Illinois | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://baxter.wd1.myworkdayjobs.com/baxter/job/Deerfield-Illinois/Engineering-Specialist--Facilities-and-Critical-Systems_JR-205940-1) |
+| **Baxter International** | Occupational Health Nurse | Skaneateles, NY | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Occupational-Health-Nurse_JR-204533-1) |
+| **LabCorp** | specimen accessioner | San Diego CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/San-Diego-CA/specimen-accessioner_2624152) |
+| **LabCorp** | Specimen Accessioner | San Diego CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/San-Diego-CA/Specimen-Accessioner_2624316) |
+| **LabCorp** | Phlebotomist | Draper UT | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Draper-UT/Phlebotomist_2623210) |
+| **Pfizer** | Cardiovascular Specialist, Health and... | Virginia | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Virginia---Remote/Cardiovascular-Specialist--Health-and-Science-Professional---Richmond-N--VA_4961204) |
 | **Highmark Health** | MRI Technologist Trainee | Wexford PA, 15090... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Wexford-PA-15090-12311-Perry-Highway/MRI-Technologist-Trainee_J285324) |
 | **Highmark Health** | Medical Assistant - AHN Cancer Instit... | Pittsburgh PA, 15... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-314-E-North-Avenue/Medical-Assistant---AHN-Cancer-Institute---Allegheny-General-Hospital---Full-Time_J285319) |
 | **Highmark Health** | Medical Assistant - AHN Cancer Instit... | 230 West North Av... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/230-West-North-Ave-Pitsburgh-PA-15212/Medical-Assistant---AHN-Cancer-Institute---St-Vincent-Hospital---Full-Time_J283361) |
@@ -353,16 +365,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **VSP Vision** | Optical Administrator | Folsom, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Folsom-CA/Optical-Administrator_R-9808) |
 | **VSP Vision** | Customer Support 2 | Remote US | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Customer-Support-2_R-9815) |
 | **VSP Vision** | Vice President, Infrastructure and Op... | Remote US | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Vice-President--Infrastructure_R-9814) |
-| **Baxter International** | Quality Associate III | Round Lake, Illinois | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://baxter.wd1.myworkdayjobs.com/baxter/job/Round-Lake-Illinois/Quality-Associate-III_JR-206041-1) |
-| **Baxter International** | Occupational Health Nurse | Skaneateles, NY | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Occupational-Health-Nurse_JR-204533-1) |
-| **Baxter International** | Territory Business Manager, Advanced ... | Corpus Christi, T... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://baxter.wd1.myworkdayjobs.com/baxter/job/Corpus-Christi-Texas/Territory-Business-Manager--Advanced-Surgery---Corpus-Christi---The-Valley-TX_JR-206216) |
-| **LabCorp** | Phlebotomist | Christiansburg VA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Christiansburg-VA/Phlebotomist_2624105) |
-| **LabCorp** | Phlebotomist Float | Richmond VA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Richmond-VA/Phlebotomist-Float_2619803) |
-| **LabCorp** | Phlebotomist | Burlington NC | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Burlington-NC/Phlebotomist_2617820) |
 | **Zoetis** | Aseptic Technician - B2 Media Prep 1s... | Lincoln | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Lincoln/Aseptic-Technician---B2-Media-Prep-1st-Shift-Monday---Friday-6-30am---3-00pm_JR00021312-1) |
 | **Zoetis** | Lab Tech 1 | Phoenix Lab | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Phoenix-Lab/Lab-Tech-1_JR00021320-1) |
 | **BillionToOne** | Director / Associate Director, Oncolo... | Menlo Park | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4720536005) |
-| **Pfizer** | Cardiovascular Specialist, Health and... | Virginia | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Virginia---Remote/Cardiovascular-Specialist--Health-and-Science-Professional---Richmond-N--VA_4961204) |
 | **Gilead Sciences** | Sr Therapeutic Specialist, PBC/HCV - ... | Field | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---Field/Sr-Therapeutic-Specialist--PBC-HCV---Mobile--AL-Panama-City--FL-_R0054021-2) |
 | **Gilead Sciences** | Sr Therapeutic Specialist, PBC/HCV --... | Field | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---Field/Sr-Therapeutic-Specialist--PBC-HCV----South-Texas_R0053924-2) |
 | **Merck & Co.** | Cardiovascular Disease Specialist - F... | Arkansas | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Arkansas---Fayetteville/Cardiovascular-Disease-Specialist---Fayetteville--AR_R406236-1) |
@@ -387,7 +392,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intuitive** | Endoluminal Program Manager | Chicago, IL | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000140978153) |
 | **Wellmark, Inc.** | Administrative Assistant III - Health... | Des Moines, IA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000140972893) |
 | **Eurofins** | Laboratory Director | Bismarck, ND | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140970132) |
-| **Moderna** | Head of Clinical Sciences | Bethesda, Marylan... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Bethesda-Maryland/Head-of-Clinical-Sciences_R19551) |
+| **Pfizer** | Cardiovascular Specialist, Health and... | Colorado | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Colorado---Remote/Cardiovascular-Specialist--Health-and-Science-Professional---Colorado-Springs--CO_4957493-1) |
 | **Thermo Fisher Scientific** | Manager, Molecular Biology (GMP Lab) | Middleton, Wiscon... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Group-Leader---Molecular-Biology--GMP-_R-01357464) |
 | **Atlantic Health System** | Secretary/Technician, Per Diem, Days ... | Morristown, NJ, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27323) |
 | **Atlantic Health System** | Supervisor, Authorization, Full Time,... | Morristown, NJ, U... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28657) |
@@ -396,7 +401,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stantec** | Wildlife Biologist | Overland Park, KS... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007052) |
 | **Zoetis** | Pharma Compounding Technician - 1st S... | Lincoln | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Lincoln/Pharma-Compounding-Technician---1st-Shift-M-F-6-00am---2-30pm-OR-M-Th-5-00am---3-30pm_JR00021295) |
 | **CACI** | Optician | Danbury, CT, US | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Danbury-CT-US/Optician_329482) |
-| **Pfizer** | Cardiovascular Specialist, Health and... | Colorado | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Colorado---Remote/Cardiovascular-Specialist--Health-and-Science-Professional---Colorado-Springs--CO_4957493-1) |
 | **Gilead Sciences** | Assoc Clinical Development Director (MD) | California | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Assoc-Clinical-Development-Director--MD-_R0053813-1) |
 | **LLNL** | High Energy Density Science (HEDS) Ce... | Livermore, CA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014375306) |
 | **Carnegie Mellon University** | Nurse Casual (Part Time) – University... | Pittsburgh, PA | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Nurse-Casual--Part-Time----University-Health-Services---Division-of-Student-Affairs_2024823) |
@@ -414,6 +418,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertex Pharmaceuticals** | Managed Care Contracting Associate Di... | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Managed-Care-Contracting-Associate-Director_REQ-29567) |
 | **IDEXX** | Telemedicine Support Veterinarian | Virtual United St... | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Telemedicine-Support-Veterinarian_J-054164) |
 | **Revvity** | Associate Lab Technologist | Pittsburgh | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://revvity.wd103.myworkdayjobs.com/External/job/Pittsburgh/Associate-Lab-Technologist_JR-045072-1) |
+| **Elanco** | Regional Consulting Veterinarian (RCV... | Teleworker | Undated | [<img src="images/apply.png" width="80" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/US---Teleworker/Regional-Consulting-Veterinarian--RCV----US-Pet-Health_R0026548-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -474,7 +479,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1507 current opportunities from 98 companies**
+**🎯 1745 current opportunities from 97 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
