@@ -66,14 +66,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Cigna** | RD Health Coach - Bilingual Spanish -... | Orlando, FL | 42m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cigna** | Network Operations Manager - Evernort... | United States Wor... | 42m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CVS Health** | Pharmacy Intern - Grad | 00663 - Grand St.... | 42m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CVS Health** | Pharmacy Intern - Grad | 01776 - Grand St.... | 42m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CVS Health** | Pharmacy Intern - Grad | 02152 - Grand St.... | 42m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Boys Town** | Registered Nurse (RN)—Same Day Pediat... | Omaha, NE | 57m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Boys Town** | Registered Nurse (RN), Pediatrics (Pa... | Omaha, NE | 57m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Boys Town** | Inpatient Psychiatric Unit Social Wor... | Omaha, NE | 57m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cigna** | RD Health Coach - Bilingual Spanish -... | Orlando, FL | 48m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cigna** | Network Operations Manager - Evernort... | United States Wor... | 48m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CVS Health** | Pharmacy Intern - Grad | 00663 - Grand St.... | 49m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CVS Health** | Pharmacy Intern - Grad | 01776 - Grand St.... | 49m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CVS Health** | Pharmacy Intern - Grad | 02152 - Grand St.... | 49m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Boys Town** | Registered Nurse (RN)—Same Day Pediat... | Omaha, NE | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Boys Town** | Registered Nurse (RN), Pediatrics (Pa... | Omaha, NE | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Boys Town** | Inpatient Psychiatric Unit Social Wor... | Omaha, NE | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **General Motors** | Registered Nurse - Occupational Healt... | Lansing, Michigan... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **General Motors** | Occupational Health Registered Nurse | Flint, Michigan, ... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **LabCorp** | Phlebotomist PRN | Fredericksburg VA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -94,7 +94,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Highmark Health** | Complex Case Manager RN | PA, Working at Ho... | 5h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Highmark Health** | Patient Care Technician -  Surgery Ce... | Monroeville PA, 1... | 5h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Highmark Health** | Physician Assistant - Inpatient Domai... | Jefferson Hills P... | 5h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **AbbVie** | Director, Oncology, International Pub... | Mettawa, IL | 7h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **AbbVie** | Director, Oncology, International Pub... | Mettawa, IL | 8h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Arc Institute** | Research Associate II, Horns Lab | Palo Alto, CA | 9h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Cigna** | Patient Care Coordinator - Evernorth ... | Oakdale, PA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **NREL** | Graduate Intern – Focused Ion Beam, E... | Golden, CO | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -317,14 +317,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **AbbVie** | Business Development Manager, Facial ... | San Francisco, CA | 39m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cigna** | Business Analytics Advisor, Payment I... | United States Wor... | 42m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cigna** | Provider Contracting Advisor - Cigna ... | VA, McLean | 42m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cigna** | Eligibility Representative - Accredo ... | Indiana Work at Home | 42m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CVS Health** | Pharmacy Technician | Amherst, MA | 42m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Boys Town** | Lab Manager for the Auditory Perceptu... | Omaha, NE | 57m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Boys Town** | Certified Medical Assistant- Orthoped... | Omaha, NE | 57m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Boys Town** | IT Procurement Manager | Omaha, NE | 57m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **AbbVie** | Business Development Manager, Facial ... | San Francisco, CA | 46m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cigna** | Business Analytics Advisor, Payment I... | United States Wor... | 48m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cigna** | Provider Contracting Advisor - Cigna ... | VA, McLean | 48m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cigna** | Eligibility Representative - Accredo ... | Indiana Work at Home | 48m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CVS Health** | Pharmacy Technician | Amherst, MA | 49m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Boys Town** | Lab Manager for the Auditory Perceptu... | Omaha, NE | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Boys Town** | Certified Medical Assistant- Orthoped... | Omaha, NE | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Boys Town** | IT Procurement Manager | Omaha, NE | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Gilead Sciences** | Sr Therapeutic Specialist, PBC/HCV - ... | Field | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Gilead Sciences** | Sr Therapeutic Specialist, PBC/HCV --... | Field | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AbbVie** | Associate Director,  Aesthetics Clini... | Irvine, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -378,7 +378,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Highmark Health** | MRI Technologist Trainee | Wexford PA, 15090... | 5h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Highmark Health** | Medical Assistant - AHN Cancer Instit... | Pittsburgh PA, 15... | 5h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Highmark Health** | Medical Assistant - AHN Cancer Instit... | 230 West North Av... | 5h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Eurofins** | Consumer Testing Associate (On-Call/P... | Bound Brook, NJ | 5h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Eurofins** | Consumer Testing Associate (On-Call/P... | Bound Brook, NJ | 6h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Eurofins** | Consumer Testing Associate | Bound Brook, NJ | 6h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Intuitive** | Sr Privacy Compliance and Ops Manager | Sunnyvale, CA | 6h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **BillionToOne** | Director / Associate Director, Oncolo... | Menlo Park | 9h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
