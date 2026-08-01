@@ -169,7 +169,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | Research Scientist II | Texas | 2h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Abbott** | Associate Clinical Project Manager | California | 2h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Guidehouse** | Medical Laboratory Scientist Blood Bank | MD, Bethesda | 2h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Pfizer** | Associate Scientist, Reagent Logistics | New York | 3h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Pfizer** | Associate Scientist, Reagent Logistics | New York | 4h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Eurofins** | Laboratory Technician l (Full-Time) | Columbia, MO | 7h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Eurofins** | QC Analytical Chemist | Andover, MA | 10h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Eurofins** | Scientist, Data Review | Columbia, MO | 10h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -328,9 +328,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Gilead Sciences** | Sr Therapeutic Specialist, PBC/HCV - ... | Field | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Gilead Sciences** | Sr Therapeutic Specialist, PBC/HCV --... | Field | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AbbVie** | Associate Director,  Aesthetics Clini... | Irvine, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **VSP Vision** | Optical Administrator | Folsom, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **VSP Vision** | Customer Support 2 | Remote US | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **VSP Vision** | Vice President, Infrastructure and Op... | Remote US | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **VSP Vision** | Optical Administrator | Folsom, CA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **VSP Vision** | Customer Support 2 | Remote US | 2h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **VSP Vision** | Vice President, Infrastructure and Op... | Remote US | 2h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Insulet Corporation** | Value Communications Manager - Acton,... | Acton, Massachusetts | 2h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Insulet Corporation** | Supervisor, Quality Operations (12 Ho... | Massachusetts | 2h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Insulet Corporation** | Manager, Instrumentation (Vision Syst... | Massachusetts | 2h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -362,10 +362,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | Clinical Contracts Associate II | United States > T... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Abbott** | Moves Specialist II | Wisconsin | 2h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Envista Holdings** | Dental Technician II – Procera Complete | NJ | 2h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **AstraZeneca** | Statistical Science Director V&I | MD | 3h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **AstraZeneca** | Statistical Science Director - Late O... | MD | 3h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **AstraZeneca** | Cell Therapy Business Planning and Op... | MD | 3h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Pfizer** | Cardiovascular Specialist, Health and... | Virginia | 3h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **AstraZeneca** | Statistical Science Director V&I | MD | 4h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **AstraZeneca** | Statistical Science Director - Late O... | MD | 4h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **AstraZeneca** | Cell Therapy Business Planning and Op... | MD | 4h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Pfizer** | Cardiovascular Specialist, Health and... | Virginia | 4h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Takeda** | Specialty Business Manager, Derm - Mo... | Pennsylvania Virtual | 5h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Takeda** | Center Supervisor | MI | 5h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Takeda** | Center Supervisor | AZ | 5h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
