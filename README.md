@@ -18,7 +18,7 @@
 <div align="center">
 
 ![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-2171-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1031-informational?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1033-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-94-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -120,7 +120,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **VSP Vision** | Vice President, Internal Audit | Remote US | 5d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Bristol Myers Squibb** | Director of Innovation, Innovative Mo... | NJ | 5d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Bristol Myers Squibb** | Clinical Nurse Consultant, West Texas... | Albuquerque NM US | 5d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **RELX** | Enterprise Customer Success Manager, ... | Missouri | 6d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Oscar Health** | NP/PA - Virtual Urgent Care | New York, New Yor... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Included Health** | Urgent Care Nurse Practitioner | Vermont | 1w | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Included Health** | Urgent Care Nurse Practitioner | Kansas | 1w | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -216,7 +215,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BillionToOne** | Clinical Laboratory Scientist, Oncolo... | Menlo Park, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Momentive** | Quality Lab Technician | Friendly, WV | 5d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **LexisNexis Risk Solutions** | Data Scientist I (DSAP) | Alpharetta, GA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **RELX** | Data Scientist I (DSAP) | Alpharetta, GA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Becton Dickinson** | Applications Scientist I | San Diego | 5d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon.com Services LLC** | Data Scientist II, Amazon Fulfillment... | Bellevue, WA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Stantec** | Environmental Scientist - Biologist | Louisville, KY, U... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -255,6 +253,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SpaceX** | Chemical Lab Technician (Starlink PCB) | Bastrop, TX | 2mo | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **BillionToOne** | Clinical Laboratory Scientist, Prenatal | Union City, CA | 2mo | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **BillionToOne** | Clinical Laboratory Scientist, Prenat... | Union City, CA | 2mo | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Axon** | AI Scientist I | Seattle, Washingt... | 2mo | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -414,8 +413,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Iterative Health** | Territory Sales Representative - GI P... | NYC, Cambridge or... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Iterative Health** | Territory Sales Representative - Card... | NYC, Cambridge or... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Neuralink** | Veterinary Pathologist | Austin, Texas, Un... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Elanco** | Product Safety Manager | Indianapolis, IN | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Elanco** | Regional Consulting Veterinarian (RCV... | Teleworker | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Globus Medical** | Entry Level Associate Neurophysiologi... | Utah | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
