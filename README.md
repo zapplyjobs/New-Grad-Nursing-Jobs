@@ -19,7 +19,7 @@
 
 ![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-2134-brightgreen?style=flat&logo=briefcase)
 ![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-1116-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-98-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-99-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -178,6 +178,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Iterative Health** | Clinical Research Coordinator I - Cle... | Cleveland, OH | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AbbVie** | Scientist II /Sr Scientist I , Analyt... | North Chicago, IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AbbVie** | Scientist, III | Westport, MO | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Revvity** | Scientist II - Exploratory R&D | BioLegend | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Johnson & Johnson** | Postdoctoral Scientist - RWE Neurology | Cambridge, Massac... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Johnson & Johnson** | Associate Director, Medical Science L... | Irvine, Californi... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Wash U** | Postdoctoral Research Associate - Eng... | Washington Univer... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -186,7 +187,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Air Liquide** | Laboratory Technician I | Taylor, TX | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Air Liquide** | Laboratory Technician I | Taylor, TX | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Merck & Co.** | Scientist (2nd Shift) - Pharmaceutica... | New Jersey | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Revvity** | Scientist II - Exploratory R&D | BioLegend | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Zoetis** | Laboratory Technician - Virus Operati... | Lincoln | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Zoetis** | Laboratory Technician - Virus Operati... | Lincoln | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Becton Dickinson** | Scientist I | Salt Lake City | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -324,12 +324,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Phlebotomist | CA | 2m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **LabCorp** | Phlebotomist | Arlington TX | 2m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **LabCorp** | Phlebotomist | Grand Prairie TX | 2m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **LabCorp** | Phlebotomist | CA | 17m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **LabCorp** | Phlebotomist | Arlington TX | 17m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **LabCorp** | Phlebotomist | Grand Prairie TX | 17m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CVS Health** | Pharmacy Technician Back End - Full Time | Peabody, MA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CVS Health** | Pharmacy Technician Back End - Part Time | Ballston Spa, NY | 1h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AbbVie** | Manufacturing Analyst and Documentati... | Westport, MO | 14h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Thermo Fisher Scientific** | Sr Product Applications Specialist | Austin, Texas, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Biogen** | Global Associate Medical Director, Ra... | Cambridge, MA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Biogen** | Global Medical Director, Rare Disease... | Cambridge, MA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AbbVie** | Business Development Manager, Facial ... | San Francisco, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -413,6 +414,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wellmark, Inc.** | Clinical Pharmacy Analyst (Pharmacoec... | Des Moines, IA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Wellmark, Inc.** | Director - Pharmacy Operations (Pharm... | Des Moines, IA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertex Pharmaceuticals** | Executive Medical Director, Global Me... | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Revvity** | Associate Lab Technologist | Pittsburgh | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Pfizer** | Clinical Development Medical, Associa... | New York | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Gilead Sciences** | Clinical Program Manager, Early Phase... | California | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Elanco** | Regional Consulting Veterinarian (RCV... | Teleworker | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -421,9 +423,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **IDEXX** | Telemedicine Support Veterinarian | Virtual United St... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Carnegie Mellon University** | Postdoctoral Fellow - Robotics Institute | Pittsburgh, PA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Guidehouse** | Clinical Documentation Specialist | Remote | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Revvity** | Associate Lab Technologist | Pittsburgh | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Zoetis** | Animal Technician | Durham | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Becton Dickinson** | Director BD Excellence Innovation | Franklin Lakes | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -484,7 +484,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2134 current opportunities from 98 companies**
+**🎯 2134 current opportunities from 99 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
