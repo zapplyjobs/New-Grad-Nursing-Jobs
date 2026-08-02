@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1812-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-927-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-97-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1793-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-912-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-98-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,7 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | PRN Phlebotomist | Florence SC | 2m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **LabCorp** | PRN Phlebotomist | Florence SC | 9m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CVS Health** | Pharmacy Intern | Gainesville, FL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CVS Health** | Clinician Field Mentor Nurse Practiti... | Work from home, IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CVS Health** | Pharmacy Intern - Grad | 00157 - Nevada CV... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -74,6 +74,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Takeda** | Plasma Center Nurse - LPN | NY | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AbbVie** | Director, Oncology, International Pub... | Mettawa, IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Arc Institute** | Research Associate II, Horns Lab | Palo Alto, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cigna** | RD Health Coach - Bilingual Spanish -... | Orlando, FL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Wash U** | Nurse Practitioner or Physician Assis... | Washington Univer... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Wash U** | Nurse Practitioner or Physician Assis... | Washington Univer... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Wash U** | Nurse Practitioner or Physician Assis... | Washington Univer... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -94,21 +95,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fresenius Medical Care** | Patient Care Technician | Bartow, Cartersvi... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Marion, OH, USA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Takeda** | Licensed Practical Nurse - LPN | NY | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cigna** | RD Health Coach - Bilingual Spanish -... | Orlando, FL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cigna** | Network Operations Manager - Evernort... | United States Wor... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Atlantic Health System** | Registered Nurse, Ambulatory AMG- Ful... | Cedar Knolls, NJ,... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Atlantic Health System** | Registered Nurse - Full Time, 8:30-4:... | Summit, NJ, Unite... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Atlantic Health System** | Registered Nurse, Per Diem Days, 8a-4... | Hackettstown, NJ,... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AbbVie** | Associate Director, Process Chemistry... | North Chicago, IL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cigna** | Patient Care Coordinator - Evernorth ... | Oakdale, PA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cigna** | Registered Nurse (Per Diem) | Fort Myers, FL | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Merck & Co.** | Specialist, Global Employee Health- R... | North Carolina | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AbbVie** | Director, International Oncology, Str... | Mettawa, IL | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **NREL** | Graduate Intern – Focused Ion Beam, E... | Golden, CO | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cigna** | Patient Care Coordinator - Evernorth ... | Oakdale, PA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Oracle** | Clinical Consultant (RN) — Federal He... | United States | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Affirm** | Quantitative Analytics Manager, Affir... | Remote US | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Affirm** | Quantitative Analytics Manager, Affir... | Remote US | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ICF** | Wildlife Biologist On-Call Southern C... | Los Angeles, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ICF** | Wildlife Biologist On-Call Southern a... | Los Angeles, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Gilead Sciences** | Clinical Nurse Educator - Texas | United States Field | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -159,7 +159,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Pfizer** | Associate Scientist, Reagent Logistics | New York | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **LabCorp** | Clinical Laboratory Technologist  - C... | Tampa FL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **LabCorp** | Clinical Laboratory Technician - TSA | Charlotte NC | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Merck & Co.** | Health Equity Research Associate Dire... | 4 Locations | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Merck & Co.** | Scientist, Analytical R&D | New Jersey | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Bristol Myers Squibb** | Scientist | CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Bristol Myers Squibb** | Associate Scientist, In Vivo Pharmaco... | CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -183,7 +182,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Flagship Pioneering** | Associate Scientist/Scientist I, In V... | Cambridge, MA USA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Wash U** | Postdoctoral Research Associate - Eng... | Washington Univer... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Wash U** | Clinical Research Coordinator II - Pe... | Washington Univer... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Merck & Co.** | Regional Medical Scientific Director ... | 2 Locations | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Merck & Co.** | Scientist (2nd Shift) - Pharmaceutica... | New Jersey | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Air Liquide** | Laboratory Technician I | Taylor, TX | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Air Liquide** | Laboratory Technician I | Taylor, TX | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Air Liquide** | Laboratory Technician I | Taylor, TX | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -202,11 +201,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sherwin-Williams** | Quality Lab Technician - 2nd Shift | Elkhart, IN, Unit... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Sherwin-Williams** | Quality Lab Technician I | Wheeling, IL, Uni... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Veeva Systems** | AI Consultant - Pharmacovigilance/Saf... | Boston | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **FLIR Systems** | Laboratory Technician 2 | Knoxville, TN | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Curtiss-Wright** | Metrology Lab Technician | Round Rock, TX | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Wash U** | Postdoctoral Research Associate - Hem... | Washington Univer... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Merck & Co.** | Scientist, Biologics Analytical R&D (... | Pennsylvania | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Gilead Sciences** | Sr Manager, Technical Operations - Cl... | California | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Carnegie Mellon University** | Research Associate – Lifespan Stress ... | Pittsburgh, PA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **FLIR Systems** | Laboratory Technician 2 | Knoxville, TN | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **BillionToOne** | Clinical Laboratory Scientist, Oncolo... | Menlo Park, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Momentive** | Quality Lab Technician | Friendly, WV | 5d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **RELX** | Data Scientist I (DSAP) | Alpharetta, GA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -217,11 +217,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stantec** | Environmental Scientist - Biologist | Louisville, KY, U... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Lila Sciences** | ML Scientist I/II, Nucleic Acid Design | San Francisco, CA... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Intuitive** | Clinical Trial Manager | Sunnyvale, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Elanco** | Quality Control Clinical Scientist | Winslow, ME | 6d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Elanco** | Clinical Laboratory Research Scientist | Fort Dodge, IA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Redwood Materials** | Analytical Laboratory Technician | McCarran, NV | 6d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Moderna** | Research Associate, Immuno-Oncology R... | Cambridge, Massac... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **RTX** | Material Control Lab Technician – 2nd... | Middletown, CT | 6d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Elanco** | Quality Control Clinical Scientist | Winslow, ME | 6d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Elanco** | Clinical Laboratory Research Scientist | Fort Dodge, IA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Becton Dickinson** | Applications Scientist I | San Diego | 6d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon.com Services LLC** | Data Scientist II, SCOT OSS - Sourcin... | Bellevue, WA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Atlantic Health System** | Medical Laboratory Scientist, Full Ti... | Summit, NJ, Unite... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -234,7 +234,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Becton Dickinson** | Scientist II | Vicks Drive | 1w | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **iRhythm** | Sr Clinical Scientist | US | 1w | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AstraZeneca** | Director Promotional Regulatory Affairs | Wilmington, DE | 1w | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Johnson & Johnson** | Process Microbiologist | 2 Locations | 1w | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Gilead Sciences** | Associate Scientist, Biology -  in vi... | California | 1w | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Ginkgo Bioworks** | Laboratory Technician III, Antibody P... | Boston, Massachus... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon.com LLC** | Data Scientist II, Selection Growth S... | Seattle, WA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -251,6 +250,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Redwood Materials** | Analytical Laboratory Technician | McCarran, NV | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **SpaceX** | Chemical Lab Technician (Starlink PCB) | Bastrop, TX | 2mo | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **BillionToOne** | Clinical Laboratory Scientist, Prenatal | Union City, CA | 2mo | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **BillionToOne** | Clinical Laboratory Scientist, Prenat... | Union City, CA | 2mo | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -295,6 +295,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **University of Texas at Austin** | Licensed Clinical Social Worker, Neur... | AUSTIN, TX | 5d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **University of Texas at Austin** | Supervisor, Campus Behavioral Health ... | AUSTIN, TX | 6d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Becton Dickinson** | Specialist, Medical Affairs | Sparks | 6d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **GDIT** | Clinical Psychologist | 4 Locations | 1w | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Boys Town** | Behavioral Health Unit Administrative... | Omaha, NE | 1w | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **EVERSANA** | Medical Information Specialist  - (Fr... | Madrid, MD | 1w | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Boys Town** | Licensed Therapist (LIMHP or LP) - Ad... | Omaha, NE | 1w | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -309,10 +310,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Phlebotomist | Washington NC | 2m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **LabCorp** | Site Coordinator | Raleigh NC | 2m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **LabCorp** | Phlebotomist | Chesapeake VA | 2m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CVS Health** | District Support Pharmacist - Full Time | Waynesboro, VA | 25m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **LabCorp** | Phlebotomist | Washington NC | 9m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **LabCorp** | Site Coordinator | Raleigh NC | 9m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **LabCorp** | Phlebotomist | Chesapeake VA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CVS Health** | District Support Pharmacist - Full Time | Waynesboro, VA | 31m | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Cardinal Health** | Director, AI Products and Strategy | FIELD | 3h | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CVS Health** | Pharmacy Technician Back End - Full Time | Peabody, MA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CVS Health** | Pharmacy Technician Back End - Part Time | Ballston Spa, NY | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -325,9 +326,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BillionToOne** | Director / Associate Director, Oncolo... | Menlo Park | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **LLNL** | Solid State Magnetic Resonance Spectr... | Livermore, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Intuitive** | Endoluminal Program Manager | Chicago, IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Wash U** | Patient Billing/Services Representati... | Chesterfield, MO | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cigna** | Provider Contracting Advisor - Cigna ... | VA, McLean | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cigna** | Warehouse Associate - Curascript - On... | Tempe, AZ | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cigna** | Pharmacy Technician Associate Represe... | Tempe, AZ | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Wash U** | Certified Ophthalmic Assistant - Opht... | Washington Univer... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Wash U** | Medical Assistant II - WUCA - Univers... | Washington Univer... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Wash U** | Medical Assistant III - Department of... | Washington Univer... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Pfizer** | Cardiovascular Specialist, Health and... | Virginia | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AstraZeneca** | Statistical Science Director - Late O... | MD | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AstraZeneca** | Cell Therapy Business Planning and Op... | MD | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -379,9 +383,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Takeda** | Specialty Business Manager, Derm - Mo... | Pennsylvania Virtual | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Takeda** | Center Supervisor | MI | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Takeda** | Center Supervisor | AZ | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cigna** | Provider Contracting Advisor - Cigna ... | VA, McLean | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cigna** | Warehouse Associate - Curascript - On... | Tempe, AZ | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cigna** | Pharmacy Technician Associate Represe... | Tempe, AZ | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Atlantic Health System** | Secretary/Technician, Per Diem, Days ... | Morristown, NJ, U... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Atlantic Health System** | Supervisor, Authorization, Full Time,... | Morristown, NJ, U... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Atlantic Health System** | Pharmacy Technician II - Per Diem - A... | Pompton Plains, N... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -390,8 +391,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LLNL** | High Energy Density Science (HEDS) Ce... | Livermore, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **LLNL** | Experimental Dynamic Materials - Post... | Livermore, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertex Pharmaceuticals** | Associate Director, Regulatory CMC, B... | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Pfizer** | Director, Oncology Performance Analyt... | 3 Locations | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Pfizer** | Clinical Development Executive Medica... | 5 Locations | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Pfizer** | Cardiovascular Specialist, Health and... | Colorado | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Veeva Systems** | Consultant - Congress Event | Philadelphia | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Veeva Systems** | Consultant - Congress Event | Boston | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Gilead Sciences** | Assoc Clinical Development Director (MD) | California | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -405,10 +405,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **NREL** | Postdoctoral Researcher – Reaction En... | Golden, CO | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Biogen** | Head of Regulatory CMC - Biologics & ... | Cambridge, MA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertex Pharmaceuticals** | Executive Medical Director, Global Me... | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Elanco** | Product Safety Manager | Indianapolis, IN | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Elanco** | Regional Consulting Veterinarian (RCV... | Teleworker | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Globus Medical** | Entry Level Associate Neurophysiologi... | Utah | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Pfizer** | Clinical Development Medical, Associa... | New York | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Iterative Health** | Territory Sales Representative - GI P... | NYC, Cambridge or... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Iterative Health** | Territory Sales Representative - Card... | NYC, Cambridge or... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Gilead Sciences** | Clinical Program Manager, Early Phase... | California | 4d | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -469,7 +470,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1812 current opportunities from 97 companies**
+**🎯 1793 current opportunities from 98 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
