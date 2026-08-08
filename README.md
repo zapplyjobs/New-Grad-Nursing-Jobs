@@ -66,11 +66,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Outpatient Registered Nurse - RN - Di... | Bellmore, NY, USA | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bellmore-NY-USA/Outpatient-Registered-Nurse---RN---Dialysis_R0243016) |
-| **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Hicksville, NY | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Hicksville-NY/Outpatient-Registered-Nurse---RN_R0263184) |
-| **Highmark Health** | Graduate Nurse 7A Neurovascular Telem... | Pittsburgh PA, 15212 | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/Graduate-Nurse-7A-Neurovascular-Telemetry--Allegheny-General_J281614) |
-| **Highmark Health** | RN 7A Neurovascular Telemetry, Allegh... | Pittsburgh PA, 15212 | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/RN-7A-Cranie--Allegheny-General-Hospital_J278286-1) |
-| **Highmark Health** | RN 7A Neurovascular Telemetry, Allegh... | Pittsburgh PA, 15212 | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/RN-7A-Cranie--Allegheny-General-Hospital_J280567-1) |
+| **Fresenius Medical Care** | Outpatient Registered Nurse - RN - Di... | Bellmore, NY, USA | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bellmore-NY-USA/Outpatient-Registered-Nurse---RN---Dialysis_R0243016) |
+| **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Hicksville, NY | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Hicksville-NY/Outpatient-Registered-Nurse---RN_R0263184) |
+| **Highmark Health** | Graduate Nurse 7A Neurovascular Telem... | Pittsburgh PA, 15212 | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/Graduate-Nurse-7A-Neurovascular-Telemetry--Allegheny-General_J281614) |
+| **Highmark Health** | RN 7A Neurovascular Telemetry, Allegh... | Pittsburgh PA, 15212 | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/RN-7A-Cranie--Allegheny-General-Hospital_J278286-1) |
+| **Highmark Health** | RN 7A Neurovascular Telemetry, Allegh... | Pittsburgh PA, 15212 | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/RN-7A-Cranie--Allegheny-General-Hospital_J280567-1) |
 | **Atlantic Health System** | Case Management Associate- Full Time,... | Morristown, NJ, United... | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30643) |
 | **Included Health** | Nocturnist Physician, Urgent Care (copy) | Tennessee | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/cf282e80-bd8d-4bbb-82a5-533b9d51bee2) |
 | **Included Health** | Nocturnist Physician, Urgent Care | Washington | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/aaf2532b-1afb-45f6-a054-d96ab8b560c7) |
@@ -153,7 +153,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Abbott** | Scientist Applied Research | Illinois | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Scientist-Applied-Research_31158100-1) |
+| **Abbott** | Scientist Applied Research | Illinois | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Scientist-Applied-Research_31158100-1) |
 | **Eurofins** | Laboratory Technician | Lenexa, KS | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142214440) |
 | **Eurofins** | Associate Analytical Chemist - 2nd Sh... | Madison, WI | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142212270) |
 | **Eurofins** | Lab Assistant I, II, or III - Tuesday... | Lenexa, KS | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142199059) |
@@ -317,11 +317,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician Back End | Indianapolis, IN | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IN---Indianapolis/Pharmacy-Technician-Back-End_R0963765) |
-| **CVS Health** | Pharmacy Technician -Front End | Portland, OR | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OR---Portland/Pharmacy-Technician--Front-End_R0964121) |
-| **CVS Health** | Pharmacy Technician, Back End Full Time | Ballston Spa, NY | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Ballston-Spa/Pharmacy-Technician--Back-End-Full-Time_R0957225) |
+| **CVS Health** | Pharmacy Technician Back End | Indianapolis, IN | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IN---Indianapolis/Pharmacy-Technician-Back-End_R0963765) |
+| **CVS Health** | Pharmacy Technician -Front End | Portland, OR | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OR---Portland/Pharmacy-Technician--Front-End_R0964121) |
+| **CVS Health** | Pharmacy Technician, Back End Full Time | Ballston Spa, NY | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Ballston-Spa/Pharmacy-Technician--Back-End-Full-Time_R0957225) |
 | **Elevance Health** | AI Compliance Monitoring & Audit Advisor | 11 Locations | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/AI-Compliance-Monitoring---Audit-Advisor_JR203091) |
-| **Eurofins** | Laboratory Assistant - Micro | Des Moines, IA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142378199) |
+| **Eurofins** | Laboratory Assistant - Micro | Des Moines, IA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142378199) |
 | **LabCorp** | 7on/7off Hospital Phlebotomist - 2nd ... | Birmingham AL | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Birmingham-AL/XMLNAME-7on-7off-Hospital-Phlebotomist---2nd-Shift_2628242) |
 | **Oscar Health** | Physician Reviewer - Utilization Mana... | Remote (Arizona) | 13h | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8110337?gh_jid=8110337) |
 | **LLNL** | Quantitative Virology-Immunology - Po... | Livermore, CA | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014504606) |
