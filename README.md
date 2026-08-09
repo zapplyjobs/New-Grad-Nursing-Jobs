@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1720-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-915-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1709-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-907-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-101-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-Healthcare-Jobs-2027?style=flat&logo=calendar)
 
@@ -152,6 +152,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eurofins** | Associate Analytical Chemist - 2nd Sh... | Madison, WI | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142212270) |
 | **Eurofins** | Lab Assistant I, II, or III - Tuesday... | Lenexa, KS | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142199059) |
 | **IDEXX** | Medical Laboratory Technician | Manchester, MO | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Manchester-MO/Medical-Laboratory-Technician_J-054324) |
+| **Thermo Fisher Scientific** | FSP CRA II - Alzheimer's Experience -... | California | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-California-USA/FSP-CRA-II---Alzheimer-s-Experience---US-West_R-01362162) |
 | **Merck & Co.** | Clinical Research Associate (CRA) - C... | New Jersey Rahway | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Clinical-Research-Associate--CRA----Cardiovascular-Vaccine-Infectious-Disease--Remote_R406347) |
 | **Merck & Co.** | Formulation Scientist, Discovery Phar... | California | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---California---South-San-Francisco-Grand-Ave/Formulation-Scientist--Discovery-Pharmaceutical-Sciences--Onsite-_R408287-1) |
 | **Guidehouse** | Laboratory Technician | Bethesda, MD | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Laboratory-Technician_38969) |
@@ -166,7 +167,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wash U** | Clinical Research Coordinator III - P... | Washington University ... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Clinical-Research-Coordinator-III---Pediatrics-Gastroenterology_JR96524) |
 | **Wash U** | Clinical Research Coordinator II - Pe... | Washington University ... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Clinical-Research-Coordinator-II---Pediatrics-Gastroenterology_JR96520) |
 | **Wash U** | Clinical Research Coordinator II - Em... | Washington University ... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Clinical-Research-Coordinator-II---Emergency-Medicine_JR95818) |
-| **Thermo Fisher Scientific** | FSP CRA II - Alzheimer's Experience -... | California | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-California-USA/FSP-CRA-II---Alzheimer-s-Experience---US-West_R-01362162) |
 | **SharkNinja** | Lab Technician - Skincare | Needham, MA, United St... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4700429006) |
 | **LLNL** | Synthetic Biologist - Research Scientist | Livermore, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014484656) |
 | **AbbVie** | Clinical Research Associate I- US Ter... | Irvine, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014482616) |
@@ -182,7 +182,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Carnegie Mellon University** | Postdoctoral Research Associate - Col... | Pittsburgh, PA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Postdoctoral-Research-Associate---College-of-Engineering---Civil-and-Environmental-Engineering_2024955) |
 | **University System of New Hampshire** | Postdoctoral Research Associate | Main | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Postdoctoral-Research-Associate_JR8669) |
 | **University System of New Hampshire** | Postdoctoral Research Associate | Main | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Postdoctoral-Research-Associate_JR8643) |
-| **TD Bank** | Equity Research Associate - Medical T... | New York, New York | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Equity-Research-Associate---Medical-Technology_R_1504120) |
 | **Etched** | Lab Technician (Contractor) | San Jose | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/7349bab7-ab3a-4943-8e78-645148304b0e) |
 | **Amazon.com Services LLC** | Applied Scientist II, Special Projects | Seattle, WA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10494918/applied-scientist-ii-special-projects) |
 | **Sherwin-Williams** | Quality Control Lab Technician - C Shift | Kankakee, IL, United S... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619964) |
@@ -208,11 +207,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cardinal Health** | Lab Technician (Nights) | Omaha PET, NE | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/NE-Omaha-PET/Lab-Technician--Nights-_20184963) |
 | **Elanco** | Clinical Research Assistant- Clinical... | Fort Dodge, IA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Clinical-Research-Assistant--Clinical-Operations_R0026561-1) |
 | **LabCorp** | Clinical Laboratory Technologist Trai... | Raritan NJ | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Raritan-NJ/Clinical-Laboratory-Technologist-Trainee---Chemistry_2627073) |
-| **Thermo Fisher Scientific** | Automation Associate Scientist - 2nd ... | Richmond, Virginia, USA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Richmond-Virginia-USA/Automation-Associate-Scientist---2nd-Shift_R-01360617-1) |
 | **Entegris** | Scientist I, Analytics & Metrology | Billerica, MA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Scientist-I--Analytics---Metrology_REQ-12462-1) |
 | **Amazon.com Services LLC** | Applied Scientist II, Amazon Fulfillm... | Bellevue, WA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10490716/applied-scientist-ii-amazon-fulfillment-technology-amazon-fulfillment-technologies-aft) |
 | **Vertiv** | HVAC Lab Technician - 1st Shift | Columbus, OH, United S... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20268239) |
-| **Thermo Fisher Scientific** | Scientist I Process Development - Ups... | Plainville, Massachuse... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Plainville-Massachusetts-USA/Scientist-I-Process-Development---Upstream-or-Downstream_R-01362797) |
 | **Zoetis** | Laboratory Technician – Fermentation ... | Lincoln | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Lincoln/Laboratory-Technician---Fermentation-2nd-shift-Monday---Friday-2-00pm---10-30pm_JR00021121-1) |
 | **Danaher** | Quality Control Lab Technician III | Pensacola, Florida, Un... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Pensacola-Florida-United-States/Quality-Control-Lab-Technician-III_R1310926) |
 | **LabCorp** | Clinical Laboratory Technician - TSA | Charlotte NC | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Charlotte-NC/Clinical-Laboratory-Technician---TSA_2623559) |
@@ -228,8 +225,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Atlantic Health System** | Medical Laboratory Scientist, Per Die... | Summit, NJ, United States | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31426) |
 | **Sherwin-Williams** | Quality Lab Technician - 2nd Shift | Elkhart, IN, United St... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2617791) |
 | **Veeva Systems** | AI Consultant - Pharmacovigilance/Saf... | Boston | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/bd25fa26-0de8-496c-98a4-38101dfeadb1) |
+| **Regal Rexnord** | Test Lab Technician, 1st shift | Downers Grove, Illinoi... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Downers-Grove-Illinois-United-States/Test-Lab-Technician--1st-shift_R26_03887) |
 | **Curtiss-Wright** | Metrology Lab Technician | Round Rock, TX | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-TX-Round-Rock-Nuclear/Metrology-Lab-Techinician_JR12370) |
 | **BillionToOne** | Clinical Laboratory Scientist, Oncolo... | Menlo Park, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4718937005) |
+| **Thermo Fisher Scientific** | Quality Control (QC) Scientist I | Grand Island, New York... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Grand-Island-New-York-USA/Quality-Control--QC--Scientist-I_R-01360644) |
 | **Momentive** | Quality Lab Technician | Friendly, WV | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Quality-Lab-Technician_R9709) |
 | **LexisNexis Risk Solutions** | Data Scientist I (DSAP) | Alpharetta, GA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA/Data-Scientist-I--DSAP-_R116014) |
 | **Entegris** | Quality Lab Scientist II, Thu-Sun 12:... | Bedford, MA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Quality-Lab-Scientist-II--Thu-Sun-12-00-PM---10-30-PM_REQ-13218-1) |
@@ -239,6 +238,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lila Sciences** | ML Scientist I/II, Nucleic Acid Design | San Francisco, CA USA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4324969009) |
 | **Intuitive** | Clinical Trial Manager | Sunnyvale, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000140096889) |
 | **Redwood Materials** | Analytical Laboratory Technician | McCarran, NV | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6120081004?gh_jid=6120081004) |
+| **Thermo Fisher Scientific** | FSP - Scientist - Transient Expression | San Diego, California,... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Transient-Expression_R-01356270) |
 | **Elanco** | Quality Control Clinical Scientist | Winslow, ME | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Winslow-ME/Quality-Control-Clinical-Scientist_R0025467-1) |
 | **Pinterest** | Data Scientist II, ML Infrastructure | Palo Alto, CA, US | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=8071670) |
 | **GenScript** | Lab Technician | Piscataway, New Jersey... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/genscript/jobs/5187689007) |
@@ -278,8 +278,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Globus Medical** | Associate Spine Specialist (Indianapo... | Indiana | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Indiana/Associate-Spine-Specialist--Indianapolis--IN-_JR107459) |
 | **Moderna** | Field Medical Advisor, Oncology | US, R19547 | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Remote---US/Field-Medical-Advisor--Oncology_R19547) |
 | **The Hartford** | Behavioral Health Case Manager | Sunrise, FL | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Sunrise-FL/Behavioral-Health-Case-Manager_R2625772-1) |
-| **Oscar Health** | Coordinator, Behavioral Health Vendor... | Atlanta, Georgia, Unit... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8103954?gh_jid=8103954) |
 | **Oscar Health** | Coordinator, Behavioral Health Vendor... | Tempe, Arizona, United... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8103934?gh_jid=8103934) |
+| **Oscar Health** | Coordinator, Behavioral Health Vendor... | Atlanta, Georgia, Unit... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8103954?gh_jid=8103954) |
 | **Oscar Health** | Coordinator, Behavioral Health Vendor... | New York, New York, Un... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8103929?gh_jid=8103929) |
 | **Takeda** | Medical Screener, Phlebotomist | AZ | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Screener--Phlebotomist_R0185961) |
 | **Takeda** | Medical Screener, Phlebotomist | AZ | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Screener--Phlebotomist_R0185960-1) |
@@ -301,7 +301,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician Back End - Part Time | Rochester, NY | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Rochester/Pharmacy-Technician-Back-End---Part-Time_R0889256) |
+| **CVS Health** | Pharmacy Technician Back End - Part Time | Rochester, NY | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Rochester/Pharmacy-Technician-Back-End---Part-Time_R0889256) |
 | **Eurofins** | Laboratory Assistant - Micro | Des Moines, IA | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142378199) |
 | **CVS Health** | Pharmacy Technician Back End | Indianapolis, IN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IN---Indianapolis/Pharmacy-Technician-Back-End_R0963765) |
 | **CVS Health** | Pharmacy Technician -Front End | Portland, OR | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OR---Portland/Pharmacy-Technician--Front-End_R0964121) |
@@ -318,6 +318,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Project Manager, Study I | North Chicago, IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014499886) |
 | **Eurofins** | Lab Instrument Coordinator | Rahway, NJ | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142197720) |
 | **Personalis** | Sample Accessioner 1 (Temp) | Fremont, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7836341003) |
+| **Thermo Fisher Scientific** | (Sr) Project Manager - eCOA/Rater Ove... | Remote, North Carolina... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/XMLNAME--Sr--Project-Manager---Internal-Medicine-Team---Remote-based-in-the-US_R-01352066) |
 | **Zoetis** | Lab Tech 1 – Hematology | Louisville | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Louisville/Lab-Tech-1---Hematology_JR00021159-1) |
 | **Zoetis** | Vaccine Delivery and Support Specialist | Remote, PA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-PA-Remote/Vaccine-Support-Specialist_JR00021143-1) |
 | **Zoetis** | Aseptic Technician - Filling, Lyophil... | Lincoln | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Lincoln/Aseptic-Technician---Filling--Lyophilization--Capping-3rd-Shift-Sunday---Thursday-10-00pm---6-30am_JR00021351) |
@@ -351,7 +352,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Johnson & Johnson** | Associate Clinical Consultant or Clin... | Indianapolis, Indiana,... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Indianapolis-Indiana-United-States/Associate-Clinical-Consultant-or-Clinical-Consultant--Indianapolis--IN----Johnson---Johnson-MedTech---Heart-Recovery_R-087428-1) |
 | **Johnson & Johnson** | Associate Clinical Account Specialist... | Lancaster, Pennsylvani... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Lancaster-Pennsylvania-United-States-of-America/Associate-Clinical-Account-Specialist--Lancaster--PA----Johnson-and-Johnson-MedTech--Electrophysiology_R-092554) |
 | **Wash U** | Medical Assistant II - Otolaryngology | St. Louis, MO | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/West-County---St-Louis-MO/Medical-Assistant-II---Otolaryngology_JR96509) |
-| **Thermo Fisher Scientific** | (Sr) Project Manager - eCOA/Rater Ove... | Remote, North Carolina... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/XMLNAME--Sr--Project-Manager---Internal-Medicine-Team---Remote-based-in-the-US_R-01352066) |
 | **Fresenius Medical Care** | Master Social Worker - MSW | Gastonia, NC | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Gastonia-NC/Master-Social-Worker---MSW_R0259689) |
 | **Fresenius Medical Care** | Master Social Worker - MSW | Rocky Mount, NC | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Rocky-Mount-NC/Master-Social-Worker---MSW_R0245829) |
 | **Atlantic Health System** | Hospitalist (Admitter) - Atlantic Hea... | Summit, NJ, United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15950) |
@@ -374,7 +374,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **USAA** | Life, Annuity, and Service Specialist... | San Antonio Home | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Life--Annuity--and-Service-Specialist---Entry-Level_R0119855) |
 | **USAA** | Licensed Retirement Income Advisor- S... | Plano Legacy | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Plano-Legacy/Licensed-Retirement-Income-Advisor--Sales---Planning--Sign-On-Bonus-_R0119852) |
 | **Oscar Health** | Associate, Operational Forecasting | Dallas, Texas, United ... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8109991?gh_jid=8109991) |
-| **Oscar Health** | Associate, Operational Forecasting | Tempe, Arizona, United... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8109966?gh_jid=8109966) |
+| **Oscar Health** | Associate, Operational Forecasting | Atlanta, Georgia, Unit... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8109976?gh_jid=8109976) |
 | **Wellmark, Inc.** | Administrative Assistant III - Health... | Des Moines, IA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000141746840) |
 | **NREL** | Postdoctoral Researcher – Molecular B... | Golden, CO | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher---Molecular-Beam-Epitaxy-of-Ultra-Wide-Bandgap-Oxide-and-Nitride-Materials_R14451) |
 | **Boys Town** | Imaging Assistant (Part-Time) | Omaha, NE | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Imaging-Assistant_REQ-2026-8735-1) |
@@ -389,7 +389,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bio-Techne** | Marketing Automation Specialist | Denver, CO | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://biotechne.wd5.myworkdayjobs.com/Biotechne/job/Denver-CO/Marketing-Automation-Specialist_JR102044) |
 | **Carnegie Mellon University** | Postdoctoral Fellow - Sugimoto Lab – ... | Pittsburgh, PA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Postdoctoral-Fellow---Sugimoto-Lab---Dietrich-College_2024931) |
 | **USAA** | Manager, Life Co. Acquisition | Tampa Crosstown | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Tampa-Crosstown/Manager--Life-Co-Acquisition_R0117717) |
-| **Thermo Fisher Scientific** | Psychometrist | Atlanta, Georgia, USA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Atlanta-Georgia-USA/Psychometrist_R-01362120) |
 | **Aerospace Corporation** | Technical Specialist – Non-Destructiv... | El Segundo, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Technical-Specialist---Non-Destructive-Evaluation--NDE-_R016015) |
 | **Intuitive** | Human Factors Analyst | Peachtree Corners, GA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000141345160) |
 | **Included Health** | Urgent Care Physician, Independent Co... | Indiana | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/adda3ec3-1872-4272-b02c-601661ef6320) |
@@ -401,6 +400,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Globus Medical** | Associate Interventional Specialist (... | North Carolina | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/North-Carolina/Associate-Interventional-Specialist--Raleigh--NC-_JR107456) |
 | **Johnson & Johnson** | GI Field Reimbursement Manager – Broo... | New York, New York, Un... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/New-York-New-York-United-States/GI-Field-Reimbursement-Manager---Brooklyn-Queens-Huntington--NY_R-091778-1) |
 | **University of Texas at Austin** | Thoracic Surgery Advanced Practice Pr... | AUSTIN, TX | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Thoracic-Surgery-Advanced-Practice-Provider_R_00047758) |
+| **University of Texas at Austin** | Postdoctoral Fellow - Guan Lab Colleg... | AUSTIN, TX | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow---Guan-Lab-College-of-Pharmacy_R_00047684) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -456,7 +456,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1720 current opportunities from 101 companies**
+**🎯 1709 current opportunities from 101 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
