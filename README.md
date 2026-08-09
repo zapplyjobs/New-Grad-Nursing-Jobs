@@ -303,7 +303,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician Back End - Part Time | Rochester, NY | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Rochester/Pharmacy-Technician-Back-End---Part-Time_R0889256) |
+| **CVS Health** | Pharmacy Technician Back End - Part Time | Rochester, NY | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Rochester/Pharmacy-Technician-Back-End---Part-Time_R0889256) |
 | **Eurofins** | Laboratory Assistant - Micro | Des Moines, IA | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142378199) |
 | **CVS Health** | Pharmacy Technician Back End | Indianapolis, IN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IN---Indianapolis/Pharmacy-Technician-Back-End_R0963765) |
 | **CVS Health** | Pharmacy Technician -Front End | Portland, OR | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OR---Portland/Pharmacy-Technician--Front-End_R0964121) |
