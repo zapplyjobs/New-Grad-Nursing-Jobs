@@ -66,8 +66,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | RN Neuro ICU, Allegheny General | Pittsburgh PA, 15212 | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/RN-Neuro-ICU--Allegheny-General_J285359) |
-| **Highmark Health** | RN Neuro ICU, Allegheny General | Pittsburgh PA, 15212 | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/RN-Neuro-ICU--Allegheny-General_J284754) |
+| **Highmark Health** | RN Neuro ICU, Allegheny General | Pittsburgh PA, 15212 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/RN-Neuro-ICU--Allegheny-General_J285359) |
+| **Highmark Health** | RN Neuro ICU, Allegheny General | Pittsburgh PA, 15212 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/RN-Neuro-ICU--Allegheny-General_J284754) |
 | **Highmark Health** | Graduate Nurse 7A Neurovascular Telem... | Pittsburgh PA, 15212 | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/Graduate-Nurse-7A-Neurovascular-Telemetry--Allegheny-General_J281614) |
 | **CVS Health** | Home Infusion - Registered Nurse | Knoxville, TN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TN---Knoxville/Home-Infusion---Registered-Nurse_R0901353) |
 | **Fresenius Medical Care** | Outpatient Registered Nurse - RN - Di... | Bellmore, NY, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bellmore-NY-USA/Outpatient-Registered-Nurse---RN---Dialysis_R0243016) |
@@ -310,8 +310,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Phlebotomist Float | NC | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/USA---NC---Winston-Salem---2530-Empire-Drive/Phlebotomist-Float_266602-1) |
-| **CVS Health** | Pharmacy Technician Back End - Part Time | Rochester, NY | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Rochester/Pharmacy-Technician-Back-End---Part-Time_R0889256) |
+| **LabCorp** | Phlebotomist Float | NC | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/USA---NC---Winston-Salem---2530-Empire-Drive/Phlebotomist-Float_266602-1) |
+| **CVS Health** | Pharmacy Technician Back End - Part Time | Rochester, NY | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Rochester/Pharmacy-Technician-Back-End---Part-Time_R0889256) |
 | **Eurofins** | Laboratory Assistant - Micro | Des Moines, IA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142378199) |
 | **Elevance Health** | AI Compliance Monitoring & Audit Advisor | 11 Locations | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/AI-Compliance-Monitoring---Audit-Advisor_JR203091) |
 | **LabCorp** | 7on/7off Hospital Phlebotomist - 2nd ... | Birmingham AL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Birmingham-AL/XMLNAME-7on-7off-Hospital-Phlebotomist---2nd-Shift_2628242) |
