@@ -66,9 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern | Melissa, TX | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Melissa/Pharmacy-Intern_R1006050-1) |
-| **CVS Health** | Pharmacy Intern | Selinsgrove, PA | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Selinsgrove/Pharmacy-Intern_R1006051) |
-| **CVS Health** | Foreign Pharmacy Grad - International... | Louisville, KY | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/KY---Louisville/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1006045) |
+| **CVS Health** | Pharmacy Intern | Melissa, TX | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Melissa/Pharmacy-Intern_R1006050-1) |
+| **CVS Health** | Pharmacy Intern | Selinsgrove, PA | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Selinsgrove/Pharmacy-Intern_R1006051) |
+| **CVS Health** | Foreign Pharmacy Grad - International... | Louisville, KY | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/KY---Louisville/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1006045) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Pikeville, KY | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Pikeville-KY/Patient-Care-Technician---PCT_R0264549) |
 | **Highmark Health** | RN 6A Stepdown, Allegheny General | Pittsburgh PA, 15212 | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/RN-6A-Stepdown--Allegheny-General_J273600-1) |
 | **Highmark Health** | RN 6A Stepdown, Allegheny General | Pittsburgh PA, 15212 | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/RN-6A-Stepdown--Allegheny-General_J273548-1) |
@@ -309,10 +309,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Grad Pharmacist | Concord, NC | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Concord/Grad-Pharmacist_R1006047) |
-| **CVS Health** | Grad Pharmacist | Florence, SC | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/SC---Florence/Grad-Pharmacist_R1006048-1) |
-| **CVS Health** | Grad Pharmacist | Pottstown, PA | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Pottstown/Grad-Pharmacist_R1006043) |
-| **Pfizer** | Laboratory Specialist | Missouri | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Missouri---St-Louis---Chesterfield/Laboratory-Specialist_4961209-1) |
+| **CVS Health** | Grad Pharmacist | Concord, NC | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Concord/Grad-Pharmacist_R1006047) |
+| **CVS Health** | Grad Pharmacist | Florence, SC | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/SC---Florence/Grad-Pharmacist_R1006048-1) |
+| **CVS Health** | Grad Pharmacist | Pottstown, PA | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Pottstown/Grad-Pharmacist_R1006043) |
+| **Pfizer** | Laboratory Specialist | Missouri | 48m | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Missouri---St-Louis---Chesterfield/Laboratory-Specialist_4961209-1) |
 | **LabCorp** | PSC Phlebotomist | Anniston AL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Anniston-AL/PSC-Phlebotomist_2623206) |
 | **LabCorp** | Phlebotomist | Murrieta CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Murrieta-CA/Phlebotomist_2624849) |
 | **LabCorp** | Phlebotomist Part Time | San Francisco CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Phlebotomist-Part-Time_2620023-1) |
