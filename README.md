@@ -66,9 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Family Nurse Practitioner | Kennett Square, PA | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Kennett-Square/Family-Nurse-Practitioner_R0937612) |
-| **CVS Health** | Foreign Pharmacy Grad - International... | Green Bay, WI | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Green-Bay/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1006103) |
-| **CVS Health** | Foreign Pharmacy Grad - International... | Eau Claire, WI | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Eau-Claire/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1006104) |
+| **CVS Health** | Family Nurse Practitioner | Kennett Square, PA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Kennett-Square/Family-Nurse-Practitioner_R0937612) |
+| **CVS Health** | Foreign Pharmacy Grad - International... | Green Bay, WI | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Green-Bay/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1006103) |
+| **CVS Health** | Foreign Pharmacy Grad - International... | Eau Claire, WI | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Eau-Claire/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1006104) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Pikeville, KY | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Pikeville-KY/Patient-Care-Technician---PCT_R0264549) |
 | **Highmark Health** | Graduate Nurse 6A Stepdown, Allegheny... | Pittsburgh PA, 15212 | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/Graduate-Nurse-6A-Stepdown--Allegheny-General_J281604) |
 | **Highmark Health** | RN 6A Stepdown, Allegheny General | Pittsburgh PA, 15212 | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/RN-6A-Stepdown--Allegheny-General_J274152-1) |
@@ -262,7 +262,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Clinical Specialist, Health Optimization | United States | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
+| **Google** | Clinical Specialist, Health Optimization | United States | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
 | **Gilead Sciences** | Manager, U.S. Medical Affairs Liver S... | California | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Manager--US-Medical-Affairs-Liver-Strategy_R0054096-2) |
 | **Wash U** | Physical Therapist Assistant Certifie... | Washington University ... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus-Cortex-District/Physical-Therapist-Assistant-Certified---Program-in-Physical-Therapy_JR96505) |
 | **Boys Town** | Psychiatric Technician | Omaha, NE | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Psychiatric-Technician_REQ-2026-9088) |
@@ -307,9 +307,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician Back End - Part Time | Meridian, ID | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/ID---Meridian/Pharmacy-Technician-Back-End---Part-Time_R0993348) |
-| **CVS Health** | Pharmacy Technician- Part Time- Omnicare | Tinton Falls, NJ | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Tinton-Falls/Pharmacy-Technician--Part-Time--Omnicare_R0885843) |
-| **Pfizer** | Laboratory Specialist | Missouri | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Missouri---St-Louis---Chesterfield/Laboratory-Specialist_4961209-1) |
+| **CVS Health** | Pharmacy Technician Back End - Part Time | Meridian, ID | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/ID---Meridian/Pharmacy-Technician-Back-End---Part-Time_R0993348) |
+| **CVS Health** | Pharmacy Technician- Part Time- Omnicare | Tinton Falls, NJ | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Tinton-Falls/Pharmacy-Technician--Part-Time--Omnicare_R0885843) |
+| **Pfizer** | Laboratory Specialist | Missouri | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Missouri---St-Louis---Chesterfield/Laboratory-Specialist_4961209-1) |
 | **AstraZeneca** | Engineer, Facilities and Engineering | – Tarzana – CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US--Tarzana--CA/Engineer--Facilities-and-Engineering_R-257886-1) |
 | **AstraZeneca** | Engineer, Facilities and Engineering | – Tarzana – CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US--Tarzana--CA/Engineer--Facilities-and-Engineering_R-257885-1) |
 | **LabCorp** | PSC Phlebotomist | Anniston AL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Anniston-AL/PSC-Phlebotomist_2623206) |
