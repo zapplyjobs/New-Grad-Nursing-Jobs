@@ -66,9 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Foreign Pharmacy Grad - International... | Green Bay, WI | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Green-Bay/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1006103) |
-| **CVS Health** | Foreign Pharmacy Grad - International... | Eau Claire, WI | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Eau-Claire/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1006104) |
-| **CVS Health** | Foreign Pharmacy Grad - International... | Eau Claire, WI | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Eau-Claire/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1006099) |
+| **CVS Health** | Foreign Pharmacy Grad - International... | Green Bay, WI | 50m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Green-Bay/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1006103) |
+| **CVS Health** | Foreign Pharmacy Grad - International... | Eau Claire, WI | 50m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Eau-Claire/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1006104) |
+| **CVS Health** | Foreign Pharmacy Grad - International... | Eau Claire, WI | 50m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Eau-Claire/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1006099) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Pikeville, KY | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Pikeville-KY/Patient-Care-Technician---PCT_R0264549) |
 | **Highmark Health** | Graduate Nurse 6A Stepdown, Allegheny... | Pittsburgh PA, 15212 | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/Graduate-Nurse-6A-Stepdown--Allegheny-General_J281604) |
 | **Highmark Health** | RN 6A Stepdown, Allegheny General | Pittsburgh PA, 15212 | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15212-320-E-N-Ave/RN-6A-Stepdown--Allegheny-General_J274152-1) |
@@ -245,7 +245,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Clinical Specialist, Health Optimization | United States | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
+| **Google** | Clinical Specialist, Health Optimization | United States | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
 | **Boys Town** | Psychiatric Technician | Omaha, NE | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Psychiatric-Technician_REQ-2026-9088) |
 | **Gilead Sciences** | Manager, U.S. Medical Affairs Liver S... | California | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Manager--US-Medical-Affairs-Liver-Strategy_R0054096-2) |
 | **Globus Medical** | Associate Spine Specialist (Oklahoma ... | Oklahoma | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Oklahoma/Associate-Spine-Specialist--Oklahoma-City--OK-_JR107517-1) |
