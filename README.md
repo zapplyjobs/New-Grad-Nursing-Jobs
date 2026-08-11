@@ -66,7 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Patient Care Technician - PCT - Dialy... | Indianapolis, IN | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Indianapolis-IN/Patient-Care-Technician---PCT---Dialysis-Preceptor_R0264957) |
+| **Fresenius Medical Care** | Patient Care Technician - PCT - Dialy... | Indianapolis, IN | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Indianapolis-IN/Patient-Care-Technician---PCT---Dialysis-Preceptor_R0264957) |
 | **CVS Health** | Nurse Practitioner | East Hanover, NJ | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---East-Hanover/Nurse-Practitioner_R0953867) |
 | **Elevance Health** | LTSS Service Coordinator - RN Clinici... | Plainview | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/Texas---Plainview/LTSS-Service-Coordinator---RN-Clinician--Plainview-Texas-_JR203273) |
 | **Becton Dickinson** | Clinical Specialist RN - Little Rock,... | Arkansas Little Rock | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---Arkansas---Little-Rock/Clinical-Specialist-RN---Little-Rock--Arkansas_R-541543-1) |
@@ -262,7 +262,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Clinical Specialist, Health Optimization | United States | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
+| **Google** | Clinical Specialist, Health Optimization | United States | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
 | **Becton Dickinson** | Clinical Specialist - Puerto Rico | Guaynabo | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-PR---Guaynabo/Clinical-Specialist---Puerto-Rico_R-552701) |
 | **Leidos** | Military Family Life Counselor - (Adult) | Twentynine Palms, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Twentynine-Palms-CA/Military-Family-Life-Counselor----Adult-_R-00189173) |
 | **Globus Medical** | Associate Spine Specialist (Nashville... | Tennessee | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Tennessee/Associate-Spine-Specialist--Nashville--TN-_JR107528-1) |
@@ -313,7 +313,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Bristol Myers Squibb** | Bioprocess Associate | MA | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Devens---MA---US/Bioprocess-Associate_R1604618) |
+| **Bristol Myers Squibb** | Bioprocess Associate | MA | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Devens---MA---US/Bioprocess-Associate_R1604618) |
 | **LabCorp** | Phlebotomist Full Time | Beverly Hills CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Beverly-Hills-CA/Phlebotomist-Full-Time_2626021) |
 | **LabCorp** | Phlebotomist Float Part Time | Los Angeles CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Los-Angeles-CA/Phlebotomist-Float-Part-Time_2626219-1) |
 | **LabCorp** | Phlebotomist Float | Los Angeles CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Los-Angeles-CA/Phlebotomist-Float_2626211) |
