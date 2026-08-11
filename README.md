@@ -66,7 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Elevance Health** | LTSS Service Coordinator - RN Clinici... | Plainview | 49m | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/Texas---Plainview/LTSS-Service-Coordinator---RN-Clinician--Plainview-Texas-_JR203273) |
+| **Elevance Health** | LTSS Service Coordinator - RN Clinici... | Plainview | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/Texas---Plainview/LTSS-Service-Coordinator---RN-Clinician--Plainview-Texas-_JR203273) |
 | **Highmark Health** | RN Registered Nurse | Erie PA, 16502 | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Erie-PA-16502-232-West-25th-St/RN-Registered-Nurse_J278233) |
 | **Highmark Health** | Health Coach - (CMA or LPN) - Belle V... | Belle Vernon PA, 15012... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Belle-Vernon-PA-15012-1645-Rostraver-Road/Health-Coach----CMA-or-LPN----Belle-Vernon---Full-Time_J285728) |
 | **Highmark Health** | Physician Assistant or Nurse Practiti... | Jefferson Hills PA, 15... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Jefferson-Hills-PA-15025-565-Coal-Valley-Road/Physician-Assistant-or-Nurse-Practitioner--Inpatient-Domain--A--Hospitalist--Casual_J285680) |
@@ -148,9 +148,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Merck & Co.** | Biologics Process Research & Developm... | New Jersey | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Biologics-Process-Research---Development--Associate-Scientist_R396514-1) |
-| **LabCorp** | Lab Assistant - Flow Cytometry | Phoenix AZ | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Phoenix-AZ/Lab-Assistant---Flow-Cytometry_2624961) |
-| **LabCorp** | Clinical Laboratory Technologist - Co... | Birmingham AL | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Birmingham-AL/Clinical-Laboratory-Technologist---Core-Chemistry_2626228) |
+| **Merck & Co.** | Biologics Process Research & Developm... | New Jersey | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Biologics-Process-Research---Development--Associate-Scientist_R396514-1) |
+| **LabCorp** | Lab Assistant - Flow Cytometry | Phoenix AZ | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Phoenix-AZ/Lab-Assistant---Flow-Cytometry_2624961) |
+| **LabCorp** | Clinical Laboratory Technologist - Co... | Birmingham AL | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Birmingham-AL/Clinical-Laboratory-Technologist---Core-Chemistry_2626228) |
 | **Eurofins** | Assistant Scientist | Easton, MD | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142779949) |
 | **Eurofins** | Laboratory Technician I - Organic Pre... | Tustin, CA | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142747239) |
 | **Eurofins** | Laboratory Technician l (Full-Time) | Columbia, MO | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142746559) |
@@ -254,7 +254,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Clinical Specialist, Health Optimization | United States | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
+| **Google** | Clinical Specialist, Health Optimization | United States | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
 | **Leidos** | Military Family Life Counselor - (Adult) | Twentynine Palms, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Twentynine-Palms-CA/Military-Family-Life-Counselor----Adult-_R-00189173) |
 | **Johnson & Johnson** | Executive Assistant, Medical Affairs | Irvine, California, Un... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Executive-Assistant--Medical-Affairs_R-092593-1) |
 | **Becton Dickinson** | Clinical Specialist - Puerto Rico | Guaynabo | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-PR---Guaynabo/Clinical-Specialist---Puerto-Rico_R-552701) |
@@ -307,24 +307,24 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician | Scottsdale, AZ | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Pharmacy-Technician_R0993372) |
-| **CVS Health** | District Support Pharmacist Part Time | Holt, MI | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MI---Holt/District-Support-Pharmacist-Part-Time_R1006995) |
-| **CVS Health** | Pharmacy Technician | Grand Prairie, TX | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Grand-Prairie/Pharmacy-Technician_R1006617) |
-| **Becton Dickinson** | North Molding Utility - B Shift | Columbus | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/North-Molding-Utility---B-Shift_R-552237) |
-| **Becton Dickinson** | Mold Utility- B Shift | Columbus | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-Molding-Center/Mold-Utility--B-Shift_R-551437-1) |
-| **Becton Dickinson** | MES Utility- B shift | Columbus | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-Molding-Center/MES-Utility--B-shift_R-551312-1) |
-| **Bristol Myers Squibb** | Bioprocess Associate | MA | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Devens---MA---US/Bioprocess-Associate_R1604618) |
-| **LabCorp** | Clinical Laboratory Technologist | Oak Creek WI | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Oak-Creek-WI/Clinical-Laboratory-Technologist_2628126-1) |
-| **LabCorp** | Phlebotomist Full Time | Beverly Hills CA | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Beverly-Hills-CA/Phlebotomist-Full-Time_2626021) |
-| **LabCorp** | Phlebotomist Float Part Time | Los Angeles CA | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Los-Angeles-CA/Phlebotomist-Float-Part-Time_2626219-1) |
-| **Elevance Health** | Referral Specialist I | 6 Locations | 49m | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/NV-LAS-VEGAS-3634-S-MARYLAND-PKWY/Referral-Specialist-I_JR199464) |
+| **CVS Health** | Pharmacy Technician | Scottsdale, AZ | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Pharmacy-Technician_R0993372) |
+| **CVS Health** | District Support Pharmacist Part Time | Holt, MI | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MI---Holt/District-Support-Pharmacist-Part-Time_R1006995) |
+| **CVS Health** | Pharmacy Technician | Grand Prairie, TX | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Grand-Prairie/Pharmacy-Technician_R1006617) |
+| **Becton Dickinson** | North Molding Utility - B Shift | Columbus | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/North-Molding-Utility---B-Shift_R-552237) |
+| **Becton Dickinson** | Mold Utility- B Shift | Columbus | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-Molding-Center/Mold-Utility--B-Shift_R-551437-1) |
+| **Becton Dickinson** | MES Utility- B shift | Columbus | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-Molding-Center/MES-Utility--B-shift_R-551312-1) |
+| **Bristol Myers Squibb** | Bioprocess Associate | MA | 39m | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Devens---MA---US/Bioprocess-Associate_R1604618) |
+| **LabCorp** | Clinical Laboratory Technologist | Oak Creek WI | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Oak-Creek-WI/Clinical-Laboratory-Technologist_2628126-1) |
+| **LabCorp** | Phlebotomist Full Time | Beverly Hills CA | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Beverly-Hills-CA/Phlebotomist-Full-Time_2626021) |
+| **LabCorp** | Phlebotomist Float Part Time | Los Angeles CA | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Los-Angeles-CA/Phlebotomist-Float-Part-Time_2626219-1) |
+| **Elevance Health** | Referral Specialist I | 6 Locations | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/NV-LAS-VEGAS-3634-S-MARYLAND-PKWY/Referral-Specialist-I_JR199464) |
 | **AbbVie** | Teleservice Rep I | Austin, TX | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014522346) |
 | **Intuitive** | Lab Associate 1 | Peachtree Corners, GA | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000142717925) |
 | **Eurofins** | Laboratory Technologist - Temporary | Fremont, CA | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142714460) |
 | **AbbVie** | Clinical Account Executive - Oncology | Cleveland, OH | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014521296) |
-| **AbbVie** | Manager, Patient Assistance Program O... | North Chicago, IL | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014521226) |
+| **AbbVie** | Manager, Patient Assistance Program O... | North Chicago, IL | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014521226) |
 | **Eurofins** | Laboratory Assistant | Centennial, CO | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142698344) |
-| **Intuitive** | Clinical Applications Engineer | Chicago, IL | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000142689880) |
+| **Intuitive** | Clinical Applications Engineer | Chicago, IL | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000142689880) |
 | **Eurofins** | Login Technician I - Environment Test... | Kittanning, PA | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142682098) |
 | **Delta Dental** | GRC and Data Administrator | Okemos, MI | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Compliance-Technology-and-Data-Administrator_JR101322) |
 | **Highmark Health** | Physician Assistant - Hybrid (A) Elec... | Erie PA, 16502 | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Erie-PA-16502-2315-Myrtle-St/Physician-Assistant---Hybrid--A--Electrophysiology_J285629) |
