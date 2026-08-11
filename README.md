@@ -157,9 +157,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cardinal Health** | Lab Technician | Roseville PET, MN | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/MN-Roseville-PET/Lab-Technician_20185352-1) |
 | **Bristol Myers Squibb** | Scientist, Medicinal Chemistry | RayzeBio | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/San-Diego---RayzeBio---CA/Scientist_R1605076) |
 | **Bristol Myers Squibb** | Scientist, Chemical Process Development | NJ | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/New-Brunswick---NJ---US/Scientist--Chemical-Process-Development_R1603333) |
-| **Eurofins** | Laboratory Technician I - Organic Pre... | Tustin, CA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142747239) |
+| **Eurofins** | Laboratory Technician I - Organic Pre... | Tustin, CA | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142747239) |
 | **Eurofins** | Laboratory Technician l (Full-Time) | Columbia, MO | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142746559) |
-| **AbbVie** | Quality Control Scientist II (Fully O... | South San Francisco, CA | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014525666) |
+| **AbbVie** | Quality Control Scientist II (Fully O... | South San Francisco, CA | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014525666) |
 | **AbbVie** | Laboratory Technician II | North Chicago, IL | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014520329) |
 | **AbbVie** | Laboratory Technician III | Waco, TX | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014519926) |
 | **Atlantic Health System** | Medical Lab Scientist-Atlantic Health... | Union, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31395) |
@@ -250,7 +250,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Clinical Specialist, Health Optimization | United States | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
+| **Google** | Clinical Specialist, Health Optimization | United States | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
 | **Highmark Health** | Patient Access Coordinator I - Edinbo... | Edinboro PA, 16412 | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Edinboro-PA-16412-450-Erie-St/Patient-Access-Coordinator-I---Edinboro-Medical-Center---Part-Time---Rotation-Hours_J285617) |
 | **Highmark Health** | Advanced Practice Provider - Residenc... | Pittsburgh PA, 15236, ... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15236-810-Clairton-Boulevard/Advanced-Practice-Provider---Residency-Fellowship---Behavioral-Health_J285672) |
 | **Elevance Health** | Mgr Behavioral Health Services, Crisi... | 2 Locations | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/LA-BATON-ROUGE-10000-PERKINS-ROWE-STE-G510/Mgr-Behavioral-Health-Services--Crisis-Call-Center_JR201548) |
