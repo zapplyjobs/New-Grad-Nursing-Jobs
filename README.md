@@ -148,7 +148,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Eurofins** | Assistant Scientist | Easton, MD | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142779949) |
+| **Eurofins** | Assistant Scientist | Easton, MD | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142779949) |
 | **Magna** | Metallurgical Lab Technician | Sterling Heights, Mich... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Sterling-Heights-Michigan-US/Metallurgical-Lab-Technician_R00249649) |
 | **Zoetis** | Laboratory Technician - Virus Operati... | Lincoln | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Lincoln/Laboratory-Technician---Virus-Operations-1st-Shift_JR00021369-1) |
 | **LabCorp** | Clinical Laboratory Technician | Fairhope AL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Fairhope-AL/Clinical-Laboratory-Technician_2621824) |
@@ -250,7 +250,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Clinical Specialist, Health Optimization | United States | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
+| **Google** | Clinical Specialist, Health Optimization | United States | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
 | **Highmark Health** | Patient Access Coordinator I - Edinbo... | Edinboro PA, 16412 | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Edinboro-PA-16412-450-Erie-St/Patient-Access-Coordinator-I---Edinboro-Medical-Center---Part-Time---Rotation-Hours_J285617) |
 | **Highmark Health** | Advanced Practice Provider - Residenc... | Pittsburgh PA, 15236, ... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15236-810-Clairton-Boulevard/Advanced-Practice-Provider---Residency-Fellowship---Behavioral-Health_J285672) |
 | **Elevance Health** | Mgr Behavioral Health Services, Crisi... | 2 Locations | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/LA-BATON-ROUGE-10000-PERKINS-ROWE-STE-G510/Mgr-Behavioral-Health-Services--Crisis-Call-Center_JR201548) |
@@ -352,7 +352,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Clinical Account Executive - Oncology | Cleveland, OH | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014521296) |
 | **AbbVie** | Manager, Patient Assistance Program O... | North Chicago, IL | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014521226) |
 | **Eurofins** | Laboratory Assistant | Centennial, CO | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142698344) |
-| **Intuitive** | Clinical Applications Engineer | Chicago, IL | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000142689880) |
+| **Intuitive** | Clinical Applications Engineer | Chicago, IL | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000142689880) |
 | **Eurofins** | Login Technician I - Environment Test... | Kittanning, PA | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142682098) |
 | **Atlantic Health System** | (Filled) Unit Associate I, Per Diem, ... | Hackettstown, NJ, Unit... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28099) |
 | **Atlantic Health System** | Social Worker (MSW), Full Time, Days ... | Union, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31451) |
