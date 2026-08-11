@@ -66,9 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Nurse Practitioner | East Hanover, NJ | 3m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---East-Hanover/Nurse-Practitioner_R0953867) |
-| **Fresenius Medical Care** | Patient Care Technician - PCT - Dialy... | Indianapolis, IN | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Indianapolis-IN/Patient-Care-Technician---PCT---Dialysis-Preceptor_R0264957) |
-| **Elevance Health** | LTSS Service Coordinator - RN Clinici... | Plainview | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/Texas---Plainview/LTSS-Service-Coordinator---RN-Clinician--Plainview-Texas-_JR203273) |
+| **CVS Health** | Nurse Practitioner | East Hanover, NJ | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---East-Hanover/Nurse-Practitioner_R0953867) |
+| **Fresenius Medical Care** | Patient Care Technician - PCT - Dialy... | Indianapolis, IN | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Indianapolis-IN/Patient-Care-Technician---PCT---Dialysis-Preceptor_R0264957) |
+| **Elevance Health** | LTSS Service Coordinator - RN Clinici... | Plainview | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/Texas---Plainview/LTSS-Service-Coordinator---RN-Clinician--Plainview-Texas-_JR203273) |
 | **Becton Dickinson** | Clinical Specialist RN - Little Rock,... | Arkansas Little Rock | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---Arkansas---Little-Rock/Clinical-Specialist-RN---Little-Rock--Arkansas_R-541543-1) |
 | **CVS Health** | Nurse Practitioner - NP/PA | New Market, MD | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MD---New-Market/Nurse-Practitioner---NP-PA_R1007447) |
 | **CVS Health** | Family Nurse Practitioner | Richboro, PA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Richboro/Family-Nurse-Practitioner_R0962693) |
@@ -151,9 +151,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Merck & Co.** | Biologics Process Research & Developm... | New Jersey | 3m | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Biologics-Process-Research---Development--Associate-Scientist_R396514-1) |
-| **LabCorp** | Lab Assistant - Flow Cytometry | Phoenix AZ | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Phoenix-AZ/Lab-Assistant---Flow-Cytometry_2624961) |
-| **LabCorp** | Clinical Laboratory Technologist - Co... | Birmingham AL | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Birmingham-AL/Clinical-Laboratory-Technologist---Core-Chemistry_2626228) |
+| **Merck & Co.** | Biologics Process Research & Developm... | New Jersey | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Biologics-Process-Research---Development--Associate-Scientist_R396514-1) |
+| **LabCorp** | Lab Assistant - Flow Cytometry | Phoenix AZ | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Phoenix-AZ/Lab-Assistant---Flow-Cytometry_2624961) |
+| **LabCorp** | Clinical Laboratory Technologist - Co... | Birmingham AL | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Birmingham-AL/Clinical-Laboratory-Technologist---Core-Chemistry_2626228) |
 | **Eurofins** | Assistant Scientist | Easton, MD | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142779949) |
 | **Eurofins** | Laboratory Technician I - Organic Pre... | Tustin, CA | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142747239) |
 | **Eurofins** | Laboratory Technician l (Full-Time) | Columbia, MO | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142746559) |
@@ -252,7 +252,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Clinical Specialist, Health Optimization | United States | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
+| **Google** | Clinical Specialist, Health Optimization | United States | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
 | **Becton Dickinson** | Clinical Specialist - Puerto Rico | Guaynabo | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-PR---Guaynabo/Clinical-Specialist---Puerto-Rico_R-552701) |
 | **KBR** | Special Operations Physical Therapist... | Fayetteville North Car... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fayetteville-North-Carolina/Special-Operations-Physical-Therapist-TEMP-POSITION---Onsite---Fort-Bragg--NC-_R2128061) |
 | **Globus Medical** | Associate Spine Specialist (Nashville... | Tennessee | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Tennessee/Associate-Spine-Specialist--Nashville--TN-_JR107528-1) |
@@ -293,10 +293,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Bristol Myers Squibb** | Bioprocess Associate | MA | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Devens---MA---US/Bioprocess-Associate_R1604618) |
-| **LabCorp** | Phlebotomist Full Time | Beverly Hills CA | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Beverly-Hills-CA/Phlebotomist-Full-Time_2626021) |
-| **LabCorp** | Phlebotomist Float Part Time | Los Angeles CA | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Los-Angeles-CA/Phlebotomist-Float-Part-Time_2626219-1) |
-| **LabCorp** | Phlebotomist Float | Los Angeles CA | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Los-Angeles-CA/Phlebotomist-Float_2626211) |
+| **Bristol Myers Squibb** | Bioprocess Associate | MA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Devens---MA---US/Bioprocess-Associate_R1604618) |
+| **LabCorp** | Phlebotomist Full Time | Beverly Hills CA | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Beverly-Hills-CA/Phlebotomist-Full-Time_2626021) |
+| **LabCorp** | Phlebotomist Float Part Time | Los Angeles CA | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Los-Angeles-CA/Phlebotomist-Float-Part-Time_2626219-1) |
+| **LabCorp** | Phlebotomist Float | Los Angeles CA | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Los-Angeles-CA/Phlebotomist-Float_2626211) |
 | **AbbVie** | Teleservice Rep I | Austin, TX | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014522346) |
 | **Intuitive** | Lab Associate 1 | Peachtree Corners, GA | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000142717925) |
 | **Eurofins** | Laboratory Technologist - Temporary | Fremont, CA | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142714460) |
