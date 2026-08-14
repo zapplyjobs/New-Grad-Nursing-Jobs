@@ -75,13 +75,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **EVERSANA** | Cutaneous Oncology Clinical Nurse Edu... | Los Angeles, CA | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000134348180) |
 | **EVERSANA** | Home Infusion RN- Per Diem (Pediatric) | Miami, FL | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000122519899) |
 | **EVERSANA** | Cutaneous Oncology Clinical Nurse Edu... | Boston, MA | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000138707489) |
-| **AbbVie** | Veteran SkillBridge Program Intern | North Chicago, IL | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012915326) |
 | **Ro** | Virtual Nurse Practitioner (1099 Cont... | New York, NY or Remote | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/4effc32e-b652-495c-817a-64bb19b72d6f) |
-| **AbbVie** | Manager, AI Learning Programs - L&LD | North Chicago, IL | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014009156) |
-| **AbbVie** | District Manager, Gastroenterology – ... | Grand Rapids, MI | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014119256) |
+| **AbbVie** | Veteran SkillBridge Program Intern | North Chicago, IL | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012915326) |
 | **Included Health** | Virtual Primary Care Nurse Practitioner | Florida | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/1c49cec8-5550-4aec-92ab-f1f74eb7b540) |
 | **Included Health** | Virtual Primary Care Nurse Practitioner | Texas | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/2ff4e764-f4d5-437f-9e77-3d06c297611b) |
 | **Included Health** | Virtual Primary Care Nurse Practitioner | North Carolina | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/cb38694a-968b-4079-9044-c2f687cd2abe) |
+| **AbbVie** | Manager, AI Learning Programs - L&LD | North Chicago, IL | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014009156) |
+| **AbbVie** | District Manager, Gastroenterology – ... | Grand Rapids, MI | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014119256) |
 | **Amazon.com Services LLC** | Data Scientist II, NAS Returns Tech | Seattle, WA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10501196/data-scientist-ii-nas-returns-tech) |
 | **Amazon.com Services LLC** | Data Scientist II, NAS Returns Tech | Seattle, WA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10501193/data-scientist-ii-nas-returns-tech) |
 | **Atlantic Health System** | Registered Nurse - Per Diem Varied Sh... | Hackettstown, NJ, Unit... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/25694) |
@@ -110,9 +110,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **Veolia Environnement SA** | Laboratory Technician | Beaumont, TX | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000128798059) |
 | **Veolia Environnement SA** | Lab Technician | Ewa Beach, HI | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135554144) |
-| **Smiths Group** | Test Lab Technician - 2nd Shift (Must... | Laconia, NEW HAMPSHIRE | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000122306141) |
-| **Smiths Group** | Test Lab Technician 2nd Shift | Laconia, NEW HAMPSHIRE | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000122308199) |
-| **Smiths Group** | Test Lab Technician - 2nd Shift | 93 Lexington Drive, La... | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000135081780) |
+| **Smiths Group** | Test Lab Technician - 2nd Shift (Must... | Laconia, NEW HAMPSHIRE | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000122306141) |
+| **Smiths Group** | Test Lab Technician 2nd Shift | Laconia, NEW HAMPSHIRE | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000122308199) |
+| **Smiths Group** | Test Lab Technician - 2nd Shift | 93 Lexington Drive, La... | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000135081780) |
 | **LLNL** | Computational Materials Scientist - P... | Livermore, CA | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013644337) |
 | **Intuitive** | Clinical Research Engineer - Future F... | Sunnyvale, CA | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000124012339) |
 | **Intuitive** | Clinical Research Engineer - Future F... | Sunnyvale, CA | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000134887129) |
@@ -125,16 +125,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Veeva Systems** | Consultant - Pharmacovigilance/Safety... | Boston | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/36fe3d11-34fa-4d19-85bc-f0120adad1db) |
 | **Veeva Systems** | Clinical Research Support Specialist | Columbus | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/242155ac-c878-46b0-9b68-880a732cc6f8) |
 | **Veeva Systems** | AI Consultant - Pharmacovigilance/Saf... | Boston | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/bd25fa26-0de8-496c-98a4-38101dfeadb1) |
+| **Multiply Labs** | Scientist II | San Francisco | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/multiplylabs/903e01c9-800c-46c0-9075-da43859e9c00) |
 | **AbbVie** | Scientist l, Analytical Operations | North Chicago, IL | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013219126) |
 | **AbbVie** | Scientist l, QTAS & ADME Sciences | North Chicago, IL | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013532541) |
 | **AbbVie** | Scientist I, In Vivo Pharmacology | North Chicago, IL | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013733466) |
-| **Multiply Labs** | Scientist II | San Francisco | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/multiplylabs/903e01c9-800c-46c0-9075-da43859e9c00) |
 | **Convergent Research** | Postdoctoral Research Scientist, OAE ... | Boulder, CO | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/convergentresearch/e62d0373-df49-42f2-ad4d-73d99329d781) |
 | **Convergent Research** | Postdoctoral Research Scientist, Ocea... | Boulder, CO | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/convergentresearch/07147ace-4d67-47de-9a0a-c7add68bbb68) |
 | **Arrive Logistics** | Data Scientist II | Chicago, IL | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/arrivelogistics/2765d8a2-0e24-4f3f-9d38-08cc4202275d) |
 | **Arrive Logistics** | Data Scientist II | Austin, TX | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/arrivelogistics/c9e86c45-39d8-440d-affa-65665d6159aa) |
 | **Esri** | Data Scientist II | Denver, CO - Louisville | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5209936007?gh_jid=5209936007) |
-| **Chan Zuckerberg Biohub** | Research Associate II, Structural & C... | Redwood City, CA (Hybrid) | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/8122638) |
+| **Chan Zuckerberg Biohub** | Research Associate II, Structural & C... | Redwood City, CA (Hybrid) | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/8122638) |
 | **Neuralink** | Clinical Research Associate | Austin, Texas, United ... | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7865371003?gh_jid=7865371003) |
 | **Garner Health** | Applied Scientist II | New York City, New York | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/garnerhealth/jobs/6141361004) |
 | **Atlantic Health System** | Medical Lab Scientist-Atlantic Health... | Union, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31840) |
@@ -188,7 +188,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Clinical Specialist, Health Optimization | United States | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
+| **Google** | Clinical Specialist, Health Optimization | United States | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
 | **Citizens Financial Group** | Consumer Counselor - Mortgage Collect... | Irving, TX, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48776) |
 | **Charles River Associates** | Consulting Associate/Strategy & Medic... | Boston, MA, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8125795) |
 | **Atlantic Health System** | Behavioral Health Clinician (LSW) - F... | Newton, NJ, United States | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31698) |
@@ -229,16 +229,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Veeva Systems** | Services Engagement Manager - Develop... | Boston | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/42b4e20e-9ec4-4304-94ed-695475ace394) |
 | **Veeva Systems** | Services Engagement Manager - Develop... | Madison | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/70ead5eb-013f-4127-aafc-c1487322525a) |
 | **Veeva Systems** | Services Engagement Manager - Develop... | Boston | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/b111f0bb-5494-4553-b3b1-199255ed03b3) |
-| **AbbVie** | GMP Utility Engineer | Worcester, MA | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012923713) |
-| **AbbVie** | Future Opportunities -Join Our Talent... | North Chicago, IL | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012911482) |
-| **AbbVie** | Manager, Business HR- Quality | North Chicago, IL | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012913102) |
 | **Toyota Research Institute** | Postdoctoral Researcher, Real-Time Ge... | Los Altos, CA | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/tri/f1f3a5a2-8aaa-41e1-914c-0453489bea1e) |
 | **Ro** | Part-Time, Virtual Physician (Salaried) | New York, NY or Remote | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982) |
 | **Ro** | Pharmacy Technician Trainee - Boynton... | Boynton Beach, FL | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/0178c342-8517-4859-8718-ff417c7b0f09) |
 | **Ro** | Ro Pharmacy Interview Day! Saturday, ... | Romeoville, IL | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/aabbdfed-3e4a-4242-93e4-628d63328926) |
-| **Included Health** | Urgent Care Physician | Colorado | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/bba162b2-0a04-45e9-a7a8-f4d3b8fb79f9) |
-| **Included Health** | Urgent Care Physician | Texas | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/d4606e11-8a03-48b5-a754-39222f4891e4) |
-| **Included Health** | Urgent Care Physician | Texas | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/d88ce565-00c2-48a0-8dd1-413fadf88b91) |
+| **AbbVie** | GMP Utility Engineer | Worcester, MA | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012923713) |
+| **AbbVie** | Future Opportunities -Join Our Talent... | North Chicago, IL | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012911482) |
+| **AbbVie** | Manager, Business HR- Quality | North Chicago, IL | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012913102) |
+| **Included Health** | Urgent Care Physician | Ohio | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/666ae046-5293-4bc8-92eb-8f45e70ae8b7) |
+| **Included Health** | Urgent Care Physician | Arizona | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/76a2d979-50c3-4cdf-b9e6-837a4c2ce0e3) |
+| **Included Health** | Urgent Care Physician | Arizona | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/7f362d88-d8e4-4ddf-ad52-82c24c04bc78) |
 | **LG Electronics** | Entrepreneur-in-Residence, Digital He... | Santa Clara, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5388624008) |
 | **Atlantic Health System** | Certified Medical Assistant I, Full T... | Morristown, NJ, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27772) |
 | **Atlantic Health System** | Certified Medical Assistant I- Full T... | Morristown, NJ, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27774) |
