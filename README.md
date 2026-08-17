@@ -66,26 +66,26 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LLNL** | Machine Learning - Postdoctoral Resea... | Livermore, CA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990012255026) |
-| **Intuitive** | Manager, NPI Sourcing - Instrument an... | Sunnyvale, CA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126116615) |
-| **Intuitive** | Manager, NPI Procurement - Systems | Sunnyvale, CA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126104139) |
-| **Eurofins** | Grain Inspector - Full-Time Afternoon | Blair, NE | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127705548) |
-| **Eurofins** | Grain Inspector - Part-Time Afternoon | Blair, NE | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127704639) |
-| **Eurofins** | Grain Inspector - Part-Time Morning | Blair, NE | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000131185168) |
-| **EVERSANA** | Cutaneous Oncology Clinical Nurse Edu... | Los Angeles, CA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000134348180) |
-| **EVERSANA** | Home Infusion RN- Per Diem (Pediatric) | Miami, FL | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000122519899) |
-| **EVERSANA** | Cutaneous Oncology Clinical Nurse Edu... | Boston, MA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000138707489) |
-| **Ro** | Virtual Nurse Practitioner (1099 Cont... | New York, NY or Remote | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/4effc32e-b652-495c-817a-64bb19b72d6f) |
-| **AbbVie** | Veteran SkillBridge Program Intern | North Chicago, IL | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012915326) |
-| **AbbVie** | Manager, AI Learning Programs - L&LD | North Chicago, IL | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014009156) |
-| **Included Health** | Virtual Primary Care Nurse Practitioner | Florida | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/1c49cec8-5550-4aec-92ab-f1f74eb7b540) |
-| **Included Health** | Virtual Primary Care Nurse Practitioner | Texas | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/2ff4e764-f4d5-437f-9e77-3d06c297611b) |
-| **Included Health** | Virtual Primary Care Nurse Practitioner | North Carolina | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/cb38694a-968b-4079-9044-c2f687cd2abe) |
-| **AbbVie** | District Manager, Gastroenterology – ... | Grand Rapids, MI | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014119256) |
-| **CVS Health** | Licensed Vocational Nurse (LVN) | Allen, TX | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Allen/Licensed-Vocational-Nurse--LVN-_R0968248) |
-| **CVS Health** | Licensed Vocational Nurse (LVN) | Red Oak, TX | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Red-Oak/Licensed-Vocational-Nurse--LVN-_R0968253-1) |
-| **CVS Health** | Advance Practice Provider NP/PA | Fort Worth, TX | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Fort-Worth/Advance-Practice-Provider-NP-PA_R0969964) |
-| **LabCorp** | PRN Hospital Phlebotomist - Early Mor... | Birmingham AL | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Birmingham-AL/PRN-Hospital-Phlebotomist---Early-Mornings_2628713) |
+| **LLNL** | Machine Learning - Postdoctoral Resea... | Livermore, CA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990012255026) |
+| **Intuitive** | Manager, NPI Sourcing - Instrument an... | Sunnyvale, CA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126116615) |
+| **Intuitive** | Manager, NPI Procurement - Systems | Sunnyvale, CA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126104139) |
+| **Eurofins** | Grain Inspector - Full-Time Afternoon | Blair, NE | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127705548) |
+| **Eurofins** | Grain Inspector - Part-Time Afternoon | Blair, NE | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127704639) |
+| **Eurofins** | Grain Inspector - Part-Time Morning | Blair, NE | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000131185168) |
+| **EVERSANA** | Cutaneous Oncology Clinical Nurse Edu... | Los Angeles, CA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000134348180) |
+| **EVERSANA** | Home Infusion RN- Per Diem (Pediatric) | Miami, FL | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000122519899) |
+| **EVERSANA** | Cutaneous Oncology Clinical Nurse Edu... | Boston, MA | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000138707489) |
+| **Ro** | Virtual Nurse Practitioner (1099 Cont... | New York, NY or Remote | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/4effc32e-b652-495c-817a-64bb19b72d6f) |
+| **AbbVie** | Veteran SkillBridge Program Intern | North Chicago, IL | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012915326) |
+| **AbbVie** | Manager, AI Learning Programs - L&LD | North Chicago, IL | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014009156) |
+| **Included Health** | Virtual Primary Care Nurse Practitioner | Florida | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/1c49cec8-5550-4aec-92ab-f1f74eb7b540) |
+| **Included Health** | Virtual Primary Care Nurse Practitioner | Texas | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/2ff4e764-f4d5-437f-9e77-3d06c297611b) |
+| **Included Health** | Virtual Primary Care Nurse Practitioner | North Carolina | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/cb38694a-968b-4079-9044-c2f687cd2abe) |
+| **AbbVie** | District Manager, Gastroenterology – ... | Grand Rapids, MI | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014119256) |
+| **CVS Health** | Licensed Vocational Nurse (LVN) | Allen, TX | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Allen/Licensed-Vocational-Nurse--LVN-_R0968248) |
+| **CVS Health** | Licensed Vocational Nurse (LVN) | Red Oak, TX | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Red-Oak/Licensed-Vocational-Nurse--LVN-_R0968253-1) |
+| **CVS Health** | Advance Practice Provider NP/PA | Fort Worth, TX | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Fort-Worth/Advance-Practice-Provider-NP-PA_R0969964) |
+| **LabCorp** | PRN Hospital Phlebotomist - Early Mor... | Birmingham AL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Birmingham-AL/PRN-Hospital-Phlebotomist---Early-Mornings_2628713) |
 | **Fresenius Medical Care** | Licensed Practical Nurse - LPN LVN - ... | Mansfield, OH | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Mansfield-OH/Licensed-Practical-Nurse---LPN-LVN---Acute-Dialysis_R0246471) |
 | **Fresenius Medical Care** | Inpatient Patient Care Technician - P... | Indianapolis, IN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Indianapolis-IN/Inpatient-Patient-Care-Technician---PCT---Dialysis_R0266209) |
 | **Fresenius Medical Care** | Inpatient Registered Nurse - RN - Dia... | Indianapolis, IN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Indianapolis-IN/Inpatient-Registered-Nurse---RN---Dialysis_R0266208) |
@@ -163,31 +163,31 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Laboratory Technician | Beaumont, TX | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000128798059) |
-| **Veolia Environnement SA** | Lab Technician | Ewa Beach, HI | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135554144) |
-| **Smiths Group** | Test Lab Technician - 2nd Shift (Must... | Laconia, NEW HAMPSHIRE | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000122306141) |
-| **Smiths Group** | Test Lab Technician 2nd Shift | Laconia, NEW HAMPSHIRE | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000122308199) |
-| **Smiths Group** | Test Lab Technician - 2nd Shift | 93 Lexington Drive, La... | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000135081780) |
-| **LLNL** | Computational Materials Scientist - P... | Livermore, CA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013644337) |
-| **Intuitive** | Clinical Research Engineer - Future F... | Sunnyvale, CA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000124012339) |
-| **Intuitive** | Clinical Research Engineer - Future F... | Sunnyvale, CA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000134887129) |
-| **Intuitive** | Clinical Trial Assistant | Sunnyvale, CA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000140777349) |
-| **Eurofins** | Laboratory Technician | Minneapolis, MN | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999855576701) |
-| **Eurofins** | Laboratory Technician | Houston, TX | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999820452247) |
-| **Eurofins** | Food Scientist | Lafayette, CO | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999984402188) |
-| **EVERSANA** | HIV Hybrid Medical Science Liaison | Orlando, FL | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000133697619) |
-| **EVERSANA** | HIV Hybrid Medical Science Liaison | Houston, TX | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000133697429) |
-| **Veeva Systems** | Clinical Research Support Specialist | Columbus | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/242155ac-c878-46b0-9b68-880a732cc6f8) |
-| **Veeva Systems** | Consultant - Pharmacovigilance/Safety... | Boston | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/36fe3d11-34fa-4d19-85bc-f0120adad1db) |
-| **Veeva Systems** | AI Consultant - Pharmacovigilance/Saf... | Boston | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/bd25fa26-0de8-496c-98a4-38101dfeadb1) |
-| **AbbVie** | Scientist l, QTAS & ADME Sciences | North Chicago, IL | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013532541) |
-| **AbbVie** | Scientist l, Analytical Operations | North Chicago, IL | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013219126) |
-| **AbbVie** | Scientist I, In Vivo Pharmacology | North Chicago, IL | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013733466) |
-| **Multiply Labs** | Scientist II | San Francisco | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/multiplylabs/903e01c9-800c-46c0-9075-da43859e9c00) |
-| **Convergent Research** | Postdoctoral Research Scientist, OAE ... | Boulder, CO | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/convergentresearch/e62d0373-df49-42f2-ad4d-73d99329d781) |
-| **Convergent Research** | Postdoctoral Research Scientist, Ocea... | Boulder, CO | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/convergentresearch/07147ace-4d67-47de-9a0a-c7add68bbb68) |
-| **Arrive Logistics** | Data Scientist II | Chicago, IL | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/arrivelogistics/2765d8a2-0e24-4f3f-9d38-08cc4202275d) |
-| **Arrive Logistics** | Data Scientist II | Austin, TX | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/arrivelogistics/c9e86c45-39d8-440d-affa-65665d6159aa) |
+| **Veolia Environnement SA** | Laboratory Technician | Beaumont, TX | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000128798059) |
+| **Veolia Environnement SA** | Lab Technician | Ewa Beach, HI | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135554144) |
+| **Smiths Group** | Test Lab Technician - 2nd Shift (Must... | Laconia, NEW HAMPSHIRE | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000122306141) |
+| **Smiths Group** | Test Lab Technician 2nd Shift | Laconia, NEW HAMPSHIRE | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000122308199) |
+| **Smiths Group** | Test Lab Technician - 2nd Shift | 93 Lexington Drive, La... | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000135081780) |
+| **LLNL** | Computational Materials Scientist - P... | Livermore, CA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013644337) |
+| **Intuitive** | Clinical Research Engineer - Future F... | Sunnyvale, CA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000124012339) |
+| **Intuitive** | Clinical Research Engineer - Future F... | Sunnyvale, CA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000134887129) |
+| **Intuitive** | Clinical Trial Assistant | Sunnyvale, CA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000140777349) |
+| **Eurofins** | Laboratory Technician | Minneapolis, MN | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999855576701) |
+| **Eurofins** | Laboratory Technician | Houston, TX | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999820452247) |
+| **Eurofins** | Food Scientist | Lafayette, CO | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999984402188) |
+| **EVERSANA** | HIV Hybrid Medical Science Liaison | Orlando, FL | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000133697619) |
+| **EVERSANA** | HIV Hybrid Medical Science Liaison | Houston, TX | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000133697429) |
+| **Veeva Systems** | Clinical Research Support Specialist | Columbus | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/242155ac-c878-46b0-9b68-880a732cc6f8) |
+| **Veeva Systems** | Consultant - Pharmacovigilance/Safety... | Boston | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/36fe3d11-34fa-4d19-85bc-f0120adad1db) |
+| **Veeva Systems** | AI Consultant - Pharmacovigilance/Saf... | Boston | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/bd25fa26-0de8-496c-98a4-38101dfeadb1) |
+| **AbbVie** | Scientist l, QTAS & ADME Sciences | North Chicago, IL | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013532541) |
+| **AbbVie** | Scientist l, Analytical Operations | North Chicago, IL | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013219126) |
+| **AbbVie** | Scientist I, In Vivo Pharmacology | North Chicago, IL | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013733466) |
+| **Multiply Labs** | Scientist II | San Francisco | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/multiplylabs/903e01c9-800c-46c0-9075-da43859e9c00) |
+| **Convergent Research** | Postdoctoral Research Scientist, OAE ... | Boulder, CO | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/convergentresearch/e62d0373-df49-42f2-ad4d-73d99329d781) |
+| **Convergent Research** | Postdoctoral Research Scientist, Ocea... | Boulder, CO | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/convergentresearch/07147ace-4d67-47de-9a0a-c7add68bbb68) |
+| **Arrive Logistics** | Data Scientist II | Chicago, IL | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/arrivelogistics/2765d8a2-0e24-4f3f-9d38-08cc4202275d) |
+| **Arrive Logistics** | Data Scientist II | Austin, TX | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/arrivelogistics/c9e86c45-39d8-440d-affa-65665d6159aa) |
 | **Bristol Myers Squibb** | Associate Scientist, Analytical Devel... | NJ | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/New-Brunswick---NJ---US/Associate-Scientist--Analytical-Development_R1605262) |
 | **Thermo Fisher Scientific** | Scientist: Steriles Packaging Develop... | Collegeville, Pennsylv... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Collegeville-Pennsylvania-USA/FSP-Scientist--Steriles-Packaging-Development_R-01354069) |
 | **Thermo Fisher Scientific** | Clinical Research Physician(Neurology... | The Villages, Florida,... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/The-Villages-Florida-USA/Clinical-Research-Physician--Principal-Investigator-Sub-Investigator----Part-Time_R-01361946) |
@@ -274,8 +274,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Clinical Specialist, Health Optimization | United States | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
-| **Guidehouse** | Medical Clinical Reviewer / Clinical ... | Mclean, VA | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Medical-Clinical-Reviewer---Clinical-Program-Specialist---Managing-Consultant_42921) |
+| **Google** | Clinical Specialist, Health Optimization | United States | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110970752634626758) |
+| **Guidehouse** | Medical Clinical Reviewer / Clinical ... | Mclean, VA | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Medical-Clinical-Reviewer---Clinical-Program-Specialist---Managing-Consultant_42921) |
 | **Medtronic** | Prin. Vascular Clinical Specialist - ... | Miami, Florida, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Miami-Florida-United-States-of-America/Prin-Vascular-Clinical-Specialist---Miami--FL_R73091-1) |
 | **Abbott** | Field Clinical Specialist | United States of Ameri... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Field-Clinical-Specialist_31157497-1) |
 | **Medtronic** | Clinical Specialist, Cranial & Spinal... | Austin, Texas, United ... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Austin-Texas-United-States-of-America/Clinical-Specialist--Cranial---Spinal-Technologies---Austin--TX_R69408-1) |
@@ -338,38 +338,38 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Laboratory Supervisor | Arkadelphia, AR | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000137508159) |
-| **LLNL** | Atmospheric Sciences - Postdoctoral R... | Livermore, CA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013263506) |
-| **LLNL** | Laser Postdoctoral Researcher - Advan... | Livermore, CA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013144232) |
-| **LLNL** | Operations Research Postdoctoral Rese... | Livermore, CA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990012380987) |
-| **Intuitive** | Field Service  Engineer 2 - Weekend S... | Little Rock, AR | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000134270589) |
-| **Intuitive** | Systems Program Manager - Endoluminal BU | Sunnyvale, CA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139315645) |
-| **Eurofins** | Scientific Operations | Lancaster, PA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715303923) |
-| **Eurofins** | Business Support | Lancaster, PA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715303301) |
-| **Eurofins** | Food Technologist- Product & Process ... | Lafayette, CO | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999984649423) |
-| **EVERSANA** | Medical Editor | Overland Park, KS | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000136094409) |
-| **EVERSANA** | Medical, Legal and Regulatory (MLR) C... | Overland Park, KS | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000134840089) |
-| **EVERSANA** | Salesforce Service Cloud Product Anal... | Boston, MA | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000133638950) |
-| **Veeva Systems** | Services Engagement Manager - Develop... | Boston | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/42b4e20e-9ec4-4304-94ed-695475ace394) |
-| **Veeva Systems** | Services Engagement Manager - Develop... | Madison | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/70ead5eb-013f-4127-aafc-c1487322525a) |
-| **Veeva Systems** | Services Engagement Manager - Develop... | Boston | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/b111f0bb-5494-4553-b3b1-199255ed03b3) |
-| **Toyota Research Institute** | Postdoctoral Researcher, Real-Time Ge... | Los Altos, CA | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/tri/f1f3a5a2-8aaa-41e1-914c-0453489bea1e) |
-| **Ro** | Compounding Pharmacy Technician -  Ro... | Romeoville, IL | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c) |
-| **Ro** | Compounding Pharmacy Technician - Boy... | Boynton Beach, FL | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/4b815c8f-f429-4430-98e1-4b91164627c7) |
-| **Ro** | Compounding Pharmacy Technician - Boy... | Boynton Beach, FL | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/c739f69c-ed8a-4089-9183-ac94b2b06f90) |
-| **AbbVie** | GMP Utility Engineer | Worcester, MA | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012923713) |
-| **AbbVie** | Future Opportunities -Join Our Talent... | North Chicago, IL | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012911482) |
-| **AbbVie** | Technician, Engineering I (M-F) 11:00... | North Chicago, IL | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012910381) |
-| **Included Health** | Urgent Care Physician | Arizona | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/76a2d979-50c3-4cdf-b9e6-837a4c2ce0e3) |
-| **Included Health** | Urgent Care Physician | Arizona | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/7f362d88-d8e4-4ddf-ad52-82c24c04bc78) |
-| **Included Health** | Urgent Care Physician | Indiana | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/8542ee32-242e-4438-9574-60f65266fe96) |
-| **Cigna** | Infusion Nurse II, Cardiopulmonary - ... | Orlando, FL | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Orlando-FL/Infusion-Nurse-II--Cardiopulmonary---Accredo---Winter-Park--FL_26009010) |
-| **Cigna** | Specialty Infusion Field Nurse, Per D... | Pittsburgh, PA | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Pittsburgh-PA/Home-Infusion-Nurse--Per-Diem---Accredo---Clarion--PA_26008256) |
-| **Guidehouse** | Medical Coding & Reimbursement Specia... | Mclean, VA | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Medical-Coding---Reimbursement-Specialist_42919) |
-| **Guidehouse** | Medical Coding & Reimbursement Specia... | Mclean, VA | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Medical-Coding---Reimbursement-Specialist_42920) |
-| **CVS Health** | Pharmacy Technician | Kansas City, MO | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MO---Kansas-City/Pharmacy-Technician_R1013173) |
-| **CVS Health** | Pharmacy Technician Back End | Pittsburgh, PA | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Pittsburgh/Pharmacy-Technician-Back-End_R0891784) |
-| **CVS Health** | Pharmacy Manager | Newland, NC | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Newland/Pharmacy-Manager_R1011845) |
+| **Veolia Environnement SA** | Laboratory Supervisor | Arkadelphia, AR | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000137508159) |
+| **LLNL** | Atmospheric Sciences - Postdoctoral R... | Livermore, CA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013263506) |
+| **LLNL** | Laser Postdoctoral Researcher - Advan... | Livermore, CA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013144232) |
+| **LLNL** | Operations Research Postdoctoral Rese... | Livermore, CA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990012380987) |
+| **Intuitive** | Field Service  Engineer 2 - Weekend S... | Little Rock, AR | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000134270589) |
+| **Intuitive** | Systems Program Manager - Endoluminal BU | Sunnyvale, CA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139315645) |
+| **Eurofins** | Scientific Operations | Lancaster, PA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715303923) |
+| **Eurofins** | Business Support | Lancaster, PA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715303301) |
+| **Eurofins** | Food Technologist- Product & Process ... | Lafayette, CO | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999984649423) |
+| **EVERSANA** | Medical Editor | Overland Park, KS | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000136094409) |
+| **EVERSANA** | Medical, Legal and Regulatory (MLR) C... | Overland Park, KS | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000134840089) |
+| **EVERSANA** | Salesforce Service Cloud Product Anal... | Boston, MA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000133638950) |
+| **Veeva Systems** | Services Engagement Manager - Develop... | Boston | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/42b4e20e-9ec4-4304-94ed-695475ace394) |
+| **Veeva Systems** | Services Engagement Manager - Develop... | Madison | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/70ead5eb-013f-4127-aafc-c1487322525a) |
+| **Veeva Systems** | Services Engagement Manager - Develop... | Boston | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/b111f0bb-5494-4553-b3b1-199255ed03b3) |
+| **Toyota Research Institute** | Postdoctoral Researcher, Real-Time Ge... | Los Altos, CA | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/tri/f1f3a5a2-8aaa-41e1-914c-0453489bea1e) |
+| **Ro** | Compounding Pharmacy Technician -  Ro... | Romeoville, IL | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c) |
+| **Ro** | Compounding Pharmacy Technician - Boy... | Boynton Beach, FL | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/4b815c8f-f429-4430-98e1-4b91164627c7) |
+| **Ro** | Compounding Pharmacy Technician - Boy... | Boynton Beach, FL | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/c739f69c-ed8a-4089-9183-ac94b2b06f90) |
+| **AbbVie** | GMP Utility Engineer | Worcester, MA | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012923713) |
+| **AbbVie** | Future Opportunities -Join Our Talent... | North Chicago, IL | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012911482) |
+| **AbbVie** | Technician, Engineering I (M-F) 11:00... | North Chicago, IL | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012910381) |
+| **Included Health** | Urgent Care Physician | Arizona | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/76a2d979-50c3-4cdf-b9e6-837a4c2ce0e3) |
+| **Included Health** | Urgent Care Physician | Arizona | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/7f362d88-d8e4-4ddf-ad52-82c24c04bc78) |
+| **Included Health** | Urgent Care Physician | Indiana | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/8542ee32-242e-4438-9574-60f65266fe96) |
+| **Cigna** | Infusion Nurse II, Cardiopulmonary - ... | Orlando, FL | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Orlando-FL/Infusion-Nurse-II--Cardiopulmonary---Accredo---Winter-Park--FL_26009010) |
+| **Cigna** | Specialty Infusion Field Nurse, Per D... | Pittsburgh, PA | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Pittsburgh-PA/Home-Infusion-Nurse--Per-Diem---Accredo---Clarion--PA_26008256) |
+| **Guidehouse** | Medical Coding & Reimbursement Specia... | Mclean, VA | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Medical-Coding---Reimbursement-Specialist_42919) |
+| **Guidehouse** | Medical Coding & Reimbursement Specia... | Mclean, VA | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Medical-Coding---Reimbursement-Specialist_42920) |
+| **CVS Health** | Pharmacy Technician | Kansas City, MO | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MO---Kansas-City/Pharmacy-Technician_R1013173) |
+| **CVS Health** | Pharmacy Technician Back End | Pittsburgh, PA | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Pittsburgh/Pharmacy-Technician-Back-End_R0891784) |
+| **CVS Health** | Pharmacy Manager | Newland, NC | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Newland/Pharmacy-Manager_R1011845) |
 | **Fresenius Medical Care** | Clinic Administrative Assistant | Gulfport, MS | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Gulfport-MS/Clinic-Administrative-Assistant_R0249580) |
 | **LabCorp** | IOP Phlebotomist | Birmingham AL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Birmingham-AL/IOP-Phlebotomist_2619898) |
 | **LabCorp** | Phlebotomist Part Time | La Quinta CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/La-Quinta-CA/Phlebotomist-Part-Time_2627430) |
